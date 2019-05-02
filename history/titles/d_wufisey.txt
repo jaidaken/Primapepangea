@@ -1,0 +1,54 @@
+758.2.1 = {
+	holder = 1000907
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_tadodar
+}
+
+805.2.1 = {
+	holder = 1005239
+}
+
+817.2.1 = {
+	holder = 1012377
+}
+
+869.2.1 = {
+	holder = 1014118
+}
+
+875.2.1 = {
+	holder = 1013309
+}
+
+877.2.1 = {
+	holder = 1017626
+}
+
+882.2.1 = {
+	holder = 1017878
+}
+
+930.2.1 = {
+	holder = 1018780
+}
+
+956.2.1 = {
+	holder = 1020616
+}
+
+972.2.1 = {
+	holder = 1021226
+}
+
+1031.2.1 = {
+	holder = 1022979
+}
+
+1033.2.1 = {
+	holder = 1024268
+}
+

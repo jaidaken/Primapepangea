@@ -1,0 +1,5 @@
+	title = c_diray
+	max_settlements = 2
+	culture = dutch
+	religion = sunni
+	b_byosisla = tribal

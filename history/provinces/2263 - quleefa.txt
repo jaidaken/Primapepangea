@@ -1,0 +1,5 @@
+	title = c_quleefa
+	max_settlements = 2
+	culture = saxon
+	religion = zun_pagan_reformed
+	b_aruzoot = tribal

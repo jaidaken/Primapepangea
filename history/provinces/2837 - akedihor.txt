@@ -1,0 +1,5 @@
+	title = c_akedihor
+	max_settlements = 3
+	culture = bengali
+	religion = color
+	b_ranusall = tribal

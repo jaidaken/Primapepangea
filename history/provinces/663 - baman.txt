@@ -1,0 +1,5 @@
+	title = c_baman
+	max_settlements = 2
+	culture = ashkenazi
+	religion = yazidi
+	b_asanigun = tribal

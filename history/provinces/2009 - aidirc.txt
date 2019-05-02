@@ -1,0 +1,5 @@
+	title = c_aidirc
+	max_settlements = 2
+	culture = suebi
+	religion = kharijite
+	b_wusoy = tribal

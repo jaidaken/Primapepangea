@@ -1,0 +1,5 @@
+	title = c_abotofia
+	max_settlements = 3
+	culture = english
+	religion = messalian
+	b_bineon = tribal

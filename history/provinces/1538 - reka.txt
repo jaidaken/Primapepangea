@@ -1,0 +1,5 @@
+	title = c_reka
+	max_settlements = 2
+	culture = hindustani
+	religion = paulician
+	b_rueda = tribal

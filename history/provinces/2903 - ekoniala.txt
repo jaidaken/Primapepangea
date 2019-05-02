@@ -1,0 +1,5 @@
+	title = c_ekoniala
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = kharijite
+	b_waatu = tribal

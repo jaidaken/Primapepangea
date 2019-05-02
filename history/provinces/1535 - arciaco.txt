@@ -1,0 +1,5 @@
+	title = c_arciaco
+	max_settlements = 2
+	culture = romanian
+	religion = iconoclast
+	b_dercatas = tribal

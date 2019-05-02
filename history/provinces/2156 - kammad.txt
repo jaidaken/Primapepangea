@@ -1,0 +1,5 @@
+	title = c_kammad
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = buddhist
+	b_aneefa = tribal

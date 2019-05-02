@@ -1,0 +1,118 @@
+758.2.1 = {
+	holder = 1000004
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000406
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_agisesh
+}
+
+758.2.4 = {
+	holder = 1000404
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1000411
+}
+
+804.2.1 = {
+	holder = 1006345
+}
+
+814.2.1 = {
+	holder = 1011243
+}
+
+817.2.1 = {
+	holder = 1013472
+}
+
+863.2.1 = {
+	liege = d_ranindik
+}
+
+863.2.2 = {
+	liege = d_sutakat
+}
+
+863.2.3 = {
+	holder = 1013637
+}
+
+874.2.1 = {
+	holder = 1017215
+}
+
+921.2.1 = {
+	liege = d_ranindik
+}
+
+921.2.2 = {
+	liege = d_agisesh
+}
+
+921.2.3 = {
+	holder = 1018776
+}
+
+966.2.1 = {
+	holder = 1019984
+}
+
+990.2.1 = {
+	liege = d_ranindik
+}
+
+990.2.2 = {
+	liege = d_sutakat
+}
+
+990.2.3 = {
+	holder = 1022177
+}
+
+1015.2.1 = {
+	liege = d_ranindik
+}
+
+1015.2.2 = {
+	liege = d_agisesh
+}
+
+1015.2.3 = {
+	holder = 1023440
+}
+
+1032.2.1 = {
+	liege = d_ranindik
+}
+
+1032.2.2 = {
+	liege = d_sutakat
+}
+
+1032.2.3 = {
+	holder = 1024223
+}
+
+1059.2.1 = {
+	liege = d_ranindik
+}
+
+1059.2.2 = {
+	liege = d_agisesh
+}
+
+1059.2.3 = {
+	holder = 1024264
+}
+

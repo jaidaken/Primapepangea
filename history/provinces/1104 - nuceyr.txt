@@ -1,0 +1,5 @@
+	title = c_nuceyr
+	max_settlements = 2
+	culture = somali
+	religion = buddhist
+	b_wucadfar = tribal

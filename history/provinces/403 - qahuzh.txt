@@ -1,0 +1,5 @@
+	title = c_qahuzh
+	max_settlements = 2
+	culture = tocharian
+	religion = slavic_pagan
+	b_bavora = tribal

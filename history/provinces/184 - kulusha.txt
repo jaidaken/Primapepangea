@@ -1,0 +1,5 @@
+	title = c_kulusha
+	max_settlements = 2
+	culture = tamil
+	religion = interface_skin
+	b_saepila = tribal

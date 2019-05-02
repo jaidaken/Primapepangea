@@ -1,0 +1,5 @@
+	title = c_wubaula
+	max_settlements = 2
+	culture = frisian
+	religion = yazidi
+	b_qausin = tribal

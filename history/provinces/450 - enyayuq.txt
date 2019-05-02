@@ -1,0 +1,5 @@
+	title = c_enyayuq
+	max_settlements = 2
+	culture = lombard
+	religion = color
+	b_souz = tribal

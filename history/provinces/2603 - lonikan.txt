@@ -1,0 +1,5 @@
+	title = c_lonikan
+	max_settlements = 2
+	culture = manden
+	religion = color
+	b_kanoan = tribal

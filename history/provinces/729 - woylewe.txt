@@ -1,0 +1,5 @@
+	title = c_woylewe
+	max_settlements = 2
+	culture = roman
+	religion = pagan
+	b_azite = tribal

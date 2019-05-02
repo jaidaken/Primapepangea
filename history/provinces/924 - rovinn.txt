@@ -1,0 +1,5 @@
+	title = c_rovinn
+	max_settlements = 3
+	culture = afghan
+	religion = interface_skin
+	b_ejonso = tribal

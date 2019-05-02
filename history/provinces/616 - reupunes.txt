@@ -1,0 +1,5 @@
+	title = c_reupunes
+	max_settlements = 3
+	culture = scottish
+	religion = zun_pagan_reformed
+	b_sanoth = tribal

@@ -1,0 +1,5 @@
+	title = c_letula
+	max_settlements = 2
+	culture = kannada
+	religion = west_african_pagan
+	b_nadurd = tribal

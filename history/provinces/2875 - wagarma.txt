@@ -1,0 +1,5 @@
+	title = c_wagarma
+	max_settlements = 2
+	culture = russian
+	religion = manichean
+	b_kakanga = tribal

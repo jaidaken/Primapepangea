@@ -1,0 +1,5 @@
+	title = c_rakudah
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = lollard
+	b_ebinila = tribal

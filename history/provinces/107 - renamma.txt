@@ -1,0 +1,5 @@
+	title = c_renamma
+	max_settlements = 5
+	culture = danish
+	religion = karaite
+	b_rahim = tribal

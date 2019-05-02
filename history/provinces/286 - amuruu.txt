@@ -1,0 +1,5 @@
+	title = c_amuruu
+	max_settlements = 2
+	culture = ethiopian
+	religion = pagan
+	b_emurara = tribal

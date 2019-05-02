@@ -1,0 +1,5 @@
+	title = c_rorund
+	max_settlements = 2
+	culture = cuman
+	religion = cathar
+	b_lesund = tribal

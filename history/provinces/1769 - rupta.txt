@@ -1,0 +1,5 @@
+	title = c_rupta
+	max_settlements = 2
+	culture = volhynian
+	religion = slavic_pagan_reformed
+	b_ruyanu = tribal

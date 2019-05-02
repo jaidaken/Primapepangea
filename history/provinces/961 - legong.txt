@@ -1,0 +1,5 @@
+	title = c_legong
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = finnish_pagan_reformed
+	b_ruyavat = tribal

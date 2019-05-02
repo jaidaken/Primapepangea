@@ -1,0 +1,5 @@
+	title = c_tisumo
+	max_settlements = 2
+	culture = persian
+	religion = iconoclast
+	b_qasya = tribal

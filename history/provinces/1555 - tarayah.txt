@@ -1,0 +1,5 @@
+	title = c_tarayah
+	max_settlements = 3
+	culture = telugu
+	religion = jain
+	b_sinela = tribal

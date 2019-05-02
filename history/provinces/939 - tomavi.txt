@@ -1,0 +1,5 @@
+	title = c_tomavi
+	max_settlements = 2
+	culture = sindhi
+	religion = hurufi
+	b_romudah = tribal

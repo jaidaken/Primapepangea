@@ -1,0 +1,5 @@
+	title = c_silroy
+	max_settlements = 2
+	culture = sinhala
+	religion = monophysite
+	b_adanely = tribal

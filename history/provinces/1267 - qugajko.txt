@@ -1,0 +1,5 @@
+	title = c_qugajko
+	max_settlements = 2
+	culture = outremer
+	religion = mazdaki
+	b_lilesa = tribal

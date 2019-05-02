@@ -1,0 +1,5 @@
+	title = c_lallad
+	max_settlements = 2
+	culture = tamil
+	religion = slavic_pagan_reformed
+	b_adida = tribal

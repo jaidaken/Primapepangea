@@ -1,0 +1,5 @@
+	title = c_rurarna
+	max_settlements = 2
+	culture = kirghiz
+	religion = lollard
+	b_burumar = tribal

@@ -1,0 +1,5 @@
+	title = c_wetinic
+	max_settlements = 2
+	culture = zhangzhung
+	religion = west_african_pagan
+	b_kiliam = tribal

@@ -1,0 +1,5 @@
+	title = c_kamingus
+	max_settlements = 2
+	culture = polish
+	religion = orthodox
+	b_kamind = tribal

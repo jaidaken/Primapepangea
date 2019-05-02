@@ -1,0 +1,5 @@
+	title = c_ephomeus
+	max_settlements = 2
+	culture = old_frankish
+	religion = jewish
+	b_leraye = tribal

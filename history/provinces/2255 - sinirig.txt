@@ -1,0 +1,5 @@
+	title = c_sinirig
+	max_settlements = 2
+	culture = nubian
+	religion = buddhist
+	b_rabom = tribal

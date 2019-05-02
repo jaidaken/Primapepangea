@@ -1,0 +1,5 @@
+	title = c_tedetu
+	max_settlements = 2
+	culture = soninke
+	religion = finnish_pagan
+	b_ranabi = tribal

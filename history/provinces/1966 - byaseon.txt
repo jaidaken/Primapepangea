@@ -1,0 +1,5 @@
+	title = c_byaseon
+	max_settlements = 2
+	culture = mongol
+	religion = waldensian
+	b_waudand = tribal

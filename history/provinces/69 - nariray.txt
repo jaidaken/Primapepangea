@@ -1,0 +1,5 @@
+	title = c_nariray
+	max_settlements = 2
+	culture = volhynian
+	religion = paulician
+	b_tebuela = tribal

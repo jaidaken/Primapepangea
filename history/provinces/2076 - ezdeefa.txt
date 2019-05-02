@@ -1,0 +1,5 @@
+	title = c_ezdeefa
+	max_settlements = 2
+	culture = saka
+	religion = zoroastrian
+	b_amihad = tribal

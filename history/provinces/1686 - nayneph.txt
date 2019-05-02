@@ -1,0 +1,5 @@
+	title = c_nayneph
+	max_settlements = 2
+	culture = bulgarian
+	religion = fraticelli
+	b_wivadir = tribal

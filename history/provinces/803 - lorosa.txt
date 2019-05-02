@@ -1,0 +1,5 @@
+	title = c_lorosa
+	max_settlements = 4
+	culture = sumpa
+	religion = finnish_pagan_reformed
+	b_ruryuk = tribal

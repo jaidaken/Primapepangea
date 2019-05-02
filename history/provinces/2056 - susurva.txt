@@ -1,0 +1,5 @@
+	title = c_susurva
+	max_settlements = 2
+	culture = bolghar
+	religion = ibadi
+	b_qoteric = tribal

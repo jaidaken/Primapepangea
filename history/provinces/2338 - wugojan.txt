@@ -1,0 +1,5 @@
+	title = c_wugojan
+	max_settlements = 2
+	culture = panjabi
+	religion = pagan
+	b_relen = tribal

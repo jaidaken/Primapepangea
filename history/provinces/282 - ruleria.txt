@@ -1,0 +1,5 @@
+	title = c_ruleria
+	max_settlements = 2
+	culture = jurchen
+	religion = monophysite
+	b_epata = tribal

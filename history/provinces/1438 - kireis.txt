@@ -1,0 +1,5 @@
+	title = c_kireis
+	max_settlements = 3
+	culture = scottish
+	religion = mazdaki
+	b_tallapa = tribal

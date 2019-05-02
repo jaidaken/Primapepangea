@@ -1,0 +1,5 @@
+	title = c_dantia
+	max_settlements = 4
+	culture = manden
+	religion = bon_reformed
+	b_qisa = tribal

@@ -1,0 +1,5 @@
+	title = c_kubella
+	max_settlements = 2
+	culture = han
+	religion = zoroastrian
+	b_kausela = tribal

@@ -1,0 +1,112 @@
+758.2.1 = {
+	holder = 1000046
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002541
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_kodomon
+}
+
+758.2.4 = {
+	holder = 1002542
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1002539
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+796.2.1 = {
+	holder = 1008968
+}
+
+806.2.1 = {
+	holder = 1009478
+}
+
+844.2.1 = {
+	liege = d_aborona
+}
+
+844.2.2 = {
+	holder = 1011162
+}
+
+849.2.1 = {
+	holder = 1012922
+}
+
+850.2.1 = {
+	holder = 1015623
+}
+
+866.2.1 = {
+	liege = d_sadichay
+}
+
+866.2.2 = {
+	holder = 1016994
+}
+
+893.2.1 = {
+	liege = d_aborona
+}
+
+893.2.2 = {
+	holder = 1017488
+}
+
+907.2.1 = {
+	liege = d_sadichay
+}
+
+907.2.2 = {
+	holder = 1019138
+}
+
+930.2.1 = {
+	liege = d_aborona
+}
+
+930.2.2 = {
+	holder = 1019183
+}
+
+965.2.1 = {
+	holder = 1019319
+}
+
+978.2.1 = {
+	holder = 1021821
+}
+
+983.2.1 = {
+	liege = d_sadichay
+}
+
+983.2.2 = {
+	holder = 1022322
+}
+
+1007.2.1 = {
+	liege = d_aborona
+}
+
+1007.2.2 = {
+	holder = 1022532
+}
+
+1059.2.1 = {
+	holder = 1023622
+}
+

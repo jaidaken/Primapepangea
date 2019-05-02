@@ -1,0 +1,5 @@
+	title = c_tadasb
+	max_settlements = 2
+	culture = pecheneg
+	religion = miaphysite
+	b_kamanab = tribal

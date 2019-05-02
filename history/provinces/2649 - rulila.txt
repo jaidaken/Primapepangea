@@ -1,0 +1,5 @@
+	title = c_rulila
+	max_settlements = 2
+	culture = baloch
+	religion = mazdaki
+	b_amanila = tribal

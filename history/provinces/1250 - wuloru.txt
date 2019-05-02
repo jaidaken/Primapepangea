@@ -1,0 +1,5 @@
+	title = c_wuloru
+	max_settlements = 3
+	culture = old_frankish
+	religion = zoroastrian
+	b_lapala = tribal

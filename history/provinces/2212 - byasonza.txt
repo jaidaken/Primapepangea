@@ -1,0 +1,5 @@
+	title = c_byasonza
+	max_settlements = 2
+	culture = old_saxon
+	religion = catholic
+	b_wonigo = tribal

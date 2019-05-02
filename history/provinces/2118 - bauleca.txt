@@ -1,0 +1,5 @@
+	title = c_bauleca
+	max_settlements = 2
+	culture = prussian
+	religion = lollard
+	b_tatind = tribal

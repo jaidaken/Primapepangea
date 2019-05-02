@@ -1,0 +1,5 @@
+	title = c_katelw
+	max_settlements = 2
+	culture = bohemian
+	religion = nestorian
+	b_qanelw = tribal

@@ -1,0 +1,5 @@
+	title = c_seos
+	max_settlements = 2
+	culture = tocharian
+	religion = sunni
+	b_seph = tribal

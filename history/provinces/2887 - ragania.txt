@@ -1,0 +1,5 @@
+	title = c_ragania
+	max_settlements = 2
+	culture = khazar
+	religion = orthodox
+	b_qedonda = tribal

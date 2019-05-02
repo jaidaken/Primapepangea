@@ -1,0 +1,5 @@
+	title = c_kirivia
+	max_settlements = 2
+	culture = frisian
+	religion = druze
+	b_ehubara = tribal

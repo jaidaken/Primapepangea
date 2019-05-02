@@ -1,0 +1,5 @@
+	title = c_daliaco
+	max_settlements = 2
+	culture = sogdian
+	religion = nestorian
+	b_tanekpa = tribal

@@ -1,0 +1,5 @@
+	title = c_kanda
+	max_settlements = 2
+	culture = saka
+	religion = bogomilist
+	b_burako = tribal

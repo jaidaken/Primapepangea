@@ -1,0 +1,5 @@
+	title = c_wutasb
+	max_settlements = 2
+	culture = lombard
+	religion = norse_pagan
+	b_disasb = tribal

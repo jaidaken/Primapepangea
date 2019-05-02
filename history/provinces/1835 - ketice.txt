@@ -1,0 +1,5 @@
+	title = c_ketice
+	max_settlements = 2
+	culture = komi
+	religion = west_african_pagan
+	b_deupigin = tribal

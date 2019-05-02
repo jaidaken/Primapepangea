@@ -1,0 +1,5 @@
+	title = c_beimiy
+	max_settlements = 2
+	culture = lappish
+	religion = bon
+	b_danemar = tribal

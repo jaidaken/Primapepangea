@@ -1,0 +1,5 @@
+	title = c_kilofan
+	max_settlements = 2
+	culture = italian
+	religion = druze
+	b_latard = tribal

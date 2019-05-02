@@ -1,0 +1,5 @@
+	title = c_tyasonso
+	max_settlements = 3
+	culture = pictish
+	religion = monothelite
+	b_nahigo = tribal

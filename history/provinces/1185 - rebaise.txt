@@ -1,0 +1,5 @@
+	title = c_rebaise
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = pagan
+	b_budopir = tribal

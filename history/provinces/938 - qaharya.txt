@@ -1,0 +1,5 @@
+	title = c_qaharya
+	max_settlements = 2
+	culture = basque
+	religion = kharijite
+	b_silujin = tribal

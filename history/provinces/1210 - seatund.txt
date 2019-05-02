@@ -1,0 +1,5 @@
+	title = c_seatund
+	max_settlements = 2
+	culture = dalmatian
+	religion = bogomilist
+	b_esukelun = tribal

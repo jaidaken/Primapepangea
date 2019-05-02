@@ -1,0 +1,5 @@
+	title = c_bavofan
+	max_settlements = 2
+	culture = hungarian
+	religion = catholic
+	b_navemar = tribal

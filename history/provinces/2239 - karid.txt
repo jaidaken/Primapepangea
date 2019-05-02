@@ -1,0 +1,5 @@
+	title = c_karid
+	max_settlements = 3
+	culture = kannada
+	religion = catholic
+	b_nomory = tribal

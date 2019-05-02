@@ -1,0 +1,5 @@
+	title = c_burama
+	max_settlements = 2
+	culture = irish
+	religion = orthodox
+	b_diubine = tribal

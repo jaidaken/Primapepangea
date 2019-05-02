@@ -1,0 +1,5 @@
+	title = c_asini
+	max_settlements = 2
+	culture = soninke
+	religion = samaritan
+	b_qapolas = tribal

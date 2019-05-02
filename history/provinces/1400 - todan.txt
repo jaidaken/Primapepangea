@@ -1,0 +1,5 @@
+	title = c_todan
+	max_settlements = 2
+	culture = karluk
+	religion = khurmazta
+	b_danenr = tribal

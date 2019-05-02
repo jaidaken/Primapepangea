@@ -1,0 +1,5 @@
+	title = c_ketu
+	max_settlements = 2
+	culture = zhangzhung
+	religion = buddhist
+	b_rodigun = tribal

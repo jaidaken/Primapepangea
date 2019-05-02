@@ -1,0 +1,5 @@
+	title = c_tinofia
+	max_settlements = 2
+	culture = armenian
+	religion = ibadi
+	b_titindo = tribal

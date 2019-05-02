@@ -1,0 +1,5 @@
+	title = c_ekuloses
+	max_settlements = 2
+	culture = old_saxon
+	religion = monophysite
+	b_tasonti = tribal

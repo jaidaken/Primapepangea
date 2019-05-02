@@ -1,0 +1,5 @@
+	title = c_decoot
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = taoist
+	b_lala = tribal

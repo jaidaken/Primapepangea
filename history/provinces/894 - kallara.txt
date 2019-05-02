@@ -1,0 +1,5 @@
+	title = c_kallara
+	max_settlements = 2
+	culture = severian
+	religion = nestorian
+	b_adhang = tribal

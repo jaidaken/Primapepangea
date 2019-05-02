@@ -1,0 +1,5 @@
+	title = c_tukelun
+	max_settlements = 3
+	culture = arberian
+	religion = aztec_reformed
+	b_wolun = tribal

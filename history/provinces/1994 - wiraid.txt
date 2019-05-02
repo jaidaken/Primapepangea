@@ -1,0 +1,5 @@
+	title = c_wiraid
+	max_settlements = 2
+	culture = alan
+	religion = west_african_pagan
+	b_wozina = tribal

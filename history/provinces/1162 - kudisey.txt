@@ -1,0 +1,5 @@
+	title = c_kudisey
+	max_settlements = 3
+	culture = kirghiz
+	religion = hellenic_pagan_reformed
+	b_tasodai = tribal

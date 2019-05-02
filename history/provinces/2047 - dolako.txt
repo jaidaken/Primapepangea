@@ -1,0 +1,5 @@
+	title = c_dolako
+	max_settlements = 2
+	culture = pommeranian
+	religion = iconoclast
+	b_katatso = tribal

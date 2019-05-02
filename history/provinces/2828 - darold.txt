@@ -1,0 +1,5 @@
+	title = c_darold
+	max_settlements = 2
+	culture = serbian
+	religion = taoist
+	b_tebudor = tribal

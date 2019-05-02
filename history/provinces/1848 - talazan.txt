@@ -1,0 +1,5 @@
+	title = c_talazan
+	max_settlements = 2
+	culture = roman
+	religion = hellenic_pagan_reformed
+	b_kalili = tribal

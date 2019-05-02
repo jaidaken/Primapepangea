@@ -1,0 +1,5 @@
+	title = c_aboyamiy
+	max_settlements = 2
+	culture = komi
+	religion = taoist
+	b_sekifon = tribal

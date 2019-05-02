@@ -1,0 +1,5 @@
+	title = c_ebosonti
+	max_settlements = 2
+	culture = alan
+	religion = interface_skin
+	b_tadavan = tribal

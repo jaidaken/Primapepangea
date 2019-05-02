@@ -1,0 +1,5 @@
+	title = c_keoretu
+	max_settlements = 2
+	culture = dutch
+	religion = manichean
+	b_wevabi = tribal

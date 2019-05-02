@@ -1,0 +1,5 @@
+	title = c_qutiam
+	max_settlements = 2
+	culture = arberian
+	religion = sunni
+	b_tetiam = tribal

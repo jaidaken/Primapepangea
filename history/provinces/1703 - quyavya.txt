@@ -1,0 +1,5 @@
+	title = c_quyavya
+	max_settlements = 2
+	culture = mongol
+	religion = hellenic_pagan
+	b_kicataw = tribal

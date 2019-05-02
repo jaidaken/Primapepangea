@@ -1,0 +1,200 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000022
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1001274
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_kalita
+}
+
+758.2.5 = {
+	holder = 1001273
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+781.2.1 = {
+	holder = 1006681
+}
+
+795.2.1 = {
+	holder = 1010641
+}
+
+801.2.1 = {
+	holder = 1007499
+}
+
+828.2.1 = {
+	liege = d_ejhusha
+}
+
+828.2.2 = {
+	liege = d_welabi
+}
+
+828.2.3 = {
+	liege = d_taladhi
+}
+
+828.2.4 = {
+	liege = d_tinara
+}
+
+828.2.5 = {
+	holder = 1010603
+}
+
+833.2.1 = {
+	holder = 1014737
+}
+
+835.2.1 = {
+	holder = 1014823
+}
+
+851.2.1 = {
+	liege = d_taladhi
+}
+
+851.2.2 = {
+	holder = 1015987
+}
+
+911.2.1 = {
+	liege = d_tinara
+}
+
+911.2.2 = {
+	holder = 1017087
+}
+
+931.2.1 = {
+	liege = d_taladhi
+}
+
+931.2.2 = {
+	liege = d_tagrat
+}
+
+931.2.3 = {
+	holder = 1019633
+}
+
+931.2.4 = {
+	liege = k_kamuu
+}
+
+937.2.1 = {
+	liege = d_ejhusha
+}
+
+937.2.2 = {
+	liege = d_kalita
+}
+
+937.2.3 = {
+	liege = d_tinara
+}
+
+937.2.4 = {
+	liege = d_taladhi
+}
+
+937.2.5 = {
+	liege = d_tagrat
+}
+
+937.2.6 = {
+	holder = 1020446
+}
+
+937.2.7 = {
+	liege = k_kamuu
+}
+
+951.2.1 = {
+	liege = d_ejhusha
+}
+
+951.2.2 = {
+	liege = d_welabi
+}
+
+951.2.3 = {
+	liege = d_tagrat
+}
+
+951.2.4 = {
+	liege = d_taladhi
+}
+
+951.2.5 = {
+	liege = d_tinara
+}
+
+951.2.6 = {
+	holder = 1020723
+}
+
+954.2.1 = {
+	holder = 1021106
+}
+
+970.2.1 = {
+	liege = d_taladhi
+}
+
+970.2.2 = {
+	liege = d_tagrat
+}
+
+970.2.3 = {
+	holder = 1021221
+}
+
+975.2.1 = {
+	holder = 1021964
+}
+
+1014.2.1 = {
+	holder = 1022216
+}
+
+1033.2.1 = {
+	liege = d_taladhi
+}
+
+1033.2.2 = {
+	liege = d_tinara
+}
+
+1033.2.3 = {
+	holder = 1023601
+}
+
+1043.2.1 = {
+	liege = d_taladhi
+}
+
+1043.2.2 = {
+	liege = d_tagrat
+}
+
+1043.2.3 = {
+	holder = 1024640
+}
+

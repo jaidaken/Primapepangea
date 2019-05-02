@@ -1,0 +1,5 @@
+	title = c_qipila
+	max_settlements = 2
+	culture = catalan
+	religion = pagan
+	b_nipair = tribal

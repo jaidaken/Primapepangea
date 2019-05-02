@@ -1,0 +1,5 @@
+	title = c_batan
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = mazdaki
+	b_tatir = tribal

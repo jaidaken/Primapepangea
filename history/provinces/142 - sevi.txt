@@ -1,0 +1,5 @@
+	title = c_sevi
+	max_settlements = 2
+	culture = bolghar
+	religion = baltic_pagan
+	b_neric = tribal

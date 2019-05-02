@@ -1,0 +1,5 @@
+	title = c_tasumo
+	max_settlements = 3
+	culture = han
+	religion = bogomilist
+	b_lomara = tribal

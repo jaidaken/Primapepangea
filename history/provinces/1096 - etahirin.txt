@@ -1,0 +1,5 @@
+	title = c_etahirin
+	max_settlements = 2
+	culture = saka
+	religion = sunni
+	b_neocikan = tribal

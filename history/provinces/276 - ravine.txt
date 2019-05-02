@@ -1,0 +1,5 @@
+	title = c_ravine
+	max_settlements = 2
+	culture = lithuanian
+	religion = kharijite
+	b_tavine = tribal

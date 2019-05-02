@@ -1,0 +1,5 @@
+	title = c_doryas
+	max_settlements = 5
+	culture = armenian
+	religion = west_african_pagan
+	b_tacai = tribal

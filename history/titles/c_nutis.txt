@@ -1,0 +1,146 @@
+758.2.1 = {
+	holder = 1000089
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1004262
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_tigush
+}
+
+758.2.4 = {
+	holder = 1004260
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1004273
+}
+
+762.2.1 = {
+	liege = d_bezidun
+}
+
+762.2.2 = {
+	holder = 1006538
+}
+
+770.2.1 = {
+	holder = 1008639
+}
+
+795.2.1 = {
+	liege = d_tigush
+}
+
+795.2.2 = {
+	liege = d_dyosonda
+}
+
+795.2.3 = {
+	holder = 1007034
+}
+
+823.2.1 = {
+	holder = 1011847
+}
+
+854.2.1 = {
+	liege = d_tigush
+}
+
+854.2.2 = {
+	liege = d_bezidun
+}
+
+854.2.3 = {
+	liege = d_kasuela
+}
+
+854.2.4 = {
+	holder = 1015564
+}
+
+898.2.1 = {
+	holder = 1016801
+}
+
+923.2.1 = {
+	holder = 1019108
+}
+
+940.2.1 = {
+	liege = d_bezidun
+}
+
+940.2.2 = {
+	liege = d_tigush
+}
+
+940.2.3 = {
+	liege = d_dyosonda
+}
+
+940.2.4 = {
+	holder = 1020431
+}
+
+946.2.1 = {
+	holder = 1020838
+}
+
+963.2.1 = {
+	holder = 1019975
+}
+
+984.2.1 = {
+	liege = d_tigush
+}
+
+984.2.2 = {
+	liege = d_bezidun
+}
+
+984.2.3 = {
+	liege = d_kasuela
+}
+
+984.2.4 = {
+	liege = d_nebuela
+}
+
+984.2.5 = {
+	liege = 0
+}
+
+984.2.6 = {
+	holder = 1022378
+}
+
+1022.2.1 = {
+	holder = 1022552
+}
+
+1042.2.1 = {
+	holder = 1024014
+}
+
+1050.2.1 = {
+	holder = 1024874
+}
+
+1053.2.1 = {
+	holder = 1025032
+}
+
+1061.2.1 = {
+	holder = 1025156
+}
+

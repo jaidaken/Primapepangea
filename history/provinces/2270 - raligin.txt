@@ -1,0 +1,5 @@
+	title = c_raligin
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = finnish_pagan
+	b_tanadu = tribal

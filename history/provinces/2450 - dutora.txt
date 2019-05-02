@@ -1,0 +1,5 @@
+	title = c_dutora
+	max_settlements = 2
+	culture = assyrian
+	religion = norse_pagan
+	b_artina = tribal

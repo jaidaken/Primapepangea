@@ -1,0 +1,5 @@
+	title = c_edobaj
+	max_settlements = 2
+	culture = russian
+	religion = tengri_pagan_reformed
+	b_rudev = tribal

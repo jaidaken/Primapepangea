@@ -1,0 +1,5 @@
+	title = c_teoreka
+	max_settlements = 2
+	culture = breton
+	religion = aztec
+	b_sinaton = tribal

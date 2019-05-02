@@ -1,0 +1,5 @@
+	title = c_bobanta
+	max_settlements = 3
+	culture = lombard
+	religion = bogomilist
+	b_nalumar = tribal

@@ -1,0 +1,5 @@
+	title = c_qalabib
+	max_settlements = 2
+	culture = dalmatian
+	religion = hindu
+	b_laqiq = tribal

@@ -1,0 +1,5 @@
+	title = c_bakabah
+	max_settlements = 3
+	culture = persian
+	religion = miaphysite
+	b_rakyas = tribal

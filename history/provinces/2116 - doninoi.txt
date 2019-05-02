@@ -1,0 +1,5 @@
+	title = c_doninoi
+	max_settlements = 4
+	culture = pictish
+	religion = taoist
+	b_ragavai = tribal

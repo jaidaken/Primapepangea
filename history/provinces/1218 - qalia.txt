@@ -1,0 +1,5 @@
+	title = c_qalia
+	max_settlements = 2
+	culture = mordvin
+	religion = hurufi
+	b_koul = tribal

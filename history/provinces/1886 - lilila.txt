@@ -1,0 +1,5 @@
+	title = c_lilila
+	max_settlements = 2
+	culture = scottish
+	religion = west_african_pagan
+	b_biibike = tribal

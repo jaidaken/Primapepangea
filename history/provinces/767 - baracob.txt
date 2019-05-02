@@ -1,0 +1,5 @@
+	title = c_baracob
+	max_settlements = 2
+	culture = castillan
+	religion = fraticelli
+	b_nartan = tribal

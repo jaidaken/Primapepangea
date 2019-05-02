@@ -1,0 +1,5 @@
+	title = c_rudella
+	max_settlements = 2
+	culture = sephardi
+	religion = samaritan
+	b_nivia = tribal

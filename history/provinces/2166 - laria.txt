@@ -1,0 +1,5 @@
+	title = c_laria
+	max_settlements = 3
+	culture = occitan
+	religion = west_african_pagan_reformed
+	b_koxeco = tribal

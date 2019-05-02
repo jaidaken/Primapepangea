@@ -1,0 +1,5 @@
+	title = c_tivurak
+	max_settlements = 2
+	culture = bohemian
+	religion = interface_skin
+	b_kaniam = tribal

@@ -1,0 +1,5 @@
+	title = c_sudeph
+	max_settlements = 2
+	culture = hungarian
+	religion = zun_pagan_reformed
+	b_tijagni = tribal

@@ -1,0 +1,5 @@
+	title = c_katoito
+	max_settlements = 2
+	culture = tamil
+	religion = taoist
+	b_tuohaca = tribal

@@ -1,0 +1,5 @@
+	title = c_larei
+	max_settlements = 2
+	culture = ethiopian
+	religion = manichean
+	b_kyaa = tribal

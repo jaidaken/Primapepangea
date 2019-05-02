@@ -1,0 +1,5 @@
+	title = c_ariibona
+	max_settlements = 2
+	culture = bohemian
+	religion = cathar
+	b_tesavin = tribal

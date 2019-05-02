@@ -1,0 +1,5 @@
+	title = c_rarcus
+	max_settlements = 2
+	culture = kannada
+	religion = finnish_pagan
+	b_kahim = tribal

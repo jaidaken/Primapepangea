@@ -1,0 +1,294 @@
+758.2.1 = {
+	holder = 1000009
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000073
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1003753
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_tulaham
+}
+
+758.2.5 = {
+	holder = 1003754
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.6 = {
+	holder = 1003751
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+764.2.1 = {
+	holder = 1006788
+}
+
+772.2.1 = {
+	holder = 1004621
+}
+
+798.2.1 = {
+	liege = d_nuryuva
+}
+
+798.2.2 = {
+	liege = d_natupta
+}
+
+798.2.3 = {
+	holder = 1007291
+}
+
+798.2.4 = {
+	liege = k_niridhin
+}
+
+807.2.1 = {
+	liege = d_wesetar
+}
+
+807.2.2 = {
+	liege = d_nuryuva
+}
+
+807.2.3 = {
+	liege = d_tulaham
+}
+
+807.2.4 = {
+	liege = d_teruna
+}
+
+807.2.5 = {
+	liege = d_natupta
+}
+
+807.2.6 = {
+	holder = 1012535
+}
+
+845.2.1 = {
+	holder = 1013036
+}
+
+864.2.1 = {
+	holder = 1016179
+}
+
+864.2.2 = {
+	liege = k_niridhin
+}
+
+878.2.1 = {
+	liege = d_nuryuva
+}
+
+878.2.2 = {
+	liege = d_wesetar
+}
+
+878.2.3 = {
+	liege = d_sarenda
+}
+
+878.2.4 = {
+	liege = d_teruna
+}
+
+878.2.5 = {
+	liege = d_natupta
+}
+
+878.2.6 = {
+	holder = 1017341
+}
+
+878.2.7 = {
+	liege = k_niridhin
+}
+
+923.2.1 = {
+	liege = d_wesetar
+}
+
+923.2.2 = {
+	liege = d_nuryuva
+}
+
+923.2.3 = {
+	liege = d_tulaham
+}
+
+923.2.4 = {
+	liege = d_teruna
+}
+
+923.2.5 = {
+	liege = d_natupta
+}
+
+923.2.6 = {
+	holder = 1017529
+}
+
+943.2.1 = {
+	holder = 1020034
+}
+
+943.2.2 = {
+	liege = k_niridhin
+}
+
+948.2.1 = {
+	liege = d_nuryuva
+}
+
+948.2.2 = {
+	liege = d_wesetar
+}
+
+948.2.3 = {
+	liege = d_sarenda
+}
+
+948.2.4 = {
+	liege = d_teruna
+}
+
+948.2.5 = {
+	liege = d_natupta
+}
+
+948.2.6 = {
+	holder = 1020881
+}
+
+948.2.7 = {
+	liege = k_niridhin
+}
+
+989.2.1 = {
+	liege = d_nuryuva
+}
+
+989.2.2 = {
+	liege = d_wesetar
+}
+
+989.2.3 = {
+	liege = d_sarenda
+}
+
+989.2.4 = {
+	liege = d_teruna
+}
+
+989.2.5 = {
+	liege = d_natupta
+}
+
+989.2.6 = {
+	holder = 1020969
+}
+
+989.2.7 = {
+	liege = k_niridhin
+}
+
+1010.2.1 = {
+	liege = d_wesetar
+}
+
+1010.2.2 = {
+	liege = d_nuryuva
+}
+
+1010.2.3 = {
+	liege = d_tulaham
+}
+
+1010.2.4 = {
+	liege = d_teruna
+}
+
+1010.2.5 = {
+	liege = d_natupta
+}
+
+1010.2.6 = {
+	holder = 1023209
+}
+
+1029.2.1 = {
+	holder = 1023834
+}
+
+1029.2.2 = {
+	liege = k_niridhin
+}
+
+1030.2.1 = {
+	liege = d_nuryuva
+}
+
+1030.2.2 = {
+	liege = d_wesetar
+}
+
+1030.2.3 = {
+	liege = d_sarenda
+}
+
+1030.2.4 = {
+	liege = d_teruna
+}
+
+1030.2.5 = {
+	liege = d_natupta
+}
+
+1030.2.6 = {
+	holder = 1024134
+}
+
+1030.2.7 = {
+	liege = k_niridhin
+}
+
+1040.2.1 = {
+	liege = d_wesetar
+}
+
+1040.2.2 = {
+	liege = d_nuryuva
+}
+
+1040.2.3 = {
+	liege = d_tulaham
+}
+
+1040.2.4 = {
+	liege = d_teruna
+}
+
+1040.2.5 = {
+	liege = d_natupta
+}
+
+1040.2.6 = {
+	holder = 1024303
+}
+

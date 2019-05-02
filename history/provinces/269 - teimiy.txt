@@ -1,0 +1,5 @@
+	title = c_teimiy
+	max_settlements = 2
+	culture = ethiopian
+	religion = finnish_pagan_reformed
+	b_danifon = tribal

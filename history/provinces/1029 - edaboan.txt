@@ -1,0 +1,5 @@
+	title = c_edaboan
+	max_settlements = 2
+	culture = nepali
+	religion = monothelite
+	b_sakine = tribal

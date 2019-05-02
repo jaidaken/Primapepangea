@@ -1,0 +1,5 @@
+	title = c_tidheka
+	max_settlements = 2
+	culture = breton
+	religion = hellenic_pagan_reformed
+	b_kugeka = tribal

@@ -1,0 +1,5 @@
+	title = c_tezigun
+	max_settlements = 2
+	culture = lettigallish
+	religion = catholic
+	b_liibuu = tribal

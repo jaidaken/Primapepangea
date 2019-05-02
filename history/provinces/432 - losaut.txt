@@ -1,0 +1,5 @@
+	title = c_losaut
+	max_settlements = 2
+	culture = zhangzhung
+	religion = monothelite
+	b_rediga = tribal

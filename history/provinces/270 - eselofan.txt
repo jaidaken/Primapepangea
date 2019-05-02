@@ -1,0 +1,5 @@
+	title = c_eselofan
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = hindu
+	b_lacimiy = tribal

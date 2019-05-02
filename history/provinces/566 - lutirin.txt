@@ -1,0 +1,5 @@
+	title = c_lutirin
+	max_settlements = 5
+	culture = kannada
+	religion = west_african_pagan
+	b_wiririn = tribal

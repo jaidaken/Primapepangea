@@ -1,0 +1,5 @@
+	title = c_bisyuk
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = karaite
+	b_wanadfar = tribal

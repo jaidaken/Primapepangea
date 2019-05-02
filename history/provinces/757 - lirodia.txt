@@ -1,0 +1,5 @@
+	title = c_lirodia
+	max_settlements = 4
+	culture = volhynian
+	religion = bon_reformed
+	b_rakulia = tribal

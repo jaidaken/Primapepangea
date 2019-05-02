@@ -1,0 +1,5 @@
+	title = c_temiaco
+	max_settlements = 3
+	culture = tangut
+	religion = khurmazta
+	b_karaja = tribal

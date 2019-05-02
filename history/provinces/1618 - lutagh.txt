@@ -1,0 +1,5 @@
+	title = c_lutagh
+	max_settlements = 2
+	culture = sindhi
+	religion = monophysite
+	b_rezaway = tribal

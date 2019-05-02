@@ -1,0 +1,5 @@
+	title = c_ninarka
+	max_settlements = 2
+	culture = armenian
+	religion = baltic_pagan_reformed
+	b_sulavi = tribal

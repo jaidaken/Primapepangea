@@ -1,0 +1,5 @@
+	title = c_nibijah
+	max_settlements = 2
+	culture = carantanian
+	religion = yazidi
+	b_ribarna = tribal

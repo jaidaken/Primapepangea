@@ -1,0 +1,5 @@
+	title = c_quleth
+	max_settlements = 2
+	culture = swedish
+	religion = jewish
+	b_kipovan = tribal

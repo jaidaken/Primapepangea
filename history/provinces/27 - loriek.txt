@@ -1,0 +1,5 @@
+	title = c_loriek
+	max_settlements = 2
+	culture = bodpa
+	religion = orthodox
+	b_watinic = tribal

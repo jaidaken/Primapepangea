@@ -1,0 +1,5 @@
+	title = c_ranur
+	max_settlements = 2
+	culture = oriya
+	religion = jewish
+	b_azueri = tribal

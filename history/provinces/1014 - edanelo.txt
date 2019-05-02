@@ -1,0 +1,5 @@
+	title = c_edanelo
+	max_settlements = 2
+	culture = tocharian
+	religion = monothelite
+	b_tanana = tribal

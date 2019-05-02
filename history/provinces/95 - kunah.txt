@@ -1,0 +1,5 @@
+	title = c_kunah
+	max_settlements = 3
+	culture = bengali
+	religion = finnish_pagan
+	b_kigiek = tribal

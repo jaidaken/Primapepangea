@@ -1,0 +1,5 @@
+	title = c_nanili
+	max_settlements = 2
+	culture = sumpa
+	religion = slavic_pagan
+	b_tobazan = tribal

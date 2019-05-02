@@ -1,0 +1,5 @@
+	title = c_danurak
+	max_settlements = 2
+	culture = kurdish
+	religion = kharijite
+	b_dedazan = tribal

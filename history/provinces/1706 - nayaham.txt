@@ -1,0 +1,5 @@
+	title = c_nayaham
+	max_settlements = 2
+	culture = gujurati
+	religion = aztec
+	b_betyuva = tribal

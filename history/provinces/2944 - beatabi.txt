@@ -1,0 +1,5 @@
+	title = c_beatabi
+	max_settlements = 2
+	culture = welsh
+	religion = paulician
+	b_nanusha = tribal

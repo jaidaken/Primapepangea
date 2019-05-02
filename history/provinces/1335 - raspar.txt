@@ -1,0 +1,5 @@
+	title = c_raspar
+	max_settlements = 2
+	culture = kanuri
+	religion = bon
+	b_loran = tribal

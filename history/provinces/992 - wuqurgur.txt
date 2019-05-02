@@ -1,0 +1,5 @@
+	title = c_wuqurgur
+	max_settlements = 2
+	culture = bolghar
+	religion = norse_pagan
+	b_reusaman = tribal

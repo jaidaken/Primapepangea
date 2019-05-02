@@ -1,0 +1,5 @@
+	title = c_rodonse
+	max_settlements = 2
+	culture = zaghawa
+	religion = norse_pagan
+	b_wanijah = tribal

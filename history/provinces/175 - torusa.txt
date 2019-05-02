@@ -1,0 +1,5 @@
+	title = c_torusa
+	max_settlements = 2
+	culture = norse
+	religion = tengri_pagan
+	b_kulusa = tribal

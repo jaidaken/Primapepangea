@@ -1,0 +1,5 @@
+	title = c_quohata
+	max_settlements = 2
+	culture = kanuri
+	religion = color
+	b_waepata = tribal

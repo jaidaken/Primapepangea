@@ -1,0 +1,5 @@
+	title = c_razika
+	max_settlements = 2
+	culture = somali
+	religion = karaite
+	b_nirahar = tribal

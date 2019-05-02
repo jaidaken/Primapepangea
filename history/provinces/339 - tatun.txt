@@ -1,0 +1,5 @@
+	title = c_tatun
+	max_settlements = 6
+	culture = greek
+	religion = baltic_pagan
+	b_kaveyu = tribal

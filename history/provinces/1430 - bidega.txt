@@ -1,0 +1,5 @@
+	title = c_bidega
+	max_settlements = 2
+	culture = daju
+	religion = baltic_pagan_reformed
+	b_kiejaki = tribal

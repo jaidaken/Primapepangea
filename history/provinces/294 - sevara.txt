@@ -1,0 +1,5 @@
+	title = c_sevara
+	max_settlements = 2
+	culture = ilmenian
+	religion = tengri_pagan_reformed
+	b_ledara = tribal

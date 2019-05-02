@@ -1,0 +1,5 @@
+	title = c_tulakr
+	max_settlements = 2
+	culture = gujurati
+	religion = zikri
+	b_dularka = tribal

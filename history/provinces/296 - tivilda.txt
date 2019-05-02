@@ -1,0 +1,5 @@
+	title = c_tivilda
+	max_settlements = 2
+	culture = samoyed
+	religion = interface_skin
+	b_ninofie = tribal

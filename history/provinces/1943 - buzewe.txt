@@ -1,0 +1,5 @@
+	title = c_buzewe
+	max_settlements = 2
+	culture = kurdish
+	religion = monophysite
+	b_devan = tribal

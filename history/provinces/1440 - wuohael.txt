@@ -1,0 +1,5 @@
+	title = c_wuohael
+	max_settlements = 3
+	culture = cuman
+	religion = west_african_pagan_reformed
+	b_deria = tribal

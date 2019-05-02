@@ -1,0 +1,5 @@
+	title = c_keudathe
+	max_settlements = 4
+	culture = soninke
+	religion = pagan
+	b_ezdora = tribal

@@ -1,0 +1,5 @@
+	title = c_wanir
+	max_settlements = 3
+	culture = ethiopian
+	religion = shiite
+	b_teranay = tribal

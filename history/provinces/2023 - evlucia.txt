@@ -1,0 +1,5 @@
+	title = c_evlucia
+	max_settlements = 3
+	culture = sinhala
+	religion = interface_skin
+	b_nalavka = tribal

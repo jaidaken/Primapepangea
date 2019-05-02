@@ -1,0 +1,5 @@
+	title = c_dalayra
+	max_settlements = 2
+	culture = baloch
+	religion = messalian
+	b_kalife = tribal

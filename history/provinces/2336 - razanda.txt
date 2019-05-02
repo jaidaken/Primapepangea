@@ -1,0 +1,5 @@
+	title = c_razanda
+	max_settlements = 3
+	culture = mordvin
+	religion = yazidi
+	b_lalanda = tribal

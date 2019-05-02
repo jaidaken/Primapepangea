@@ -1,0 +1,134 @@
+758.2.1 = {
+	holder = 1004347
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_ligen
+}
+
+758.2.3 = {
+	holder = 1004348
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	holder = 1004345
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+803.2.1 = {
+	liege = d_kezole
+}
+
+803.2.2 = {
+	holder = 1006025
+}
+
+803.2.3 = {
+	liege = d_ligen
+}
+
+810.2.1 = {
+	liege = d_kezole
+}
+
+810.2.2 = {
+	holder = 1007086
+}
+
+810.2.3 = {
+	liege = k_abeatatt
+}
+
+819.2.1 = {
+	liege = d_ligen
+}
+
+819.2.2 = {
+	liege = d_kezole
+}
+
+819.2.3 = {
+	holder = 1012780
+}
+
+819.2.4 = {
+	liege = k_abeatatt
+}
+
+835.2.1 = {
+	liege = d_kezole
+}
+
+835.2.2 = {
+	liege = d_ligen
+}
+
+835.2.3 = {
+	holder = 1014941
+}
+
+882.2.1 = {
+	liege = d_kezole
+}
+
+882.2.2 = {
+	holder = 1013142
+}
+
+883.2.1 = {
+	holder = 1017970
+}
+
+889.2.1 = {
+	holder = 1018033
+}
+
+913.2.1 = {
+	liege = d_ligen
+}
+
+913.2.2 = {
+	holder = 1019028
+}
+
+930.2.1 = {
+	liege = d_kezole
+}
+
+930.2.2 = {
+	holder = 1020196
+}
+
+955.2.1 = {
+	liege = d_ligen
+}
+
+955.2.2 = {
+	holder = 1020270
+}
+
+987.2.1 = {
+	holder = 1021595
+}
+
+1007.2.1 = {
+	liege = d_kezole
+}
+
+1007.2.2 = {
+	holder = 1023279
+}
+
+1050.2.1 = {
+	holder = 1023427
+}
+
+1052.2.1 = {
+	holder = 1025033
+}
+

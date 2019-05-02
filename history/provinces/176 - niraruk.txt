@@ -1,0 +1,5 @@
+	title = c_niraruk
+	max_settlements = 2
+	culture = zhangzhung
+	religion = ibadi
+	b_birela = tribal

@@ -1,0 +1,122 @@
+758.2.1 = {
+	holder = 1000064
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1003333
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_apetike
+}
+
+758.2.4 = {
+	liege = d_lasi
+}
+
+758.2.5 = {
+	holder = 1003339
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+806.2.1 = {
+	holder = 1006766
+}
+
+809.2.1 = {
+	holder = 1006254
+}
+
+818.2.1 = {
+	holder = 1009170
+}
+
+835.2.1 = {
+	liege = d_lagena
+}
+
+835.2.2 = {
+	liege = d_turarna
+}
+
+835.2.3 = {
+	holder = 1014164
+}
+
+836.2.1 = {
+	holder = 1014046
+}
+
+847.2.1 = {
+	liege = d_apetike
+}
+
+847.2.2 = {
+	holder = 1015422
+}
+
+858.2.1 = {
+	holder = 1016468
+}
+
+864.2.1 = {
+	liege = d_turarna
+}
+
+864.2.2 = {
+	holder = 1016866
+}
+
+883.2.1 = {
+	liege = d_apetike
+}
+
+883.2.2 = {
+	holder = 1017956
+}
+
+888.2.1 = {
+	holder = 1018207
+}
+
+890.2.1 = {
+	holder = 1018323
+}
+
+924.2.1 = {
+	holder = 1018478
+}
+
+951.2.1 = {
+	liege = d_turarna
+}
+
+951.2.2 = {
+	holder = 1020703
+}
+
+999.2.1 = {
+	holder = 1021588
+}
+
+1016.2.1 = {
+	liege = d_apetike
+}
+
+1016.2.2 = {
+	holder = 1023551
+}
+
+1028.2.1 = {
+	liege = d_turarna
+}
+
+1028.2.2 = {
+	holder = 1024082
+}
+

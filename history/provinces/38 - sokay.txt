@@ -1,0 +1,5 @@
+	title = c_sokay
+	max_settlements = 2
+	culture = turkish
+	religion = nestorian
+	b_dacid = tribal

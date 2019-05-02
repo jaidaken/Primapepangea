@@ -1,0 +1,5 @@
+	title = c_aclurak
+	max_settlements = 2
+	culture = samoyed
+	religion = shiite
+	b_eviveph = tribal

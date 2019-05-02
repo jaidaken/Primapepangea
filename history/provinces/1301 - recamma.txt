@@ -1,0 +1,5 @@
+	title = c_recamma
+	max_settlements = 2
+	culture = khitan
+	religion = hurufi
+	b_demahim = tribal

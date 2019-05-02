@@ -1,0 +1,5 @@
+	title = c_nudora
+	max_settlements = 2
+	culture = tamil
+	religion = hindu
+	b_ramukp = tribal

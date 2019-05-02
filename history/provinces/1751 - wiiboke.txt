@@ -1,0 +1,5 @@
+	title = c_wiiboke
+	max_settlements = 2
+	culture = nahuatl
+	religion = aztec
+	b_rairoke = tribal

@@ -1,0 +1,5 @@
+	title = c_roorund
+	max_settlements = 2
+	culture = swedish
+	religion = pagan
+	b_toumyne = tribal

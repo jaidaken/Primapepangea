@@ -1,0 +1,5 @@
+	title = c_tanetar
+	max_settlements = 2
+	culture = bodpa
+	religion = bogomilist
+	b_dukulin = tribal

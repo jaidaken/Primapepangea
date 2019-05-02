@@ -1,0 +1,5 @@
+	title = c_kosarya
+	max_settlements = 2
+	culture = lettigallish
+	religion = zikri
+	b_tenda = tribal

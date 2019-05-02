@@ -1,0 +1,5 @@
+	title = c_ricarda
+	max_settlements = 2
+	culture = russian
+	religion = buddhist
+	b_tasar = tribal

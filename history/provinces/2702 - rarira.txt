@@ -1,0 +1,5 @@
+	title = c_rarira
+	max_settlements = 4
+	culture = norman
+	religion = tengri_pagan
+	b_asisina = tribal

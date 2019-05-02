@@ -1,0 +1,5 @@
+	title = c_keupofan
+	max_settlements = 2
+	culture = turkish
+	religion = pagan
+	b_bagimiy = tribal

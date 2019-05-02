@@ -1,0 +1,5 @@
+	title = c_kumega
+	max_settlements = 2
+	culture = bodpa
+	religion = jewish
+	b_lohemey = tribal

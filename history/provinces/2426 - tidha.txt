@@ -1,0 +1,5 @@
+	title = c_tidha
+	max_settlements = 2
+	culture = volhynian
+	religion = aztec
+	b_bininha = tribal

@@ -1,0 +1,5 @@
+	title = c_deslaw
+	max_settlements = 2
+	culture = catalan
+	religion = color
+	b_qabeyu = tribal

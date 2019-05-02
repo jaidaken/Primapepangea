@@ -1,0 +1,5 @@
+	title = c_lidhaud
+	max_settlements = 2
+	culture = pommeranian
+	religion = nestorian
+	b_tisu = tribal

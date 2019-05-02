@@ -1,0 +1,5 @@
+	title = c_rora
+	max_settlements = 2
+	culture = bosnian
+	religion = khurmazta
+	b_tataqra = tribal

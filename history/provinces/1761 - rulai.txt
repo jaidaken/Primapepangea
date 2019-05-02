@@ -1,0 +1,5 @@
+	title = c_rulai
+	max_settlements = 4
+	culture = scottish
+	religion = pagan
+	b_somila = tribal

@@ -1,0 +1,5 @@
+	title = c_sanofan
+	max_settlements = 2
+	culture = arberian
+	religion = jain
+	b_weryai = tribal

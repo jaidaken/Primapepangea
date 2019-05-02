@@ -1,0 +1,5 @@
+	title = c_keineefa
+	max_settlements = 2
+	culture = sogdian
+	religion = aztec
+	b_to-lua = tribal

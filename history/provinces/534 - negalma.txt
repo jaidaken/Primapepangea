@@ -1,0 +1,5 @@
+	title = c_negalma
+	max_settlements = 2
+	culture = greek
+	religion = bon_reformed
+	b_rega = tribal

@@ -1,0 +1,5 @@
+	title = c_kuinuin
+	max_settlements = 2
+	culture = lettigallish
+	religion = monophysite
+	b_kilakoi = tribal

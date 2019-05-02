@@ -1,0 +1,5 @@
+	title = c_qodara
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = buddhist
+	b_qiibuu = tribal

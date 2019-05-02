@@ -1,0 +1,5 @@
+	title = c_kacura
+	max_settlements = 2
+	culture = mordvin
+	religion = jewish
+	b_agarura = tribal

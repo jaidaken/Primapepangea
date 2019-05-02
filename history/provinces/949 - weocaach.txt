@@ -1,0 +1,5 @@
+	title = c_weocaach
+	max_settlements = 2
+	culture = gujurati
+	religion = zoroastrian
+	b_sakkal = tribal

@@ -1,0 +1,5 @@
+	title = c_esirasa
+	max_settlements = 2
+	culture = sinhala
+	religion = zun_pagan_reformed
+	b_latela = tribal

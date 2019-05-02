@@ -1,0 +1,5 @@
+	title = c_tanabha
+	max_settlements = 3
+	culture = soninke
+	religion = druze
+	b_kagaugas = tribal

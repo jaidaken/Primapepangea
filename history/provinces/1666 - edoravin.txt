@@ -1,0 +1,5 @@
+	title = c_edoravin
+	max_settlements = 2
+	culture = nahuatl
+	religion = zoroastrian
+	b_kitessa = tribal

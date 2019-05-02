@@ -1,0 +1,5 @@
+	title = c_ragonda
+	max_settlements = 2
+	culture = turkish
+	religion = aztec
+	b_tibonda = tribal

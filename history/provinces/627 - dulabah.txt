@@ -1,0 +1,5 @@
+	title = c_dulabah
+	max_settlements = 2
+	culture = khitan
+	religion = waldensian
+	b_sidah = tribal

@@ -1,0 +1,5 @@
+	title = c_bauliulf
+	max_settlements = 2
+	culture = hungarian
+	religion = ibadi
+	b_naulance = tribal

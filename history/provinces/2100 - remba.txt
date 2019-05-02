@@ -1,0 +1,5 @@
+	title = c_remba
+	max_settlements = 2
+	culture = bodpa
+	religion = hellenic_pagan_reformed
+	b_wiibeas = tribal

@@ -1,0 +1,210 @@
+758.2.1 = {
+	holder = 1000083
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1004147
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_amonza
+}
+
+758.2.4 = {
+	holder = 1004145
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+786.2.1 = {
+	holder = 1004763
+}
+
+797.2.1 = {
+	holder = 1006289
+}
+
+803.2.1 = {
+	liege = d_lirand
+}
+
+803.2.2 = {
+	liege = d_aloo
+}
+
+803.2.3 = {
+	holder = 1006527
+}
+
+818.2.1 = {
+	liege = d_darand
+}
+
+818.2.2 = {
+	holder = 1011083
+}
+
+818.2.3 = {
+	liege = k_ezanda
+}
+
+838.2.1 = {
+	liege = d_kahio
+}
+
+838.2.2 = {
+	liege = d_tyasavai
+}
+
+838.2.3 = {
+	liege = d_darand
+}
+
+838.2.4 = {
+	liege = d_aloo
+}
+
+838.2.5 = {
+	liege = d_lirand
+}
+
+838.2.6 = {
+	liege = d_amonza
+}
+
+838.2.7 = {
+	liege = d_qirofia
+}
+
+838.2.8 = {
+	holder = 1014332
+}
+
+838.2.9 = {
+	liege = k_ezanda
+}
+
+859.2.1 = {
+	liege = d_naliata
+}
+
+859.2.2 = {
+	liege = d_ranopo
+}
+
+859.2.3 = {
+	liege = d_tyasavai
+}
+
+859.2.4 = {
+	liege = d_kahio
+}
+
+859.2.5 = {
+	liege = d_amonza
+}
+
+859.2.6 = {
+	liege = d_lirand
+}
+
+859.2.7 = {
+	liege = d_aloo
+}
+
+859.2.8 = {
+	liege = d_darand
+}
+
+859.2.9 = {
+	holder = 1016017
+}
+
+881.2.1 = {
+	holder = 1017059
+}
+
+888.2.1 = {
+	holder = 1017571
+}
+
+901.2.1 = {
+	liege = d_aloo
+}
+
+901.2.2 = {
+	liege = d_lirand
+}
+
+901.2.3 = {
+	liege = d_amonza
+}
+
+901.2.4 = {
+	holder = 1018655
+}
+
+930.2.1 = {
+	liege = d_lirand
+}
+
+930.2.2 = {
+	liege = d_aloo
+}
+
+930.2.3 = {
+	liege = d_darand
+}
+
+930.2.4 = {
+	holder = 1019482
+}
+
+937.2.1 = {
+	holder = 1020350
+}
+
+973.2.1 = {
+	holder = 1021065
+}
+
+995.2.1 = {
+	liege = d_aloo
+}
+
+995.2.2 = {
+	liege = d_lirand
+}
+
+995.2.3 = {
+	liege = d_amonza
+}
+
+995.2.4 = {
+	holder = 1022366
+}
+
+1014.2.1 = {
+	liege = d_lirand
+}
+
+1014.2.2 = {
+	liege = d_aloo
+}
+
+1014.2.3 = {
+	liege = d_darand
+}
+
+1014.2.4 = {
+	holder = 1023161
+}
+
+1019.2.1 = {
+	holder = 1023737
+}
+

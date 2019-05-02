@@ -1,0 +1,5 @@
+	title = c_rarna
+	max_settlements = 2
+	culture = norwegian
+	religion = hellenic_pagan
+	b_ragulev = tribal

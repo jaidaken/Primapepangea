@@ -1,0 +1,5 @@
+	title = c_tavugun
+	max_settlements = 2
+	culture = lombard
+	religion = mazdaki
+	b_kesatun = tribal

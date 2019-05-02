@@ -1,0 +1,5 @@
+	title = c_tenand
+	max_settlements = 2
+	culture = turkish
+	religion = monophysite
+	b_kagarz = tribal

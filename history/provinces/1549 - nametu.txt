@@ -1,0 +1,5 @@
+	title = c_nametu
+	max_settlements = 2
+	culture = castillan
+	religion = cathar
+	b_ajhenr = tribal

@@ -1,0 +1,5 @@
+	title = c_esarida
+	max_settlements = 2
+	culture = jurchen
+	religion = west_african_pagan
+	b_wulida = tribal

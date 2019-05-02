@@ -1,0 +1,5 @@
+	title = c_rarured
+	max_settlements = 3
+	culture = swedish
+	religion = pagan
+	b_waromon = tribal

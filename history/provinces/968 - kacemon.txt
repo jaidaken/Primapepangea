@@ -1,0 +1,5 @@
+	title = c_kacemon
+	max_settlements = 4
+	culture = avar
+	religion = khurmazta
+	b_rutilda = tribal

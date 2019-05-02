@@ -1,0 +1,5 @@
+	title = c_tiguraj
+	max_settlements = 2
+	culture = mordvin
+	religion = cathar
+	b_qigra = tribal

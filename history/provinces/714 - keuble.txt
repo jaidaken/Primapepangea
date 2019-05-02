@@ -1,0 +1,5 @@
+	title = c_keuble
+	max_settlements = 2
+	culture = bengali
+	religion = slavic_pagan_reformed
+	b_azdigern = tribal

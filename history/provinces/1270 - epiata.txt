@@ -1,0 +1,5 @@
+	title = c_epiata
+	max_settlements = 2
+	culture = rajput
+	religion = cathar
+	b_kimofan = tribal

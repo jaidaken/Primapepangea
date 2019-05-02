@@ -1,0 +1,5 @@
+	title = c_kesoke
+	max_settlements = 2
+	culture = zaghawa
+	religion = kharijite
+	b_arona = tribal

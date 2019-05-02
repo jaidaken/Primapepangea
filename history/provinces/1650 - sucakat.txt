@@ -1,0 +1,5 @@
+	title = c_sucakat
+	max_settlements = 2
+	culture = armenian
+	religion = slavic_pagan
+	b_kutakat = tribal

@@ -1,0 +1,5 @@
+	title = c_wiibila
+	max_settlements = 2
+	culture = norman
+	religion = bon_reformed
+	b_ebesiena = tribal

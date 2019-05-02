@@ -1,0 +1,5 @@
+	title = c_naudurva
+	max_settlements = 2
+	culture = georgian
+	religion = iconoclast
+	b_eperofia = tribal

@@ -1,0 +1,5 @@
+	title = c_sidhr
+	max_settlements = 2
+	culture = khazar
+	religion = jain
+	b_lidhani = tribal

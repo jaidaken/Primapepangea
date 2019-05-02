@@ -1,0 +1,5 @@
+	title = c_tuozyuk
+	max_settlements = 2
+	culture = norse
+	religion = yazidi
+	b_lageefa = tribal

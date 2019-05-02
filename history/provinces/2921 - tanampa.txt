@@ -1,0 +1,5 @@
+	title = c_tanampa
+	max_settlements = 2
+	culture = tamil
+	religion = yazidi
+	b_sonedas = tribal

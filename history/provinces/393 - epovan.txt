@@ -1,0 +1,5 @@
+	title = c_epovan
+	max_settlements = 2
+	culture = sindhi
+	religion = sunni
+	b_laepeth = tribal

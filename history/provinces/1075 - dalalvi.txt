@@ -1,0 +1,5 @@
+	title = c_dalalvi
+	max_settlements = 2
+	culture = sinhala
+	religion = zoroastrian
+	b_kailena = tribal

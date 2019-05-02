@@ -1,0 +1,5 @@
+	title = c_kisum
+	max_settlements = 3
+	culture = english
+	religion = monophysite
+	b_wanani = tribal

@@ -1,0 +1,5 @@
+	title = c_walepa
+	max_settlements = 3
+	culture = sumpa
+	religion = shiite
+	b_lafubrat = tribal

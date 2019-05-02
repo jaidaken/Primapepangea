@@ -1,0 +1,5 @@
+	title = c_wakadhi
+	max_settlements = 2
+	culture = han
+	religion = sunni
+	b_akaligin = tribal

@@ -1,0 +1,5 @@
+	title = c_arajeyr
+	max_settlements = 2
+	culture = pictish
+	religion = west_african_pagan
+	b_rekela = tribal

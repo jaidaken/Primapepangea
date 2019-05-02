@@ -1,0 +1,5 @@
+	title = c_azuelle
+	max_settlements = 2
+	culture = norman
+	religion = tengri_pagan_reformed
+	b_relanu = tribal

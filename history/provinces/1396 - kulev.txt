@@ -1,0 +1,5 @@
+	title = c_kulev
+	max_settlements = 2
+	culture = kirghiz
+	religion = nestorian
+	b_turinha = tribal

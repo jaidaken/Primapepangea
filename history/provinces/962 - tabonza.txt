@@ -1,0 +1,5 @@
+	title = c_tabonza
+	max_settlements = 2
+	culture = prussian
+	religion = color
+	b_nerata = tribal

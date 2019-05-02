@@ -1,0 +1,5 @@
+	title = c_tonauq
+	max_settlements = 3
+	culture = jurchen
+	religion = bon
+	b_sutavya = tribal

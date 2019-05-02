@@ -1,0 +1,5 @@
+	title = c_bort
+	max_settlements = 2
+	culture = dutch
+	religion = samaritan
+	b_nota = tribal

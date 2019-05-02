@@ -1,0 +1,5 @@
+	title = c_kinaine
+	max_settlements = 2
+	culture = telugu
+	religion = yazidi
+	b_asamurga = tribal

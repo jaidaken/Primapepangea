@@ -1,0 +1,5 @@
+	title = c_emalaqiq
+	max_settlements = 2
+	culture = alan
+	religion = slavic_pagan
+	b_amorert = tribal

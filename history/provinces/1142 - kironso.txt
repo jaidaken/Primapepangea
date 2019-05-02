@@ -1,0 +1,5 @@
+	title = c_kironso
+	max_settlements = 3
+	culture = karluk
+	religion = waldensian
+	b_dyasio = tribal

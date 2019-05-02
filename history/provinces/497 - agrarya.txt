@@ -1,0 +1,5 @@
+	title = c_agrarya
+	max_settlements = 2
+	culture = bosnian
+	religion = iconoclast
+	b_anitala = tribal

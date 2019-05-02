@@ -1,0 +1,42 @@
+758.2.1 = {
+	holder = 1002092
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = k_eheikin
+}
+
+791.2.1 = {
+	holder = 1008298
+}
+
+806.2.1 = {
+	holder = 1011946
+}
+
+856.2.1 = {
+	holder = 1015344
+}
+
+893.2.1 = {
+	holder = 1016848
+}
+
+930.2.1 = {
+	holder = 1018686
+}
+
+960.2.1 = {
+	holder = 1020377
+}
+
+1000.2.1 = {
+	holder = 1021576
+}
+
+1020.2.1 = {
+	holder = 1023144
+}
+

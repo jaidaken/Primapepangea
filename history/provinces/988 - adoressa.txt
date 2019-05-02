@@ -1,0 +1,5 @@
+	title = c_adoressa
+	max_settlements = 3
+	culture = croatian
+	religion = tengri_pagan_reformed
+	b_adorudra = tribal

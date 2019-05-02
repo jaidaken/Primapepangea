@@ -1,0 +1,5 @@
+	title = c_togolod
+	max_settlements = 2
+	culture = zaghawa
+	religion = jain
+	b_tutolod = tribal

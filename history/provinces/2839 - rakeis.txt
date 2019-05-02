@@ -1,0 +1,5 @@
+	title = c_rakeis
+	max_settlements = 2
+	culture = hausa
+	religion = tengri_pagan
+	b_rirara = tribal

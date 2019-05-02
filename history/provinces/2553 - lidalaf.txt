@@ -1,0 +1,5 @@
+	title = c_lidalaf
+	max_settlements = 2
+	culture = pommeranian
+	religion = slavic_pagan
+	b_qaubamed = tribal

@@ -1,0 +1,5 @@
+	title = c_nilara
+	max_settlements = 3
+	culture = scottish
+	religion = norse_pagan_reformed
+	b_kazanu = tribal

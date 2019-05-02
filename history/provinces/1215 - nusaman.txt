@@ -1,0 +1,5 @@
+	title = c_nusaman
+	max_settlements = 3
+	culture = english
+	religion = pagan
+	b_dilideva = tribal

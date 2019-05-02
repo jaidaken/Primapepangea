@@ -1,0 +1,5 @@
+	title = c_setoste
+	max_settlements = 2
+	culture = jurchen
+	religion = zun_pagan_reformed
+	b_amariam = tribal

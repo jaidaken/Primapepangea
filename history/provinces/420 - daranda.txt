@@ -1,0 +1,5 @@
+	title = c_daranda
+	max_settlements = 4
+	culture = zhangzhung
+	religion = interface_skin
+	b_rafug = tribal

@@ -1,0 +1,5 @@
+	title = c_redania
+	max_settlements = 2
+	culture = carantanian
+	religion = bon
+	b_badusha = tribal

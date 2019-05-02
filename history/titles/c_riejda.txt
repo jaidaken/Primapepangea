@@ -1,0 +1,142 @@
+758.2.1 = {
+	holder = 1000001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000002
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1000232
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_esodenr
+}
+
+758.2.5 = {
+	holder = 1000233
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.6 = {
+	holder = 1000230
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+789.2.1 = {
+	holder = 1010234
+}
+
+807.2.1 = {
+	holder = 1009867
+}
+
+836.2.1 = {
+	liege = d_biibund
+}
+
+836.2.2 = {
+	liege = d_toabud
+}
+
+836.2.3 = {
+	holder = 1013032
+}
+
+853.2.1 = {
+	liege = d_biibund
+}
+
+853.2.2 = {
+	holder = 1015330
+}
+
+855.2.1 = {
+	holder = 1016243
+}
+
+859.2.1 = {
+	holder = 1016309
+}
+
+874.2.1 = {
+	liege = d_toabud
+}
+
+874.2.2 = {
+	holder = 1017467
+}
+
+923.2.1 = {
+	liege = d_biibund
+}
+
+923.2.2 = {
+	holder = 1017667
+}
+
+929.2.1 = {
+	holder = 1019894
+}
+
+946.2.1 = {
+	liege = d_toabud
+}
+
+946.2.2 = {
+	holder = 1020610
+}
+
+977.2.1 = {
+	liege = d_biibund
+}
+
+977.2.2 = {
+	holder = 1021962
+}
+
+990.2.1 = {
+	liege = d_toabud
+}
+
+990.2.2 = {
+	holder = 1022555
+}
+
+1010.2.1 = {
+	liege = d_biibund
+}
+
+1010.2.2 = {
+	holder = 1022860
+}
+
+1031.2.1 = {
+	liege = d_toabud
+}
+
+1031.2.2 = {
+	holder = 1023476
+}
+
+1038.2.1 = {
+	holder = 1024259
+}
+
+1056.2.1 = {
+	liege = d_biibund
+}
+
+1056.2.2 = {
+	holder = 1025159
+}
+

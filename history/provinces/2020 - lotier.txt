@@ -1,0 +1,5 @@
+	title = c_lotier
+	max_settlements = 6
+	culture = andalusian_arabic
+	religion = interface_skin
+	b_tier = tribal

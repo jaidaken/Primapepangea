@@ -1,0 +1,5 @@
+	title = c_weria
+	max_settlements = 2
+	culture = scottish
+	religion = orthodox
+	b_qida = tribal

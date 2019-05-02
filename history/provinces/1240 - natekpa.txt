@@ -1,0 +1,5 @@
+	title = c_natekpa
+	max_settlements = 2
+	culture = bohemian
+	religion = zoroastrian
+	b_toumen = tribal

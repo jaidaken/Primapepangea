@@ -1,0 +1,5 @@
+	title = c_kakella
+	max_settlements = 2
+	culture = dutch
+	religion = hellenic_pagan
+	b_rubasin = tribal

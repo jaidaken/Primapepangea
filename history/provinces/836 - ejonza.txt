@@ -1,0 +1,5 @@
+	title = c_ejonza
+	max_settlements = 5
+	culture = croatian
+	religion = interface_skin
+	b_limonso = tribal

@@ -1,0 +1,5 @@
+	title = c_renert
+	max_settlements = 2
+	culture = frankish
+	religion = norse_pagan
+	b_ecilakoi = tribal

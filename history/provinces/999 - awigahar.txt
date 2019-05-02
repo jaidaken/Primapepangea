@@ -1,0 +1,5 @@
+	title = c_awigahar
+	max_settlements = 2
+	culture = meshchera
+	religion = hellenic_pagan
+	b_nutila = tribal

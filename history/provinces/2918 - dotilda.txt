@@ -1,0 +1,5 @@
+	title = c_dotilda
+	max_settlements = 3
+	culture = daju
+	religion = jewish
+	b_tanawa = tribal

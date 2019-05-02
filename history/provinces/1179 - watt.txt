@@ -1,0 +1,5 @@
+	title = c_watt
+	max_settlements = 2
+	culture = bosnian
+	religion = baltic_pagan_reformed
+	b_tuleric = tribal

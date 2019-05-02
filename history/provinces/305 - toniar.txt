@@ -1,0 +1,5 @@
+	title = c_toniar
+	max_settlements = 2
+	culture = avar
+	religion = bon_reformed
+	b_tayico = tribal

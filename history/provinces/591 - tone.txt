@@ -1,0 +1,5 @@
+	title = c_tone
+	max_settlements = 2
+	culture = romanian
+	religion = pagan
+	b_eture = tribal

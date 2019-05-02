@@ -1,0 +1,5 @@
+	title = c_kolerni
+	max_settlements = 2
+	culture = breton
+	religion = hurufi
+	b_bolonti = tribal

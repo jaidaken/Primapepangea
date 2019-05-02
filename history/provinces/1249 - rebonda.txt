@@ -1,0 +1,5 @@
+	title = c_rebonda
+	max_settlements = 2
+	culture = bodpa
+	religion = messalian
+	b_weriise = tribal

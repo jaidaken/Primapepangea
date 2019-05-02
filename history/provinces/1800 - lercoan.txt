@@ -1,0 +1,5 @@
+	title = c_lercoan
+	max_settlements = 2
+	culture = nepali
+	religion = manichean
+	b_kyotigo = tribal

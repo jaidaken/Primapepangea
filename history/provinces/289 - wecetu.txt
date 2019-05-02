@@ -1,0 +1,5 @@
+	title = c_wecetu
+	max_settlements = 2
+	culture = kirghiz
+	religion = color
+	b_qabi = tribal

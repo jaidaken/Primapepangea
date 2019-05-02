@@ -1,0 +1,176 @@
+758.2.1 = {
+	holder = 1000024
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001380
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_tust
+}
+
+758.2.4 = {
+	holder = 1001381
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1001378
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+769.2.1 = {
+	holder = 1008280
+}
+
+782.2.1 = {
+	holder = 1004654
+}
+
+791.2.1 = {
+	holder = 1009529
+}
+
+810.2.1 = {
+	liege = d_kunah
+}
+
+810.2.2 = {
+	liege = d_tacahim
+}
+
+810.2.3 = {
+	holder = 1007786
+}
+
+810.2.4 = {
+	liege = k_danasa
+}
+
+816.2.1 = {
+	liege = d_tust
+}
+
+816.2.2 = {
+	liege = d_kunah
+}
+
+816.2.3 = {
+	liege = d_tacahim
+}
+
+816.2.4 = {
+	holder = 1009572
+}
+
+816.2.5 = {
+	liege = k_danasa
+}
+
+832.2.1 = {
+	liege = d_tacahim
+}
+
+832.2.2 = {
+	liege = d_kunah
+}
+
+832.2.3 = {
+	liege = d_temunah
+}
+
+832.2.4 = {
+	holder = 1011361
+}
+
+836.2.1 = {
+	holder = 1009350
+}
+
+847.2.1 = {
+	liege = d_kunah
+}
+
+847.2.2 = {
+	liege = d_tacahim
+}
+
+847.2.3 = {
+	holder = 1015749
+}
+
+897.2.1 = {
+	holder = 1016184
+}
+
+906.2.1 = {
+	liege = d_kunah
+}
+
+906.2.2 = {
+	liege = d_temunah
+}
+
+906.2.3 = {
+	holder = 1016384
+}
+
+919.2.1 = {
+	holder = 1019134
+}
+
+963.2.1 = {
+	liege = d_kunah
+}
+
+963.2.2 = {
+	liege = d_tacahim
+}
+
+963.2.3 = {
+	holder = 1020172
+}
+
+992.2.1 = {
+	liege = d_kunah
+}
+
+992.2.2 = {
+	liege = d_temunah
+}
+
+992.2.3 = {
+	holder = 1021573
+}
+
+993.2.1 = {
+	holder = 1022679
+}
+
+1026.2.1 = {
+	holder = 1023407
+}
+
+1034.2.1 = {
+	holder = 1024063
+}
+
+1051.2.1 = {
+	liege = d_kunah
+}
+
+1051.2.2 = {
+	liege = d_tacahim
+}
+
+1051.2.3 = {
+	holder = 1024979
+}
+

@@ -1,0 +1,5 @@
+	title = c_tomaina
+	max_settlements = 3
+	culture = saka
+	religion = mazdaki
+	b_kionti = tribal

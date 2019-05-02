@@ -1,0 +1,5 @@
+	title = c_razusa
+	max_settlements = 2
+	culture = komi
+	religion = manichean
+	b_qazumo = tribal

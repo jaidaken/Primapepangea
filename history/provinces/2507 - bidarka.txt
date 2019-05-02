@@ -1,0 +1,5 @@
+	title = c_bidarka
+	max_settlements = 2
+	culture = occitan
+	religion = bon_reformed
+	b_ladavan = tribal

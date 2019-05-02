@@ -1,0 +1,5 @@
+	title = c_kalerni
+	max_settlements = 2
+	culture = croatian
+	religion = hellenic_pagan
+	b_dazini = tribal

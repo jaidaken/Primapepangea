@@ -1,0 +1,5 @@
+	title = c_enyalild
+	max_settlements = 2
+	culture = soninke
+	religion = druze
+	b_nuzisa = tribal

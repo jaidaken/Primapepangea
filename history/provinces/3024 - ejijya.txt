@@ -1,0 +1,5 @@
+	title = c_ejijya
+	max_settlements = 2
+	culture = welsh
+	religion = fraticelli
+	b_dadenna = tribal

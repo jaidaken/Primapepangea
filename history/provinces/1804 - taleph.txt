@@ -1,0 +1,5 @@
+	title = c_taleph
+	max_settlements = 2
+	culture = coptic
+	religion = fraticelli
+	b_ekaynadu = tribal

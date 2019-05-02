@@ -1,0 +1,5 @@
+	title = c_nareyr
+	max_settlements = 3
+	culture = samoyed
+	religion = mazdaki
+	b_kutidhin = tribal

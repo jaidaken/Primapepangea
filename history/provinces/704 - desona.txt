@@ -1,0 +1,5 @@
+	title = c_desona
+	max_settlements = 2
+	culture = hungarian
+	religion = paulician
+	b_sulana = tribal

@@ -1,0 +1,5 @@
+	title = c_wideefa
+	max_settlements = 2
+	culture = pecheneg
+	religion = buddhist
+	b_nazad = tribal

@@ -1,0 +1,5 @@
+	title = c_ririek
+	max_settlements = 2
+	culture = armenian
+	religion = interface_skin
+	b_agunaruk = tribal

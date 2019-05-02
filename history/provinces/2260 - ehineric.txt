@@ -1,0 +1,5 @@
+	title = c_ehineric
+	max_settlements = 2
+	culture = old_saxon
+	religion = samaritan
+	b_lataine = tribal

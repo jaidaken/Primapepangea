@@ -1,0 +1,5 @@
+	title = c_kosujin
+	max_settlements = 3
+	culture = bohemian
+	religion = norse_pagan
+	b_aperujin = tribal

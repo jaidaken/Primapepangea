@@ -1,0 +1,5 @@
+	title = c_batalia
+	max_settlements = 2
+	culture = hausa
+	religion = orthodox
+	b_abalalia = tribal

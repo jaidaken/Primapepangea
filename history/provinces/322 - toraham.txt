@@ -1,0 +1,5 @@
+	title = c_toraham
+	max_settlements = 2
+	culture = danish
+	religion = hindu
+	b_kelasco = tribal

@@ -1,0 +1,5 @@
+	title = c_wisarka
+	max_settlements = 2
+	culture = hungarian
+	religion = finnish_pagan_reformed
+	b_sikanab = tribal

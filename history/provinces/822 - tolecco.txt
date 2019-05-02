@@ -1,0 +1,5 @@
+	title = c_tolecco
+	max_settlements = 2
+	culture = english
+	religion = interface_skin
+	b_lalyg = tribal

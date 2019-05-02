@@ -1,0 +1,5 @@
+	title = c_qolasi
+	max_settlements = 2
+	culture = breton
+	religion = color
+	b_acatiraj = tribal

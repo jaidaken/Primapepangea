@@ -1,0 +1,5 @@
+	title = c_kitala
+	max_settlements = 2
+	culture = mongol
+	religion = west_african_pagan_reformed
+	b_lofanta = tribal

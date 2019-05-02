@@ -1,0 +1,5 @@
+	title = c_damios
+	max_settlements = 2
+	culture = prussian
+	religion = ibadi
+	b_toasse = tribal

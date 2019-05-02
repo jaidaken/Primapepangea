@@ -1,0 +1,5 @@
+	title = c_ejosarya
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = bon_reformed
+	b_tanta = tribal

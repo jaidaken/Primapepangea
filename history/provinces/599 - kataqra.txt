@@ -1,0 +1,5 @@
+	title = c_kataqra
+	max_settlements = 2
+	culture = prussian
+	religion = druze
+	b_lezuqa = tribal

@@ -1,0 +1,5 @@
+	title = c_revarsa
+	max_settlements = 2
+	culture = tangut
+	religion = interface_skin
+	b_athusha = tribal

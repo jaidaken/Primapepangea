@@ -1,0 +1,5 @@
+	title = c_danabi
+	max_settlements = 2
+	culture = assamese
+	religion = finnish_pagan_reformed
+	b_ariiban = tribal

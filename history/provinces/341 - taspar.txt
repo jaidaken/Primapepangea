@@ -1,0 +1,5 @@
+	title = c_taspar
+	max_settlements = 2
+	culture = german
+	religion = pagan
+	b_boul = tribal

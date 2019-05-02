@@ -1,0 +1,5 @@
+	title = c_qerigin
+	max_settlements = 2
+	culture = dutch
+	religion = druze
+	b_aferigin = tribal

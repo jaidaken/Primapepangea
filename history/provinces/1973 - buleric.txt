@@ -1,0 +1,5 @@
+	title = c_buleric
+	max_settlements = 2
+	culture = polish
+	religion = ibadi
+	b_wamavo = tribal

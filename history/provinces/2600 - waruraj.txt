@@ -1,0 +1,5 @@
+	title = c_waruraj
+	max_settlements = 2
+	culture = portuguese
+	religion = bon_reformed
+	b_soriik = tribal

@@ -1,0 +1,5 @@
+	title = c_kedota
+	max_settlements = 2
+	culture = danish
+	religion = bon_reformed
+	b_atzarn = tribal

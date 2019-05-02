@@ -1,0 +1,5 @@
+	title = c_kolasa
+	max_settlements = 2
+	culture = soninke
+	religion = mazdaki
+	b_renick = tribal

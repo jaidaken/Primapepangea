@@ -1,0 +1,5 @@
+	title = c_raudeka
+	max_settlements = 2
+	culture = khitan
+	religion = iconoclast
+	b_kalanda = tribal

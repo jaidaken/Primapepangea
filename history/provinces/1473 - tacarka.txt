@@ -1,0 +1,5 @@
+	title = c_tacarka
+	max_settlements = 2
+	culture = prussian
+	religion = lollard
+	b_dezama = tribal

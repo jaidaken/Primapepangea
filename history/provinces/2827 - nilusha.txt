@@ -1,0 +1,5 @@
+	title = c_nilusha
+	max_settlements = 2
+	culture = bulgarian
+	religion = pagan
+	b_nolata = tribal

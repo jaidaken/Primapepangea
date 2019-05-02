@@ -1,0 +1,5 @@
+	title = c_talert
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = druze
+	b_nosaqiq = tribal

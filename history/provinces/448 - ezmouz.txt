@@ -1,0 +1,5 @@
+	title = c_ezmouz
+	max_settlements = 3
+	culture = rajput
+	religion = interface_skin
+	b_nekanu = tribal

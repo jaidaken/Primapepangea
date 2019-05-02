@@ -1,0 +1,5 @@
+	title = c_eshencel
+	max_settlements = 2
+	culture = sinhala
+	religion = monothelite
+	b_tilan = tribal

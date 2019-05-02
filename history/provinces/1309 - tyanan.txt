@@ -1,0 +1,5 @@
+	title = c_tyanan
+	max_settlements = 2
+	culture = irish
+	religion = zun_pagan_reformed
+	b_rolt = tribal

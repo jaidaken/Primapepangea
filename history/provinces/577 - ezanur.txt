@@ -1,0 +1,5 @@
+	title = c_ezanur
+	max_settlements = 5
+	culture = italian
+	religion = pagan
+	b_rajoru = tribal

@@ -1,0 +1,5 @@
+	title = c_ekilin
+	max_settlements = 2
+	culture = lappish
+	religion = zun_pagan
+	b_kenda = tribal

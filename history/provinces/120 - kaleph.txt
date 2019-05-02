@@ -1,0 +1,5 @@
+	title = c_kaleph
+	max_settlements = 2
+	culture = saka
+	religion = yazidi
+	b_sakigin = tribal

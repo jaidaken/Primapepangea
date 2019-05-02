@@ -1,0 +1,90 @@
+758.2.1 = {
+	holder = 1000082
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1004067
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kimule
+}
+
+758.2.4 = {
+	liege = d_diteco
+}
+
+758.2.5 = {
+	holder = 1004054
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1016940
+}
+
+902.2.1 = {
+	liege = d_eraak
+}
+
+902.2.2 = {
+	liege = d_dalii
+}
+
+902.2.3 = {
+	liege = d_wahikan
+}
+
+902.2.4 = {
+	liege = d_qagiaco
+}
+
+902.2.5 = {
+	holder = 1018902
+}
+
+950.2.1 = {
+	holder = 1019621
+}
+
+983.2.1 = {
+	holder = 1021099
+}
+
+993.2.1 = {
+	holder = 1022699
+}
+
+995.2.1 = {
+	holder = 1022786
+}
+
+1003.2.1 = {
+	liege = d_wahikan
+}
+
+1003.2.2 = {
+	holder = 1022963
+}
+
+1050.2.1 = {
+	holder = 1023824
+}
+
+1053.2.1 = {
+	holder = 1025065
+}
+
+1064.2.1 = {
+	liege = d_qagiaco
+}
+
+1064.2.2 = {
+	holder = 1025117
+}
+

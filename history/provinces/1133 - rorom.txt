@@ -1,0 +1,5 @@
+	title = c_rorom
+	max_settlements = 2
+	culture = sinhala
+	religion = jewish
+	b_sacijah = tribal

@@ -1,0 +1,5 @@
+	title = c_agzanab
+	max_settlements = 2
+	culture = irish
+	religion = bon_reformed
+	b_kipamed = tribal

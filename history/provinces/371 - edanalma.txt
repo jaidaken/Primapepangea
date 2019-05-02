@@ -1,0 +1,5 @@
+	title = c_edanalma
+	max_settlements = 2
+	culture = basque
+	religion = hurufi
+	b_raladu = tribal

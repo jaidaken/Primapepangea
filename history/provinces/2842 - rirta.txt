@@ -1,0 +1,5 @@
+	title = c_rirta
+	max_settlements = 2
+	culture = carantanian
+	religion = hurufi
+	b_lerajan = tribal

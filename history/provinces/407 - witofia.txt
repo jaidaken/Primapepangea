@@ -1,0 +1,5 @@
+	title = c_witofia
+	max_settlements = 2
+	culture = cuman
+	religion = lollard
+	b_werand = tribal

@@ -1,0 +1,5 @@
+	title = c_sonalat
+	max_settlements = 2
+	culture = soninke
+	religion = hurufi
+	b_tuohtas = tribal

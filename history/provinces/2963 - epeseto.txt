@@ -1,0 +1,5 @@
+	title = c_epeseto
+	max_settlements = 2
+	culture = samoyed
+	religion = pagan
+	b_lanum = tribal

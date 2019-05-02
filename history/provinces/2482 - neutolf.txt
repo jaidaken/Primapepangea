@@ -1,0 +1,5 @@
+	title = c_neutolf
+	max_settlements = 2
+	culture = khanty
+	religion = taoist
+	b_senettin = tribal

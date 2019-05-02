@@ -1,0 +1,5 @@
+	title = c_latolt
+	max_settlements = 2
+	culture = greek
+	religion = ibadi
+	b_adzalia = tribal

@@ -1,0 +1,5 @@
+	title = c_rofide
+	max_settlements = 2
+	culture = oriya
+	religion = ibadi
+	b_wahala = tribal

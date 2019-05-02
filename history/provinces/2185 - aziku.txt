@@ -1,0 +1,5 @@
+	title = c_aziku
+	max_settlements = 2
+	culture = avar
+	religion = messalian
+	b_loumevat = tribal

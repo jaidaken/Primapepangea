@@ -1,0 +1,5 @@
+	title = c_kedini
+	max_settlements = 2
+	culture = frankish
+	religion = pagan
+	b_qanaud = tribal

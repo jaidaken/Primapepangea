@@ -1,0 +1,5 @@
+	title = c_arateis
+	max_settlements = 2
+	culture = manden
+	religion = pagan
+	b_direis = tribal

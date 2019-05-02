@@ -1,0 +1,5 @@
+	title = c_talini
+	max_settlements = 2
+	culture = romanian
+	religion = aztec_reformed
+	b_wazini = tribal

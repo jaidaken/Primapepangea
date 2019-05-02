@@ -1,0 +1,5 @@
+	title = c_denian
+	max_settlements = 3
+	culture = nepali
+	religion = buddhist
+	b_acaronia = tribal

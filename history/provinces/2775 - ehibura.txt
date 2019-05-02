@@ -1,0 +1,5 @@
+	title = c_ehibura
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = norse_pagan_reformed
+	b_dakusha = tribal

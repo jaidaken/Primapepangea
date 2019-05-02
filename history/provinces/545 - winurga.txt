@@ -1,0 +1,5 @@
+	title = c_winurga
+	max_settlements = 2
+	culture = nubian
+	religion = khurmazta
+	b_bamofie = tribal

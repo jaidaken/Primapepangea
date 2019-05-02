@@ -1,0 +1,5 @@
+	title = c_kokecco
+	max_settlements = 4
+	culture = italian
+	religion = interface_skin
+	b_tutyg = tribal

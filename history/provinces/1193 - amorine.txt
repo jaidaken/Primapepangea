@@ -1,0 +1,5 @@
+	title = c_amorine
+	max_settlements = 2
+	culture = khitan
+	religion = waldensian
+	b_kahata = tribal

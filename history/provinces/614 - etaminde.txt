@@ -1,0 +1,5 @@
+	title = c_etaminde
+	max_settlements = 3
+	culture = zhangzhung
+	religion = messalian
+	b_anuisel = tribal

@@ -1,0 +1,5 @@
+	title = c_bonallo
+	max_settlements = 2
+	culture = norman
+	religion = karaite
+	b_rerance = tribal

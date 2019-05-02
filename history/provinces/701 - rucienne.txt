@@ -1,0 +1,5 @@
+	title = c_rucienne
+	max_settlements = 4
+	culture = bedouin_arabic
+	religion = tengri_pagan
+	b_namanab = tribal

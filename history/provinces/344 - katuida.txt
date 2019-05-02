@@ -1,0 +1,5 @@
+	title = c_katuida
+	max_settlements = 2
+	culture = bengali
+	religion = zoroastrian
+	b_nilan = tribal

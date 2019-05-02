@@ -1,0 +1,5 @@
+	title = c_lakusha
+	max_settlements = 3
+	culture = severian
+	religion = taoist
+	b_dadania = tribal

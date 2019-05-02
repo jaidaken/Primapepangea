@@ -1,0 +1,5 @@
+	title = c_luirine
+	max_settlements = 2
+	culture = dalmatian
+	religion = pagan
+	b_bacecco = tribal

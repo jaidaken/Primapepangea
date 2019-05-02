@@ -1,0 +1,5 @@
+	title = c_donanay
+	max_settlements = 3
+	culture = hungarian
+	religion = zun_pagan_reformed
+	b_deobai = tribal

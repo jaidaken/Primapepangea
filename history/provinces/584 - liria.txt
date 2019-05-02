@@ -1,0 +1,5 @@
+	title = c_liria
+	max_settlements = 2
+	culture = karluk
+	religion = monophysite
+	b_balina = tribal

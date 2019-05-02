@@ -1,0 +1,5 @@
+	title = c_tagarka
+	max_settlements = 2
+	culture = portuguese
+	religion = mazdaki
+	b_qiaina = tribal

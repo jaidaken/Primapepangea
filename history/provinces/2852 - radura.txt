@@ -1,0 +1,5 @@
+	title = c_radura
+	max_settlements = 2
+	culture = bodpa
+	religion = west_african_pagan
+	b_sarura = tribal

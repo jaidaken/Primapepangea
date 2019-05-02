@@ -1,0 +1,124 @@
+758.2.1 = {
+	holder = 1000027
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_akulonti
+}
+
+758.2.3 = {
+	liege = d_dulila
+}
+
+758.2.4 = {
+	holder = 1001610
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1004788
+}
+
+796.2.1 = {
+	holder = 1007901
+}
+
+813.2.1 = {
+	liege = d_qagumo
+}
+
+813.2.2 = {
+	liege = d_qagasb
+}
+
+813.2.3 = {
+	holder = 1011552
+}
+
+858.2.1 = {
+	holder = 1013911
+}
+
+860.2.1 = {
+	liege = d_qagumo
+}
+
+860.2.2 = {
+	liege = d_dulila
+}
+
+860.2.3 = {
+	holder = 1016629
+}
+
+867.2.1 = {
+	holder = 1017066
+}
+
+924.2.1 = {
+	liege = d_qagumo
+}
+
+924.2.2 = {
+	liege = d_qagasb
+}
+
+924.2.3 = {
+	holder = 1017127
+}
+
+928.2.1 = {
+	holder = 1020109
+}
+
+933.2.1 = {
+	holder = 1020319
+}
+
+970.2.1 = {
+	holder = 1020561
+}
+
+992.2.1 = {
+	liege = d_qagumo
+}
+
+992.2.2 = {
+	liege = d_dulila
+}
+
+992.2.3 = {
+	holder = 1021875
+}
+
+1039.2.1 = {
+	holder = 1022742
+}
+
+1047.2.1 = {
+	liege = d_qagumo
+}
+
+1047.2.2 = {
+	liege = d_qagasb
+}
+
+1047.2.3 = {
+	holder = 1024820
+}
+
+1066.2.1 = {
+	liege = d_qagumo
+}
+
+1066.2.2 = {
+	liege = d_dulila
+}
+
+1066.2.3 = {
+	holder = 1025406
+}
+

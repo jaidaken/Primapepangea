@@ -1,0 +1,5 @@
+	title = c_kafiek
+	max_settlements = 3
+	culture = catalan
+	religion = finnish_pagan_reformed
+	b_daama = tribal

@@ -1,0 +1,5 @@
+	title = c_kulesa
+	max_settlements = 2
+	culture = kirghiz
+	religion = samaritan
+	b_wedine = tribal

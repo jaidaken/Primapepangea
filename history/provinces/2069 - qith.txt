@@ -1,0 +1,5 @@
+	title = c_qith
+	max_settlements = 2
+	culture = afghan
+	religion = west_african_pagan
+	b_tokesa = tribal

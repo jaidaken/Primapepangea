@@ -1,0 +1,5 @@
+	title = c_tegexis
+	max_settlements = 2
+	culture = kirghiz
+	religion = hindu
+	b_begora = tribal

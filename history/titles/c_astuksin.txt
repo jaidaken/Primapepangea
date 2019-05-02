@@ -1,0 +1,142 @@
+758.2.1 = {
+	holder = 1000064
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000068
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1003585
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_apremani
+}
+
+758.2.5 = {
+	holder = 1003586
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.6 = {
+	holder = 1003583
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+782.2.1 = {
+	holder = 1009963
+}
+
+804.2.1 = {
+	holder = 1010486
+}
+
+833.2.1 = {
+	holder = 1012516
+}
+
+857.2.1 = {
+	liege = d_watike
+}
+
+857.2.2 = {
+	holder = 1015242
+}
+
+857.2.3 = {
+	liege = k_turora
+}
+
+863.2.1 = {
+	liege = d_ketaj
+}
+
+863.2.2 = {
+	liege = d_byolafiy
+}
+
+863.2.3 = {
+	liege = d_apremani
+}
+
+863.2.4 = {
+	liege = d_tolerni
+}
+
+863.2.5 = {
+	holder = 1016793
+}
+
+866.2.1 = {
+	holder = 1013455
+}
+
+883.2.1 = {
+	liege = d_esteodor
+}
+
+883.2.2 = {
+	holder = 1014809
+}
+
+884.2.1 = {
+	holder = 1018020
+}
+
+925.2.1 = {
+	holder = 1018324
+}
+
+927.2.1 = {
+	holder = 1020057
+}
+
+929.2.1 = {
+	holder = 1020141
+}
+
+967.2.1 = {
+	holder = 1021678
+}
+
+976.2.1 = {
+	holder = 1021983
+}
+
+986.2.1 = {
+	liege = d_tolerni
+}
+
+986.2.2 = {
+	holder = 1022436
+}
+
+1034.2.1 = {
+	liege = d_daisora
+}
+
+1034.2.2 = {
+	holder = 1022888
+}
+
+1058.2.1 = {
+	liege = d_tolerni
+}
+
+1058.2.2 = {
+	liege = d_esteodor
+}
+
+1058.2.3 = {
+	holder = 1024733
+}
+

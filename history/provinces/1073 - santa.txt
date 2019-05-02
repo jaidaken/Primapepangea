@@ -1,0 +1,5 @@
+	title = c_santa
+	max_settlements = 3
+	culture = jurchen
+	religion = interface_skin
+	b_ralijah = tribal

@@ -1,0 +1,5 @@
+	title = c_kemila
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = tengri_pagan
+	b_arekpa = tribal

@@ -1,0 +1,5 @@
+	title = c_qecaoro
+	max_settlements = 2
+	culture = samoyed
+	religion = mazdaki
+	b_bilath = tribal

@@ -1,0 +1,5 @@
+	title = c_wutoste
+	max_settlements = 2
+	culture = bohemian
+	religion = hellenic_pagan
+	b_kidinic = tribal

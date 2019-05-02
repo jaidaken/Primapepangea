@@ -1,0 +1,5 @@
+	title = c_tagaram
+	max_settlements = 2
+	culture = khitan
+	religion = orthodox
+	b_kageka = tribal

@@ -1,0 +1,5 @@
+	title = c_nibisha
+	max_settlements = 2
+	culture = karluk
+	religion = west_african_pagan_reformed
+	b_buricta = tribal

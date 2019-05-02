@@ -1,0 +1,5 @@
+	title = c_tamuna
+	max_settlements = 2
+	culture = castillan
+	religion = pagan
+	b_tanigun = tribal

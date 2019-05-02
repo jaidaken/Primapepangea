@@ -1,0 +1,5 @@
+	title = c_salara
+	max_settlements = 4
+	culture = outremer
+	religion = monothelite
+	b_kalp = tribal

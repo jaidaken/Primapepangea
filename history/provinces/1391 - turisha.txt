@@ -1,0 +1,5 @@
+	title = c_turisha
+	max_settlements = 2
+	culture = hungarian
+	religion = hellenic_pagan_reformed
+	b_quxing = tribal

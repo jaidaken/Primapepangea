@@ -1,0 +1,5 @@
+	title = c_egiga
+	max_settlements = 2
+	culture = arberian
+	religion = iconoclast
+	b_wacusha = tribal

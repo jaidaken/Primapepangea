@@ -1,0 +1,5 @@
+	title = c_letora
+	max_settlements = 2
+	culture = nubian
+	religion = orthodox
+	b_lurakti = tribal

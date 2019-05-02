@@ -1,0 +1,5 @@
+	title = c_kolusha
+	max_settlements = 2
+	culture = soninke
+	religion = sunni
+	b_kata = tribal

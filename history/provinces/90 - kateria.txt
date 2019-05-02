@@ -1,0 +1,5 @@
+	title = c_kateria
+	max_settlements = 2
+	culture = afghan
+	religion = waldensian
+	b_lararic = tribal

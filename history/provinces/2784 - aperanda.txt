@@ -1,0 +1,5 @@
+	title = c_aperanda
+	max_settlements = 2
+	culture = serbian
+	religion = samaritan
+	b_kereth = tribal

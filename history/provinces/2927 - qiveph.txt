@@ -1,0 +1,5 @@
+	title = c_qiveph
+	max_settlements = 2
+	culture = tangut
+	religion = pagan
+	b_nadife = tribal

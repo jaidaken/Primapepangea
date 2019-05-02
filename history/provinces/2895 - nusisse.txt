@@ -1,0 +1,5 @@
+	title = c_nusisse
+	max_settlements = 2
+	culture = cuman
+	religion = hellenic_pagan_reformed
+	b_lolyeju = tribal

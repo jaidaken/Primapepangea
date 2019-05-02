@@ -1,0 +1,5 @@
+	title = c_apiloste
+	max_settlements = 2
+	culture = arberian
+	religion = messalian
+	b_dutigrid = tribal

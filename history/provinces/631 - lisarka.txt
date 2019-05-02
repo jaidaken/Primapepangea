@@ -1,0 +1,5 @@
+	title = c_lisarka
+	max_settlements = 2
+	culture = assamese
+	religion = pagan
+	b_walya = tribal

@@ -1,0 +1,150 @@
+758.2.1 = {
+	holder = 1000018
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001064
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kuzimiy
+}
+
+758.2.4 = {
+	holder = 1001062
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+760.2.1 = {
+	holder = 1000958
+}
+
+794.2.1 = {
+	holder = 1007380
+}
+
+815.2.1 = {
+	holder = 1013215
+}
+
+852.2.1 = {
+	holder = 1016056
+}
+
+888.2.1 = {
+	holder = 1016248
+}
+
+889.2.1 = {
+	holder = 1018253
+}
+
+912.2.1 = {
+	liege = d_baranab
+}
+
+912.2.2 = {
+	liege = d_ebuzemar
+}
+
+912.2.3 = {
+	liege = d_wanemar
+}
+
+912.2.4 = {
+	liege = d_lozalaf
+}
+
+912.2.5 = {
+	holder = 1018732
+}
+
+957.2.1 = {
+	holder = 1020039
+}
+
+969.2.1 = {
+	liege = d_wanemar
+}
+
+969.2.2 = {
+	liege = d_ebuzemar
+}
+
+969.2.3 = {
+	liege = d_baranab
+}
+
+969.2.4 = {
+	liege = d_kuzimiy
+}
+
+969.2.5 = {
+	holder = 1021434
+}
+
+982.2.1 = {
+	liege = d_baranab
+}
+
+982.2.2 = {
+	liege = d_ebuzemar
+}
+
+982.2.3 = {
+	liege = d_wanemar
+}
+
+982.2.4 = {
+	liege = d_lozalaf
+}
+
+982.2.5 = {
+	holder = 1022182
+}
+
+1000.2.1 = {
+	liege = d_wanemar
+}
+
+1000.2.2 = {
+	liege = d_ebuzemar
+}
+
+1000.2.3 = {
+	liege = d_baranab
+}
+
+1000.2.4 = {
+	liege = d_kuzimiy
+}
+
+1000.2.5 = {
+	holder = 1022980
+}
+
+1023.2.1 = {
+	liege = d_baranab
+}
+
+1023.2.2 = {
+	liege = d_ebuzemar
+}
+
+1023.2.3 = {
+	liege = d_wanemar
+}
+
+1023.2.4 = {
+	liege = d_lozalaf
+}
+
+1023.2.5 = {
+	holder = 1023795
+}
+

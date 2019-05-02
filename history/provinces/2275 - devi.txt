@@ -1,0 +1,5 @@
+	title = c_devi
+	max_settlements = 2
+	culture = welsh
+	religion = waldensian
+	b_tiyavya = tribal

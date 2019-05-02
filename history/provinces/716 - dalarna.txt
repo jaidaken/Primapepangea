@@ -1,0 +1,5 @@
+	title = c_dalarna
+	max_settlements = 2
+	culture = hausa
+	religion = hurufi
+	b_saulev = tribal

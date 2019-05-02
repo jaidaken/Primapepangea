@@ -1,0 +1,5 @@
+	title = c_kurena
+	max_settlements = 2
+	culture = mordvin
+	religion = khurmazta
+	b_bonarna = tribal

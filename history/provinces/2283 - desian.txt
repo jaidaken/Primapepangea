@@ -1,0 +1,5 @@
+	title = c_desian
+	max_settlements = 2
+	culture = suebi
+	religion = finnish_pagan_reformed
+	b_enauron = tribal

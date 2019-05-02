@@ -1,0 +1,5 @@
+	title = c_kigasar
+	max_settlements = 2
+	culture = dalmatian
+	religion = bon
+	b_tanice = tribal

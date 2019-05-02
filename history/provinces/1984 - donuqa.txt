@@ -1,0 +1,5 @@
+	title = c_donuqa
+	max_settlements = 2
+	culture = irish
+	religion = buddhist
+	b_bapavya = tribal

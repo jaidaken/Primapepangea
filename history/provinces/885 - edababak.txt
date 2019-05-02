@@ -1,0 +1,5 @@
+	title = c_edababak
+	max_settlements = 2
+	culture = frisian
+	religion = monothelite
+	b_qoravai = tribal

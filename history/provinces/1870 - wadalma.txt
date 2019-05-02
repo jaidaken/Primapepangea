@@ -1,0 +1,5 @@
+	title = c_wadalma
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = kharijite
+	b_nedurak = tribal

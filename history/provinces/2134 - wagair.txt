@@ -1,0 +1,5 @@
+	title = c_wagair
+	max_settlements = 2
+	culture = kurdish
+	religion = kharijite
+	b_tanusira = tribal

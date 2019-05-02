@@ -1,0 +1,5 @@
+	title = c_rinayah
+	max_settlements = 2
+	culture = avar
+	religion = west_african_pagan
+	b_ryaa = tribal

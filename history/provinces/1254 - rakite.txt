@@ -1,0 +1,5 @@
+	title = c_rakite
+	max_settlements = 2
+	culture = outremer
+	religion = zikri
+	b_eruzan = tribal

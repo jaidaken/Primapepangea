@@ -1,0 +1,5 @@
+	title = c_soth
+	max_settlements = 2
+	culture = somali
+	religion = lollard
+	b_rance = tribal

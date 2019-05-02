@@ -1,0 +1,5 @@
+	title = c_atekouz
+	max_settlements = 2
+	culture = hindustani
+	religion = waldensian
+	b_katauq = tribal

@@ -1,0 +1,5 @@
+	title = c_radona
+	max_settlements = 2
+	culture = georgian
+	religion = fraticelli
+	b_ananoke = tribal

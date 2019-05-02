@@ -1,0 +1,5 @@
+	title = c_wir
+	max_settlements = 2
+	culture = pommeranian
+	religion = interface_skin
+	b_sabib = tribal

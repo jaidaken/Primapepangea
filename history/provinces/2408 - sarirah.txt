@@ -1,0 +1,5 @@
+	title = c_sarirah
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = samaritan
+	b_saudindo = tribal

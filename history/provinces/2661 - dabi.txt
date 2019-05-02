@@ -1,0 +1,5 @@
+	title = c_dabi
+	max_settlements = 3
+	culture = saka
+	religion = jewish
+	b_laimabi = tribal

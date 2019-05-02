@@ -1,0 +1,5 @@
+	title = c_tari
+	max_settlements = 2
+	culture = russian
+	religion = shiite
+	b_ejoanari = tribal

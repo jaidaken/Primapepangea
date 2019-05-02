@@ -1,0 +1,5 @@
+	title = c_torett
+	max_settlements = 2
+	culture = dalmatian
+	religion = hindu
+	b_ralett = tribal

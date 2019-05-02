@@ -1,0 +1,5 @@
+	title = c_kipirun
+	max_settlements = 3
+	culture = tamil
+	religion = karaite
+	b_taveer = tribal

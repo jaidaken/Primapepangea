@@ -1,0 +1,5 @@
+	title = c_qamarine
+	max_settlements = 2
+	culture = norman
+	religion = hellenic_pagan
+	b_ravampa = tribal

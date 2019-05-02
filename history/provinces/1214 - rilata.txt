@@ -1,0 +1,5 @@
+	title = c_rilata
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = bogomilist
+	b_leria = tribal

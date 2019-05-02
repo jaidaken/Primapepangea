@@ -1,0 +1,5 @@
+	title = c_toraruk
+	max_settlements = 2
+	culture = portuguese
+	religion = zikri
+	b_agetund = tribal

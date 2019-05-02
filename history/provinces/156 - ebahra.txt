@@ -1,0 +1,5 @@
+	title = c_ebahra
+	max_settlements = 3
+	culture = lombard
+	religion = zun_pagan
+	b_rutirin = tribal

@@ -1,0 +1,5 @@
+	title = c_kavara
+	max_settlements = 3
+	culture = visigothic
+	religion = hellenic_pagan
+	b_seriulf = tribal

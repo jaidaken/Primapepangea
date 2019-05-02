@@ -1,0 +1,5 @@
+	title = c_bamoete
+	max_settlements = 2
+	culture = frankish
+	religion = hurufi
+	b_konude = tribal

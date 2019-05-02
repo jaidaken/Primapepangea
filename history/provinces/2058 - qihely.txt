@@ -1,0 +1,5 @@
+	title = c_qihely
+	max_settlements = 2
+	culture = marathi
+	religion = mazdaki
+	b_deudenna = tribal

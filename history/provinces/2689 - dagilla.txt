@@ -1,0 +1,5 @@
+	title = c_dagilla
+	max_settlements = 3
+	culture = bulgarian
+	religion = khurmazta
+	b_ronalvi = tribal

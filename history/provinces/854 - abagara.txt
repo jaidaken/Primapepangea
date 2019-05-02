@@ -1,0 +1,5 @@
+	title = c_abagara
+	max_settlements = 2
+	culture = khanty
+	religion = bogomilist
+	b_sureph = tribal

@@ -1,0 +1,5 @@
+	title = c_ecatudit
+	max_settlements = 2
+	culture = tocharian
+	religion = buddhist
+	b_berujin = tribal

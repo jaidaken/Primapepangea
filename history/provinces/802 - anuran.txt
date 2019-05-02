@@ -1,0 +1,5 @@
+	title = c_anuran
+	max_settlements = 2
+	culture = kannada
+	religion = messalian
+	b_karamma = tribal

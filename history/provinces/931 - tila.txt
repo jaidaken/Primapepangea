@@ -1,0 +1,5 @@
+	title = c_tila
+	max_settlements = 2
+	culture = sinhala
+	religion = samaritan
+	b_larutis = tribal

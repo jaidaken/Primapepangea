@@ -1,0 +1,5 @@
+	title = c_sugilda
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = zun_pagan
+	b_qalaul = tribal

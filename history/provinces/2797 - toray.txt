@@ -1,0 +1,5 @@
+	title = c_toray
+	max_settlements = 2
+	culture = zaghawa
+	religion = shiite
+	b_biyar = tribal

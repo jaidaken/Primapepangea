@@ -1,0 +1,5 @@
+	title = c_nagofan
+	max_settlements = 3
+	culture = prussian
+	religion = hellenic_pagan
+	b_alosye = tribal

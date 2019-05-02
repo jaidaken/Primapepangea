@@ -1,0 +1,5 @@
+	title = c_qanudra
+	max_settlements = 2
+	culture = pommeranian
+	religion = ibadi
+	b_keupulin = tribal

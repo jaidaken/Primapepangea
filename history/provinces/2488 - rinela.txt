@@ -1,0 +1,5 @@
+	title = c_rinela
+	max_settlements = 2
+	culture = karluk
+	religion = norse_pagan_reformed
+	b_rinaham = tribal

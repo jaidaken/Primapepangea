@@ -1,0 +1,5 @@
+	title = c_nyasatas
+	max_settlements = 2
+	culture = nepali
+	religion = norse_pagan
+	b_rajonza = tribal

@@ -1,0 +1,5 @@
+	title = c_nanort
+	max_settlements = 2
+	culture = lettigallish
+	religion = iconoclast
+	b_nugay = tribal

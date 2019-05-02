@@ -1,0 +1,5 @@
+	title = c_esulier
+	max_settlements = 2
+	culture = danish
+	religion = shiite
+	b_wulilia = tribal

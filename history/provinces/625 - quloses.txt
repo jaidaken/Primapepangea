@@ -1,0 +1,5 @@
+	title = c_quloses
+	max_settlements = 3
+	culture = cuman
+	religion = ibadi
+	b_qakila = tribal

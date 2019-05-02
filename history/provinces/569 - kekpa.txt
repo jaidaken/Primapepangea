@@ -1,0 +1,5 @@
+	title = c_kekpa
+	max_settlements = 4
+	culture = ugricbaltic
+	religion = interface_skin
+	b_nalekpa = tribal

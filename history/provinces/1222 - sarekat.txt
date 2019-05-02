@@ -1,0 +1,5 @@
+	title = c_sarekat
+	max_settlements = 2
+	culture = bolghar
+	religion = zun_pagan
+	b_kadahar = tribal

@@ -1,0 +1,5 @@
+	title = c_quyadas
+	max_settlements = 2
+	culture = uyghur
+	religion = messalian
+	b_kekore = tribal

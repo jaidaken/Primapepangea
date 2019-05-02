@@ -1,0 +1,5 @@
+	title = c_wammad
+	max_settlements = 3
+	culture = catalan
+	religion = baltic_pagan
+	b_leubite = tribal

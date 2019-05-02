@@ -1,0 +1,5 @@
+	title = c_nutund
+	max_settlements = 2
+	culture = ashkenazi
+	religion = paulician
+	b_amurani = tribal

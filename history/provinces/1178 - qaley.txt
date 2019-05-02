@@ -1,0 +1,5 @@
+	title = c_qaley
+	max_settlements = 2
+	culture = old_saxon
+	religion = norse_pagan
+	b_rander = tribal

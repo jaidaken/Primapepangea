@@ -1,0 +1,5 @@
+	title = c_tezolod
+	max_settlements = 2
+	culture = bodpa
+	religion = kharijite
+	b_nezeng = tribal

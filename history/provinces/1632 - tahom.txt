@@ -1,0 +1,5 @@
+	title = c_tahom
+	max_settlements = 2
+	culture = khazar
+	religion = lollard
+	b_wyotom = tribal

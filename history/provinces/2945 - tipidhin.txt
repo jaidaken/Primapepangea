@@ -1,0 +1,5 @@
+	title = c_tipidhin
+	max_settlements = 2
+	culture = khanty
+	religion = color
+	b_naubahra = tribal

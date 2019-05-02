@@ -1,0 +1,5 @@
+	title = c_neszek
+	max_settlements = 2
+	culture = afghan
+	religion = hindu
+	b_wetiyu = tribal

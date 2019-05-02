@@ -1,0 +1,5 @@
+	title = c_tulara
+	max_settlements = 2
+	culture = arberian
+	religion = color
+	b_ebinai = tribal

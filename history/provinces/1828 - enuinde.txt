@@ -1,0 +1,5 @@
+	title = c_enuinde
+	max_settlements = 3
+	culture = pecheneg
+	religion = monophysite
+	b_adoul = tribal

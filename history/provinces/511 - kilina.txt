@@ -1,0 +1,5 @@
+	title = c_kilina
+	max_settlements = 2
+	culture = bengali
+	religion = slavic_pagan
+	b_weyu = tribal

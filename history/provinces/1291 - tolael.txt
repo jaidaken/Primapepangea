@@ -1,0 +1,5 @@
+	title = c_tolael
+	max_settlements = 2
+	culture = persian
+	religion = nestorian
+	b_dilaric = tribal

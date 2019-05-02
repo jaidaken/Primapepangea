@@ -1,0 +1,5 @@
+	title = c_raminluo
+	max_settlements = 2
+	culture = lettigallish
+	religion = baltic_pagan
+	b_tuhisek = tribal

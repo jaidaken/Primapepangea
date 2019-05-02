@@ -1,0 +1,5 @@
+	title = c_nungas
+	max_settlements = 2
+	culture = khitan
+	religion = kharijite
+	b_kory = tribal

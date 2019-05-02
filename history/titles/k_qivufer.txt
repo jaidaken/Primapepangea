@@ -1,0 +1,78 @@
+758.2.1 = {
+	holder = 1004644
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_ahamuu
+}
+
+758.2.3 = {
+	liege = e_kamund
+}
+
+758.2.4 = {
+	liege = e_adavavan
+}
+
+758.2.5 = {
+	liege = e_salonti
+}
+
+758.2.6 = {
+	liege = e_siradri
+}
+
+758.2.7 = {
+	liege = e_qalife
+}
+
+758.2.8 = {
+	liege = e_takayra
+}
+
+758.2.9 = {
+	liege = e_sabemir
+}
+
+758.2.10 = {
+	liege = e_rediam
+}
+
+778.2.1 = {
+	holder = 1007055
+}
+
+824.2.1 = {
+	holder = 1010316
+}
+
+839.2.1 = {
+	holder = 1015187
+}
+
+881.2.1 = {
+	holder = 1016252
+}
+
+908.2.1 = {
+	holder = 1019173
+}
+
+924.2.1 = {
+	holder = 1019305
+}
+
+966.2.1 = {
+	holder = 1020290
+}
+
+995.2.1 = {
+	holder = 1021769
+}
+
+1029.2.1 = {
+	holder = 1022811
+}
+

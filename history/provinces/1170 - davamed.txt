@@ -1,0 +1,5 @@
+	title = c_davamed
+	max_settlements = 3
+	culture = cuman
+	religion = bon
+	b_ridira = tribal

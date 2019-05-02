@@ -1,0 +1,5 @@
+	title = c_esyan
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = messalian
+	b_asanemar = tribal

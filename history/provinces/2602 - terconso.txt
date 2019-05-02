@@ -1,0 +1,5 @@
+	title = c_terconso
+	max_settlements = 2
+	culture = zaghawa
+	religion = hellenic_pagan
+	b_lyasiaco = tribal

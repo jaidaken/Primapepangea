@@ -1,0 +1,124 @@
+758.2.1 = {
+	holder = 1000051
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_kerofan
+}
+
+758.2.3 = {
+	holder = 1002785
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+760.2.1 = {
+	holder = 1002943
+}
+
+804.2.1 = {
+	liege = d_esamurga
+}
+
+804.2.2 = {
+	holder = 1006470
+}
+
+815.2.1 = {
+	holder = 1005717
+}
+
+823.2.1 = {
+	liege = d_kerofan
+}
+
+823.2.2 = {
+	liege = d_ejinaye
+}
+
+823.2.3 = {
+	holder = 1010065
+}
+
+851.2.1 = {
+	liege = d_kesil
+}
+
+851.2.2 = {
+	holder = 1012188
+}
+
+854.2.1 = {
+	holder = 1014211
+}
+
+875.2.1 = {
+	liege = d_ejinaye
+}
+
+875.2.2 = {
+	holder = 1016163
+}
+
+896.2.1 = {
+	liege = d_kesil
+}
+
+896.2.2 = {
+	holder = 1017735
+}
+
+957.2.1 = {
+	liege = d_ejinaye
+}
+
+957.2.2 = {
+	holder = 1018696
+}
+
+958.2.1 = {
+	holder = 1021281
+}
+
+995.2.1 = {
+	holder = 1022235
+}
+
+1000.2.1 = {
+	liege = d_kesil
+}
+
+1000.2.2 = {
+	holder = 1023002
+}
+
+1001.2.1 = {
+	holder = 1023038
+}
+
+1012.2.1 = {
+	holder = 1023456
+}
+
+1018.2.1 = {
+	holder = 1023699
+}
+
+1029.2.1 = {
+	liege = d_ejinaye
+}
+
+1029.2.2 = {
+	holder = 1024119
+}
+
+1052.2.1 = {
+	liege = d_kesil
+}
+
+1052.2.2 = {
+	holder = 1024314
+}
+

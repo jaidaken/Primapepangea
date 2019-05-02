@@ -1,0 +1,5 @@
+	title = c_sobeph
+	max_settlements = 2
+	culture = kanuri
+	religion = mazdaki
+	b_sakaffar = tribal

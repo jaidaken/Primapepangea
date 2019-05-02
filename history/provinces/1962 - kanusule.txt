@@ -1,0 +1,5 @@
+	title = c_kanusule
+	max_settlements = 2
+	culture = uyghur
+	religion = khurmazta
+	b_bitule = tribal

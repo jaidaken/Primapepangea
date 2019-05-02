@@ -1,0 +1,5 @@
+	title = c_watasa
+	max_settlements = 2
+	culture = volhynian
+	religion = hurufi
+	b_dozusa = tribal

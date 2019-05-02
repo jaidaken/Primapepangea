@@ -1,0 +1,5 @@
+	title = c_tarampa
+	max_settlements = 2
+	culture = sindhi
+	religion = finnish_pagan_reformed
+	b_waiwala = tribal

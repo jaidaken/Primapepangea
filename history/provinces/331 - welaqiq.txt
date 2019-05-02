@@ -1,0 +1,5 @@
+	title = c_welaqiq
+	max_settlements = 2
+	culture = frisian
+	religion = west_african_pagan_reformed
+	b_eborir = tribal

@@ -1,0 +1,5 @@
+	title = c_eperin
+	max_settlements = 2
+	culture = somali
+	religion = waldensian
+	b_agrinluo = tribal

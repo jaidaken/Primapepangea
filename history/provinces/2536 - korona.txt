@@ -1,0 +1,5 @@
+	title = c_korona
+	max_settlements = 2
+	culture = lettigallish
+	religion = color
+	b_wadimon = tribal

@@ -1,0 +1,5 @@
+	title = c_sosanab
+	max_settlements = 2
+	culture = russian
+	religion = baltic_pagan
+	b_avisasb = tribal

@@ -1,0 +1,5 @@
+	title = c_waway
+	max_settlements = 2
+	culture = avar
+	religion = hindu
+	b_tyaman = tribal

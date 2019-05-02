@@ -1,0 +1,5 @@
+	title = c_tayavin
+	max_settlements = 2
+	culture = old_saxon
+	religion = aztec
+	b_besila = tribal

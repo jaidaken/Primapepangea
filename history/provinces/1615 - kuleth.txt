@@ -1,0 +1,5 @@
+	title = c_kuleth
+	max_settlements = 2
+	culture = khazar
+	religion = catholic
+	b_bipila = tribal

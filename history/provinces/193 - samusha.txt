@@ -1,0 +1,5 @@
+	title = c_samusha
+	max_settlements = 3
+	culture = assyrian
+	religion = norse_pagan
+	b_deatetu = tribal

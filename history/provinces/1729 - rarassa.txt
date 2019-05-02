@@ -1,0 +1,5 @@
+	title = c_rarassa
+	max_settlements = 2
+	culture = mongol
+	religion = yazidi
+	b_rasiba = tribal

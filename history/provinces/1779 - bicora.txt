@@ -1,0 +1,5 @@
+	title = c_bicora
+	max_settlements = 2
+	culture = zaghawa
+	religion = lollard
+	b_tapavya = tribal

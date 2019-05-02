@@ -1,0 +1,5 @@
+	title = c_amilda
+	max_settlements = 2
+	culture = portuguese
+	religion = shiite
+	b_toorig = tribal

@@ -1,0 +1,5 @@
+	title = c_woraul
+	max_settlements = 2
+	culture = sephardi
+	religion = finnish_pagan
+	b_evasig = tribal

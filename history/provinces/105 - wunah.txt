@@ -1,0 +1,5 @@
+	title = c_wunah
+	max_settlements = 2
+	culture = afghan
+	religion = karaite
+	b_kaciala = tribal

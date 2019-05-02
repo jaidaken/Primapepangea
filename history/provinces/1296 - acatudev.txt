@@ -1,0 +1,5 @@
+	title = c_acatudev
+	max_settlements = 3
+	culture = serbian
+	religion = slavic_pagan
+	b_reatike = tribal

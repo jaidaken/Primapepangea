@@ -1,0 +1,5 @@
+	title = c_qelisa
+	max_settlements = 4
+	culture = ilmenian
+	religion = tengri_pagan
+	b_rolir = tribal

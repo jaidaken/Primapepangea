@@ -1,0 +1,5 @@
+	title = c_rezatani
+	max_settlements = 2
+	culture = kannada
+	religion = zun_pagan
+	b_tametu = tribal

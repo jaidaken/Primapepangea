@@ -1,0 +1,5 @@
+	title = c_keilice
+	max_settlements = 2
+	culture = nahuatl
+	religion = bon_reformed
+	b_derigin = tribal

@@ -1,0 +1,5 @@
+	title = c_qinayah
+	max_settlements = 2
+	culture = portuguese
+	religion = finnish_pagan_reformed
+	b_bilah = tribal

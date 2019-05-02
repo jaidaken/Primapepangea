@@ -1,0 +1,5 @@
+	title = c_ritesa
+	max_settlements = 3
+	culture = kanuri
+	religion = zikri
+	b_wahaca = tribal

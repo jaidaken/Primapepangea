@@ -1,0 +1,5 @@
+	title = c_kajin
+	max_settlements = 2
+	culture = lombard
+	religion = orthodox
+	b_saheyu = tribal

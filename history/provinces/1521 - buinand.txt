@@ -1,0 +1,5 @@
+	title = c_buinand
+	max_settlements = 2
+	culture = cuman
+	religion = jain
+	b_benacon = tribal

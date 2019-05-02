@@ -1,0 +1,5 @@
+	title = c_litalo
+	max_settlements = 2
+	culture = sephardi
+	religion = hurufi
+	b_akareka = tribal

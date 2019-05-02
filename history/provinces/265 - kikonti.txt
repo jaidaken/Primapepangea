@@ -1,0 +1,5 @@
+	title = c_kikonti
+	max_settlements = 2
+	culture = norse
+	religion = jewish
+	b_sadumo = tribal

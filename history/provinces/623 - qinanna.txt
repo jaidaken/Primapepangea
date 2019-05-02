@@ -1,0 +1,5 @@
+	title = c_qinanna
+	max_settlements = 2
+	culture = romanian
+	religion = zoroastrian
+	b_tuhumo = tribal

@@ -1,0 +1,5 @@
+	title = c_ethatu
+	max_settlements = 2
+	culture = sephardi
+	religion = color
+	b_latile = tribal

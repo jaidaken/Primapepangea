@@ -1,0 +1,5 @@
+	title = c_risumo
+	max_settlements = 2
+	culture = portuguese
+	religion = miaphysite
+	b_sagonti = tribal

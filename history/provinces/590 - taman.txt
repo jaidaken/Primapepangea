@@ -1,0 +1,5 @@
+	title = c_taman
+	max_settlements = 3
+	culture = carantanian
+	religion = slavic_pagan
+	b_wuriar = tribal

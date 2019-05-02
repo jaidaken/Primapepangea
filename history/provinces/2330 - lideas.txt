@@ -1,0 +1,5 @@
+	title = c_lideas
+	max_settlements = 2
+	culture = lithuanian
+	religion = fraticelli
+	b_achicud = tribal

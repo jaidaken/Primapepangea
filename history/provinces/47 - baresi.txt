@@ -1,0 +1,5 @@
+	title = c_baresi
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = west_african_pagan
+	b_bigri = tribal

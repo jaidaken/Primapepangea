@@ -1,0 +1,5 @@
+	title = c_receas
+	max_settlements = 2
+	culture = outremer
+	religion = hurufi
+	b_sidius = tribal

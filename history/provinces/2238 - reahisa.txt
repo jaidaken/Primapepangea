@@ -1,0 +1,5 @@
+	title = c_reahisa
+	max_settlements = 2
+	culture = carantanian
+	religion = monophysite
+	b_eciubine = tribal

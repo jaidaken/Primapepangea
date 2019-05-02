@@ -1,0 +1,5 @@
+	title = c_sanavya
+	max_settlements = 2
+	culture = outremer
+	religion = orthodox
+	b_sorila = tribal

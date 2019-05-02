@@ -1,0 +1,5 @@
+	title = c_namevat
+	max_settlements = 2
+	culture = lithuanian
+	religion = baltic_pagan
+	b_alofan = tribal

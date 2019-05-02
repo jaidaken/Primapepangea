@@ -1,0 +1,5 @@
+	title = c_tuay
+	max_settlements = 2
+	culture = cuman
+	religion = slavic_pagan
+	b_kodasco = tribal

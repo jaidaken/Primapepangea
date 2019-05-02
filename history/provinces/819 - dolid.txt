@@ -1,0 +1,5 @@
+	title = c_dolid
+	max_settlements = 2
+	culture = oriya
+	religion = shiite
+	b_qutoste = tribal

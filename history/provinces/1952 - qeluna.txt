@@ -1,0 +1,5 @@
+	title = c_qeluna
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = aztec
+	b_woanuna = tribal

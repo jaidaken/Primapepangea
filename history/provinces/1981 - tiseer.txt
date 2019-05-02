@@ -1,0 +1,5 @@
+	title = c_tiseer
+	max_settlements = 2
+	culture = russian
+	religion = taoist
+	b_tedahou = tribal

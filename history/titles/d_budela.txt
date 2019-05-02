@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1003931
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_tuyarla
+}
+
+805.2.1 = {
+	holder = 1012360
+}
+
+853.2.1 = {
+	holder = 1016144
+}
+
+877.2.1 = {
+	holder = 1016284
+}
+
+917.2.1 = {
+	holder = 1017697
+}
+
+935.2.1 = {
+	holder = 1019741
+}
+
+960.2.1 = {
+	holder = 1021382
+}
+
+962.2.1 = {
+	holder = 1021465
+}
+
+1010.2.1 = {
+	holder = 1021597
+}
+
+1020.2.1 = {
+	holder = 1023518
+}
+

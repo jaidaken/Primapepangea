@@ -1,0 +1,5 @@
+	title = c_edanabi
+	max_settlements = 2
+	culture = assamese
+	religion = interface_skin
+	b_teahara = tribal

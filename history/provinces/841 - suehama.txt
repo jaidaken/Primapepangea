@@ -1,0 +1,5 @@
+	title = c_suehama
+	max_settlements = 2
+	culture = suebi
+	religion = pagan
+	b_rapacob = tribal

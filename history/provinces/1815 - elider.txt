@@ -1,0 +1,5 @@
+	title = c_elider
+	max_settlements = 2
+	culture = basque
+	religion = ibadi
+	b_ezdo-lua = tribal

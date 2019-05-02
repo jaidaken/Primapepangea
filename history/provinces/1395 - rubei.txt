@@ -1,0 +1,5 @@
+	title = c_rubei
+	max_settlements = 3
+	culture = norman
+	religion = sunni
+	b_lireka = tribal

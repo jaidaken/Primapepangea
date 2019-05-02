@@ -1,0 +1,5 @@
+	title = c_kivazan
+	max_settlements = 2
+	culture = portuguese
+	religion = catholic
+	b_teoriam = tribal

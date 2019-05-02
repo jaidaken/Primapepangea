@@ -1,0 +1,5 @@
+	title = c_tipili
+	max_settlements = 2
+	culture = mongol
+	religion = zoroastrian
+	b_ravalha = tribal

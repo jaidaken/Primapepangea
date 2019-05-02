@@ -1,0 +1,5 @@
+	title = c_ramusa
+	max_settlements = 2
+	culture = russian
+	religion = samaritan
+	b_bozund = tribal

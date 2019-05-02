@@ -1,0 +1,5 @@
+	title = c_queova
+	max_settlements = 2
+	culture = catalan
+	religion = samaritan
+	b_nonind = tribal

@@ -1,0 +1,136 @@
+758.2.1 = {
+	holder = 1000018
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_dacifon
+}
+
+758.2.3 = {
+	liege = d_dacifon
+}
+
+758.2.4 = {
+	holder = 1001103
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+801.2.1 = {
+	holder = 1006376
+}
+
+822.2.1 = {
+	holder = 1012166
+}
+
+849.2.1 = {
+	holder = 1015030
+}
+
+851.2.1 = {
+	holder = 1011879
+}
+
+870.2.1 = {
+	liege = d_wanifon
+}
+
+870.2.2 = {
+	liege = d_kavild
+}
+
+870.2.3 = {
+	liege = d_elemar
+}
+
+870.2.4 = {
+	liege = d_banisa
+}
+
+870.2.5 = {
+	holder = 1015678
+}
+
+870.2.6 = {
+	liege = k_satavan
+}
+
+900.2.1 = {
+	liege = d_resine
+}
+
+900.2.2 = {
+	liege = d_wanifon
+}
+
+900.2.3 = {
+	liege = d_raula
+}
+
+900.2.4 = {
+	liege = d_kavild
+}
+
+900.2.5 = {
+	liege = d_elemar
+}
+
+900.2.6 = {
+	liege = d_banisa
+}
+
+900.2.7 = {
+	holder = 1018832
+}
+
+935.2.1 = {
+	liege = d_elemar
+}
+
+935.2.2 = {
+	liege = d_kavild
+}
+
+935.2.3 = {
+	holder = 1018960
+}
+
+961.2.1 = {
+	holder = 1020410
+}
+
+993.2.1 = {
+	liege = d_elemar
+}
+
+993.2.2 = {
+	liege = d_banisa
+}
+
+993.2.3 = {
+	holder = 1021569
+}
+
+1016.2.1 = {
+	liege = d_elemar
+}
+
+1016.2.2 = {
+	liege = d_kavild
+}
+
+1016.2.3 = {
+	holder = 1022718
+}
+
+1044.2.1 = {
+	holder = 1023796
+}
+
+1049.2.1 = {
+	holder = 1024831
+}
+

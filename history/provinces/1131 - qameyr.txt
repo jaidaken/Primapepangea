@@ -1,0 +1,5 @@
+	title = c_qameyr
+	max_settlements = 2
+	culture = lettigallish
+	religion = iconoclast
+	b_rarert = tribal

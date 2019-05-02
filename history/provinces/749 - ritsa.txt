@@ -1,0 +1,5 @@
+	title = c_ritsa
+	max_settlements = 2
+	culture = kirghiz
+	religion = zun_pagan
+	b_banunah = tribal

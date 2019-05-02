@@ -1,0 +1,5 @@
+	title = c_togimiy
+	max_settlements = 2
+	culture = baloch
+	religion = zun_pagan
+	b_koyafon = tribal

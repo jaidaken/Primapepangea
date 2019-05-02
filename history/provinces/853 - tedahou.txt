@@ -1,0 +1,5 @@
+	title = c_tedahou
+	max_settlements = 2
+	culture = english
+	religion = nestorian
+	b_deilyuk = tribal

@@ -1,0 +1,5 @@
+	title = c_babavai
+	max_settlements = 2
+	culture = lithuanian
+	religion = fraticelli
+	b_qevaared = tribal

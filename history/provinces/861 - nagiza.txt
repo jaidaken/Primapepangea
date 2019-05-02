@@ -1,0 +1,5 @@
+	title = c_nagiza
+	max_settlements = 2
+	culture = norwegian
+	religion = kharijite
+	b_nalulev = tribal

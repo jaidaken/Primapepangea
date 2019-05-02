@@ -1,0 +1,5 @@
+	title = c_banahar
+	max_settlements = 2
+	culture = songhay
+	religion = buddhist
+	b_dezaway = tribal

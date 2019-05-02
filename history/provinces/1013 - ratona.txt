@@ -1,0 +1,5 @@
+	title = c_ratona
+	max_settlements = 2
+	culture = bodpa
+	religion = druze
+	b_kalofan = tribal

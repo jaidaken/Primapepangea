@@ -1,0 +1,5 @@
+	title = c_nyosavo
+	max_settlements = 2
+	culture = german
+	religion = shiite
+	b_tarard = tribal

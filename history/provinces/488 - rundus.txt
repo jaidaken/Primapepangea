@@ -1,0 +1,5 @@
+	title = c_rundus
+	max_settlements = 2
+	culture = coptic
+	religion = baltic_pagan
+	b_wyaia = tribal

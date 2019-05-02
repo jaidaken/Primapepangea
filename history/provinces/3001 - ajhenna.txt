@@ -1,0 +1,5 @@
+	title = c_ajhenna
+	max_settlements = 2
+	culture = suebi
+	religion = sunni
+	b_atekya = tribal

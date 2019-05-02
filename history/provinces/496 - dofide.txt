@@ -1,0 +1,5 @@
+	title = c_dofide
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = messalian
+	b_ratanta = tribal

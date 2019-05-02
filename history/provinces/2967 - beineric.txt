@@ -1,0 +1,5 @@
+	title = c_beineric
+	max_settlements = 2
+	culture = romanian
+	religion = norse_pagan
+	b_tameric = tribal

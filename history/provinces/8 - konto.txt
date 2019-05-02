@@ -1,0 +1,5 @@
+	title = c_konto
+	max_settlements = 3
+	culture = dalmatian
+	religion = miaphysite
+	b_timo = tribal

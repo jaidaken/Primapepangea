@@ -1,0 +1,5 @@
+	title = c_daran
+	max_settlements = 2
+	culture = suebi
+	religion = samaritan
+	b_seubesh = tribal

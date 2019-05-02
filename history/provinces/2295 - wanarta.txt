@@ -1,0 +1,5 @@
+	title = c_wanarta
+	max_settlements = 2
+	culture = suebi
+	religion = jewish
+	b_ripani = tribal

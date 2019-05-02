@@ -1,0 +1,114 @@
+758.2.1 = {
+	holder = 1000039
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000041
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1002349
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_kolyg
+}
+
+758.2.5 = {
+	holder = 1002350
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.6 = {
+	liege = d_wuirory
+}
+
+758.2.7 = {
+	holder = 1002316
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+900.2.1 = {
+	holder = 1018584
+}
+
+912.2.1 = {
+	liege = d_racinic
+}
+
+912.2.2 = {
+	holder = 1018638
+}
+
+918.2.1 = {
+	holder = 1019413
+}
+
+922.2.1 = {
+	liege = d_wuirory
+}
+
+922.2.2 = {
+	liege = d_nilenzo
+}
+
+922.2.3 = {
+	holder = 1019815
+}
+
+971.2.1 = {
+	holder = 1021818
+}
+
+977.2.1 = {
+	holder = 1022056
+}
+
+1037.2.1 = {
+	liege = d_wuirory
+}
+
+1037.2.2 = {
+	liege = d_racinic
+}
+
+1037.2.3 = {
+	holder = 1022099
+}
+
+1043.2.1 = {
+	liege = d_wuirory
+}
+
+1043.2.2 = {
+	liege = d_nilenzo
+}
+
+1043.2.3 = {
+	holder = 1024533
+}
+
+1058.2.1 = {
+	holder = 1025269
+}
+
+1060.2.1 = {
+	liege = d_wuirory
+}
+
+1060.2.2 = {
+	liege = d_racinic
+}
+
+1060.2.3 = {
+	holder = 1025343
+}
+

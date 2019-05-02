@@ -1,0 +1,5 @@
+	title = c_dodolun
+	max_settlements = 4
+	culture = uyghur
+	religion = zikri
+	b_bamuu = tribal

@@ -1,0 +1,5 @@
+	title = c_atecco
+	max_settlements = 2
+	culture = cuman
+	religion = messalian
+	b_atoste = tribal

@@ -1,0 +1,5 @@
+	title = c_qavavan
+	max_settlements = 2
+	culture = tocharian
+	religion = tengri_pagan_reformed
+	b_qikanab = tribal

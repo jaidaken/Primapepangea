@@ -1,0 +1,5 @@
+	title = c_rolila
+	max_settlements = 3
+	culture = severian
+	religion = interface_skin
+	b_tuleria = tribal

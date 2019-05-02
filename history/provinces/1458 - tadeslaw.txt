@@ -1,0 +1,5 @@
+	title = c_tadeslaw
+	max_settlements = 2
+	culture = pictish
+	religion = aztec_reformed
+	b_nadya = tribal

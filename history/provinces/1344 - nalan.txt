@@ -1,0 +1,5 @@
+	title = c_nalan
+	max_settlements = 2
+	culture = komi
+	religion = jewish
+	b_taspar = tribal

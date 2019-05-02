@@ -1,0 +1,5 @@
+	title = c_wolako
+	max_settlements = 2
+	culture = bulgarian
+	religion = shiite
+	b_danako = tribal

@@ -1,0 +1,5 @@
+	title = c_sanid
+	max_settlements = 3
+	culture = zhangzhung
+	religion = slavic_pagan_reformed
+	b_qidida = tribal

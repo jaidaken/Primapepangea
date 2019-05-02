@@ -1,0 +1,5 @@
+	title = c_debudor
+	max_settlements = 2
+	culture = manden
+	religion = bogomilist
+	b_kavaise = tribal

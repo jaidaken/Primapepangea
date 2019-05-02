@@ -1,0 +1,5 @@
+	title = c_secoot
+	max_settlements = 2
+	culture = mongol
+	religion = shiite
+	b_woyley = tribal

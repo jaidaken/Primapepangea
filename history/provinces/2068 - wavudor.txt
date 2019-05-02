@@ -1,0 +1,5 @@
+	title = c_wavudor
+	max_settlements = 2
+	culture = serbian
+	religion = monothelite
+	b_ludold = tribal

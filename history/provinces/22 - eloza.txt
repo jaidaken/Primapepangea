@@ -1,0 +1,5 @@
+	title = c_eloza
+	max_settlements = 2
+	culture = panjabi
+	religion = jewish
+	b_echuo = tribal

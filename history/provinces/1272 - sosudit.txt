@@ -1,0 +1,5 @@
+	title = c_sosudit
+	max_settlements = 2
+	culture = zhangzhung
+	religion = hellenic_pagan_reformed
+	b_latala = tribal

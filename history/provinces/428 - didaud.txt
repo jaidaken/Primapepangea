@@ -1,0 +1,5 @@
+	title = c_didaud
+	max_settlements = 2
+	culture = kanuri
+	religion = norse_pagan
+	b_kidhaud = tribal

@@ -1,0 +1,5 @@
+	title = c_ragarma
+	max_settlements = 2
+	culture = turkish
+	religion = pagan
+	b_deniga = tribal

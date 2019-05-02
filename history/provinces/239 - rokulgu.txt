@@ -1,0 +1,5 @@
+	title = c_rokulgu
+	max_settlements = 3
+	culture = jurchen
+	religion = shiite
+	b_kuvven = tribal

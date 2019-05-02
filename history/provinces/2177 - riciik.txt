@@ -1,0 +1,5 @@
+	title = c_riciik
+	max_settlements = 2
+	culture = songhay
+	religion = aztec_reformed
+	b_teupessa = tribal

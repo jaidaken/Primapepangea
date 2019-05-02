@@ -1,0 +1,5 @@
+	title = c_rusetri
+	max_settlements = 2
+	culture = mongol
+	religion = pagan
+	b_daut = tribal

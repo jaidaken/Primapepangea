@@ -1,0 +1,5 @@
+	title = c_keryen
+	max_settlements = 2
+	culture = coptic
+	religion = bon_reformed
+	b_ekedine = tribal

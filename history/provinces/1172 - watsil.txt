@@ -1,0 +1,5 @@
+	title = c_watsil
+	max_settlements = 2
+	culture = soninke
+	religion = tengri_pagan
+	b_katasil = tribal

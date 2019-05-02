@@ -1,0 +1,126 @@
+758.2.1 = {
+	holder = 1000019
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001151
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_qabusha
+}
+
+758.2.4 = {
+	holder = 1001149
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+792.2.1 = {
+	holder = 1007506
+}
+
+824.2.1 = {
+	holder = 1009989
+}
+
+843.2.1 = {
+	liege = d_qonusha
+}
+
+843.2.2 = {
+	holder = 1014241
+}
+
+870.2.1 = {
+	liege = d_qabusha
+}
+
+870.2.2 = {
+	holder = 1015538
+}
+
+878.2.1 = {
+	liege = d_adurund
+}
+
+878.2.2 = {
+	holder = 1017286
+}
+
+878.2.3 = {
+	liege = k_leetiba
+}
+
+937.2.1 = {
+	liege = d_seufesa
+}
+
+937.2.2 = {
+	liege = d_devund
+}
+
+937.2.3 = {
+	liege = d_donarsa
+}
+
+937.2.4 = {
+	liege = d_qabusha
+}
+
+937.2.5 = {
+	liege = d_qonusha
+}
+
+937.2.6 = {
+	holder = 1018255
+}
+
+954.2.1 = {
+	liege = d_qabusha
+}
+
+954.2.2 = {
+	holder = 1021115
+}
+
+972.2.1 = {
+	liege = d_qonusha
+}
+
+972.2.2 = {
+	holder = 1021156
+}
+
+980.2.1 = {
+	liege = d_qabusha
+}
+
+980.2.2 = {
+	holder = 1022040
+}
+
+1013.2.1 = {
+	liege = d_qonusha
+}
+
+1013.2.2 = {
+	holder = 1022720
+}
+
+1033.2.1 = {
+	liege = d_qabusha
+}
+
+1033.2.2 = {
+	holder = 1023610
+}
+
+1063.2.1 = {
+	holder = 1024528
+}
+

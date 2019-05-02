@@ -1,0 +1,5 @@
+	title = c_neatatt
+	max_settlements = 2
+	culture = khanty
+	religion = catholic
+	b_rideva = tribal

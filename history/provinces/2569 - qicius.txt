@@ -1,0 +1,5 @@
+	title = c_qicius
+	max_settlements = 2
+	culture = prussian
+	religion = zun_pagan_reformed
+	b_teupajko = tribal

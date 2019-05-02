@@ -1,0 +1,5 @@
+	title = c_kantia
+	max_settlements = 2
+	culture = ethiopian
+	religion = interface_skin
+	b_rian = tribal

@@ -1,0 +1,5 @@
+	title = c_wora
+	max_settlements = 2
+	culture = pommeranian
+	religion = druze
+	b_astuksin = tribal

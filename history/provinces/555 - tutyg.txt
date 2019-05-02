@@ -1,0 +1,5 @@
+	title = c_tutyg
+	max_settlements = 2
+	culture = frisian
+	religion = catholic
+	b_nokecco = tribal

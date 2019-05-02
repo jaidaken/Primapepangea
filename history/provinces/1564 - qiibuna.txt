@@ -1,0 +1,5 @@
+	title = c_qiibuna
+	max_settlements = 2
+	culture = turkish
+	religion = baltic_pagan_reformed
+	b_wuu = tribal

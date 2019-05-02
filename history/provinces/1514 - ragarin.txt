@@ -1,0 +1,5 @@
+	title = c_ragarin
+	max_settlements = 2
+	culture = marathi
+	religion = hellenic_pagan_reformed
+	b_dirarin = tribal

@@ -1,0 +1,5 @@
+	title = c_evallad
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = finnish_pagan
+	b_rirad = tribal

@@ -1,0 +1,5 @@
+	title = c_quallo
+	max_settlements = 2
+	culture = manden
+	religion = bon_reformed
+	b_kauleova = tribal

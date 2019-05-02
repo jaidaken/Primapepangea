@@ -1,0 +1,5 @@
+	title = c_kahuila
+	max_settlements = 2
+	culture = cuman
+	religion = paulician
+	b_neudasan = tribal

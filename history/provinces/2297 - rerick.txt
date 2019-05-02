@@ -1,0 +1,5 @@
+	title = c_rerick
+	max_settlements = 2
+	culture = mongol
+	religion = baltic_pagan
+	b_resojan = tribal

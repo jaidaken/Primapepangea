@@ -1,0 +1,194 @@
+758.2.1 = {
+	holder = 1000084
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1004155
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_baboan
+}
+
+758.2.4 = {
+	holder = 1004154
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+792.2.1 = {
+	holder = 1009004
+}
+
+826.2.1 = {
+	holder = 1013873
+}
+
+849.2.1 = {
+	holder = 1015524
+}
+
+883.2.1 = {
+	holder = 1017927
+}
+
+902.2.1 = {
+	holder = 1016480
+}
+
+910.2.1 = {
+	holder = 1018269
+}
+
+951.2.1 = {
+	liege = d_nayathe
+}
+
+951.2.2 = {
+	holder = 1019623
+}
+
+952.2.1 = {
+	holder = 1021068
+}
+
+965.2.1 = {
+	holder = 1021593
+}
+
+965.2.2 = {
+	liege = k_borir
+}
+
+970.2.1 = {
+	liege = d_rusir
+}
+
+970.2.2 = {
+	liege = d_taach
+}
+
+970.2.3 = {
+	liege = d_qahata
+}
+
+970.2.4 = {
+	liege = d_selaach
+}
+
+970.2.5 = {
+	liege = d_baboan
+}
+
+970.2.6 = {
+	liege = d_koroan
+}
+
+970.2.7 = {
+	liege = d_revata
+}
+
+970.2.8 = {
+	liege = d_nayathe
+}
+
+970.2.9 = {
+	holder = 1021793
+}
+
+970.2.10 = {
+	liege = k_borir
+}
+
+989.2.1 = {
+	liege = d_avonza
+}
+
+989.2.2 = {
+	liege = d_selaach
+}
+
+989.2.3 = {
+	liege = d_qahata
+}
+
+989.2.4 = {
+	liege = d_taach
+}
+
+989.2.5 = {
+	liege = d_revata
+}
+
+989.2.6 = {
+	liege = d_koroan
+}
+
+989.2.7 = {
+	liege = d_baboan
+}
+
+989.2.8 = {
+	liege = d_nayathe
+}
+
+989.2.9 = {
+	holder = 1022208
+}
+
+1012.2.1 = {
+	holder = 1022893
+}
+
+1012.2.2 = {
+	liege = k_borir
+}
+
+1028.2.1 = {
+	liege = d_avonza
+}
+
+1028.2.2 = {
+	liege = d_selaach
+}
+
+1028.2.3 = {
+	liege = d_qahata
+}
+
+1028.2.4 = {
+	liege = d_taach
+}
+
+1028.2.5 = {
+	liege = d_revata
+}
+
+1028.2.6 = {
+	liege = d_koroan
+}
+
+1028.2.7 = {
+	liege = d_baboan
+}
+
+1028.2.8 = {
+	liege = d_nayathe
+}
+
+1028.2.9 = {
+	holder = 1023930
+}
+
+1048.2.1 = {
+	holder = 1024671
+}
+
+1048.2.2 = {
+	liege = k_borir
+}
+

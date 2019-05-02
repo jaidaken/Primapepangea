@@ -1,0 +1,5 @@
+	title = c_rahedia
+	max_settlements = 4
+	culture = dalmatian
+	religion = nestorian
+	b_wubivia = tribal

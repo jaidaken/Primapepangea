@@ -1,0 +1,180 @@
+758.2.1 = {
+	holder = 1000090
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1004314
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_emeth
+}
+
+758.2.4 = {
+	holder = 1004315
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	liege = d_beth
+}
+
+758.2.6 = {
+	holder = 1004323
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+778.2.1 = {
+	holder = 1006020
+}
+
+807.2.1 = {
+	holder = 1009744
+}
+
+834.2.1 = {
+	holder = 1013324
+}
+
+847.2.1 = {
+	liege = d_deceth
+}
+
+847.2.2 = {
+	holder = 1015565
+}
+
+852.2.1 = {
+	holder = 1016074
+}
+
+853.2.1 = {
+	holder = 1016140
+}
+
+854.2.1 = {
+	holder = 1013467
+}
+
+887.2.1 = {
+	liege = d_rereon
+}
+
+887.2.2 = {
+	holder = 1016107
+}
+
+887.2.3 = {
+	liege = k_tevi
+}
+
+894.2.1 = {
+	liege = d_nateova
+}
+
+894.2.2 = {
+	liege = d_deceth
+}
+
+894.2.3 = {
+	liege = d_rereon
+}
+
+894.2.4 = {
+	holder = 1018546
+}
+
+894.2.5 = {
+	liege = k_tevi
+}
+
+905.2.1 = {
+	liege = d_rereon
+}
+
+905.2.2 = {
+	liege = d_beth
+}
+
+905.2.3 = {
+	liege = d_rudopir
+}
+
+905.2.4 = {
+	liege = d_deceth
+}
+
+905.2.5 = {
+	liege = d_nateova
+}
+
+905.2.6 = {
+	holder = 1019077
+}
+
+929.2.1 = {
+	liege = d_deceth
+}
+
+929.2.2 = {
+	liege = d_rudopir
+}
+
+929.2.3 = {
+	holder = 1019152
+}
+
+930.2.1 = {
+	holder = 1020195
+}
+
+938.2.1 = {
+	holder = 1020238
+}
+
+949.2.1 = {
+	liege = d_deceth
+}
+
+949.2.2 = {
+	liege = d_nateova
+}
+
+949.2.3 = {
+	holder = 1020961
+}
+
+988.2.1 = {
+	holder = 1021460
+}
+
+1009.2.1 = {
+	liege = d_deceth
+}
+
+1009.2.2 = {
+	liege = d_rudopir
+}
+
+1009.2.3 = {
+	holder = 1023050
+}
+
+1052.2.1 = {
+	holder = 1025032
+}
+
+1061.2.1 = {
+	liege = 0
+}
+
+1061.2.2 = {
+	holder = 1025156
+}
+

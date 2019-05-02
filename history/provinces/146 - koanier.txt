@@ -1,0 +1,5 @@
+	title = c_koanier
+	max_settlements = 2
+	culture = occitan
+	religion = hellenic_pagan
+	b_beubard = tribal

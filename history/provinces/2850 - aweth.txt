@@ -1,0 +1,5 @@
+	title = c_aweth
+	max_settlements = 3
+	culture = coptic
+	religion = hurufi
+	b_tagarma = tribal

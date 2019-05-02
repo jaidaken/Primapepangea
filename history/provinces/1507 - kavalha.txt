@@ -1,0 +1,5 @@
+	title = c_kavalha
+	max_settlements = 2
+	culture = kannada
+	religion = tengri_pagan
+	b_qibili = tribal

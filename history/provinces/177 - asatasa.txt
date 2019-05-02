@@ -1,0 +1,5 @@
+	title = c_asatasa
+	max_settlements = 2
+	culture = lappish
+	religion = jain
+	b_esirasa = tribal

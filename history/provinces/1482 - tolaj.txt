@@ -1,0 +1,5 @@
+	title = c_tolaj
+	max_settlements = 3
+	culture = bodpa
+	religion = yazidi
+	b_tuksin = tribal

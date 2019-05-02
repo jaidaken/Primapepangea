@@ -1,0 +1,5 @@
+	title = c_rosin
+	max_settlements = 2
+	culture = german
+	religion = baltic_pagan
+	b_tajudit = tribal

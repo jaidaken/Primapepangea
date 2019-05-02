@@ -1,0 +1,5 @@
+	title = c_egarina
+	max_settlements = 2
+	culture = kanuri
+	religion = buddhist
+	b_rotetar = tribal

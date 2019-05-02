@@ -1,0 +1,5 @@
+	title = c_qinluo
+	max_settlements = 2
+	culture = alan
+	religion = catholic
+	b_beszek = tribal

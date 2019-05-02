@@ -1,0 +1,5 @@
+	title = c_adavaul
+	max_settlements = 2
+	culture = castillan
+	religion = druze
+	b_sadaul = tribal

@@ -1,0 +1,5 @@
+	title = c_ralleos
+	max_settlements = 2
+	culture = portuguese
+	religion = buddhist
+	b_sirida = tribal

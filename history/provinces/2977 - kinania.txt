@@ -1,0 +1,5 @@
+	title = c_kinania
+	max_settlements = 4
+	culture = ashkenazi
+	religion = monophysite
+	b_qisanda = tribal

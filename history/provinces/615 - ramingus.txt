@@ -1,0 +1,5 @@
+	title = c_ramingus
+	max_settlements = 3
+	culture = nepali
+	religion = iconoclast
+	b_beriulf = tribal

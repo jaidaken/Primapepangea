@@ -1,0 +1,5 @@
+	title = c_wozana
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = aztec_reformed
+	b_kamacob = tribal

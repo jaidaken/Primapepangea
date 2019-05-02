@@ -1,0 +1,5 @@
+	title = c_linand
+	max_settlements = 2
+	culture = frisian
+	religion = catholic
+	b_kerand = tribal

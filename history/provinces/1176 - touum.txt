@@ -1,0 +1,5 @@
+	title = c_touum
+	max_settlements = 2
+	culture = english
+	religion = kharijite
+	b_ridu = tribal

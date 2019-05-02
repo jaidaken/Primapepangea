@@ -1,0 +1,5 @@
+	title = c_kacarka
+	max_settlements = 2
+	culture = khazar
+	religion = hellenic_pagan
+	b_eforudah = tribal

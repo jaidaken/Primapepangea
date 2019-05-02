@@ -1,0 +1,5 @@
+	title = c_kagavan
+	max_settlements = 2
+	culture = oriya
+	religion = norse_pagan
+	b_bisarka = tribal

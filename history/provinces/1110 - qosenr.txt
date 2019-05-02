@@ -1,0 +1,5 @@
+	title = c_qosenr
+	max_settlements = 2
+	culture = nepali
+	religion = shiite
+	b_dipindik = tribal

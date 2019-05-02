@@ -1,0 +1,5 @@
+	title = c_takigin
+	max_settlements = 2
+	culture = german
+	religion = zikri
+	b_avivalma = tribal

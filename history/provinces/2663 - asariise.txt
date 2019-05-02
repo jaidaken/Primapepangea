@@ -1,0 +1,5 @@
+	title = c_asariise
+	max_settlements = 3
+	culture = sephardi
+	religion = hellenic_pagan_reformed
+	b_ravagpa = tribal

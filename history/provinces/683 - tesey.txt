@@ -1,0 +1,5 @@
+	title = c_tesey
+	max_settlements = 3
+	culture = andalusian_arabic
+	religion = west_african_pagan
+	b_nolf = tribal

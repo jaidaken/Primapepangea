@@ -1,0 +1,5 @@
+	title = c_rike
+	max_settlements = 2
+	culture = khanty
+	religion = pagan
+	b_taymike = tribal

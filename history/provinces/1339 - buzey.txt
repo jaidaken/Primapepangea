@@ -1,0 +1,5 @@
+	title = c_buzey
+	max_settlements = 2
+	culture = old_saxon
+	religion = bon_reformed
+	b_sakite = tribal

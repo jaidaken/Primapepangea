@@ -1,0 +1,5 @@
+	title = c_rerelw
+	max_settlements = 2
+	culture = severian
+	religion = bon_reformed
+	b_satatso = tribal

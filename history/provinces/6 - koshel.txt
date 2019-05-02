@@ -1,0 +1,5 @@
+	title = c_koshel
+	max_settlements = 2
+	culture = karluk
+	religion = baltic_pagan_reformed
+	b_equedena = tribal

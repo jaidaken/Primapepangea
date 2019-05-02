@@ -1,0 +1,5 @@
+	title = c_kearew
+	max_settlements = 2
+	culture = kirghiz
+	religion = color
+	b_ruduraj = tribal

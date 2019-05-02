@@ -1,0 +1,5 @@
+	title = c_kanice
+	max_settlements = 3
+	culture = finnish
+	religion = zoroastrian
+	b_rusunes = tribal

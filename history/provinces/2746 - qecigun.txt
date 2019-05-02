@@ -1,0 +1,5 @@
+	title = c_qecigun
+	max_settlements = 2
+	culture = old_frankish
+	religion = paulician
+	b_kurusha = tribal

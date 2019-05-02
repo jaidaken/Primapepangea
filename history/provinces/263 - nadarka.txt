@@ -1,0 +1,5 @@
+	title = c_nadarka
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = waldensian
+	b_tosyag = tribal

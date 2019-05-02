@@ -1,0 +1,5 @@
+	title = c_nelara
+	max_settlements = 3
+	culture = marathi
+	religion = west_african_pagan_reformed
+	b_luunara = tribal

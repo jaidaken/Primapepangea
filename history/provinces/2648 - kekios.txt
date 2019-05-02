@@ -1,0 +1,5 @@
+	title = c_kekios
+	max_settlements = 2
+	culture = outremer
+	religion = waldensian
+	b_rarora = tribal

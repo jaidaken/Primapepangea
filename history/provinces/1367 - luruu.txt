@@ -1,0 +1,5 @@
+	title = c_luruu
+	max_settlements = 2
+	culture = armenian
+	religion = druze
+	b_baimuu = tribal

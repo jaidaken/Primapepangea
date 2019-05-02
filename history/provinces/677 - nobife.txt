@@ -1,0 +1,5 @@
+	title = c_nobife
+	max_settlements = 2
+	culture = russian
+	religion = west_african_pagan
+	b_lalayra = tribal

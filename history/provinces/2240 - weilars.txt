@@ -1,0 +1,5 @@
+	title = c_weilars
+	max_settlements = 2
+	culture = daju
+	religion = aztec_reformed
+	b_kotite = tribal

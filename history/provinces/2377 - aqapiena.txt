@@ -1,0 +1,5 @@
+	title = c_aqapiena
+	max_settlements = 2
+	culture = arberian
+	religion = baltic_pagan_reformed
+	b_qanona = tribal

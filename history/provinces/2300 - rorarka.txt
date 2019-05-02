@@ -1,0 +1,5 @@
+	title = c_rorarka
+	max_settlements = 3
+	culture = prussian
+	religion = west_african_pagan_reformed
+	b_kulakr = tribal

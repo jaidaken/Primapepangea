@@ -1,0 +1,5 @@
+	title = c_tiibara
+	max_settlements = 2
+	culture = turkish
+	religion = interface_skin
+	b_tiiban = tribal

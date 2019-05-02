@@ -1,0 +1,5 @@
+	title = c_wikavya
+	max_settlements = 2
+	culture = irish
+	religion = pagan
+	b_tapupta = tribal

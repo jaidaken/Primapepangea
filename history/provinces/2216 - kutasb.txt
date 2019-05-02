@@ -1,0 +1,5 @@
+	title = c_kutasb
+	max_settlements = 2
+	culture = han
+	religion = manichean
+	b_widya = tribal

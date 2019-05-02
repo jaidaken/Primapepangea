@@ -1,0 +1,5 @@
+	title = c_roumepa
+	max_settlements = 2
+	culture = greek
+	religion = bogomilist
+	b_qoraut = tribal

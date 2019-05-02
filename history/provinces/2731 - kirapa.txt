@@ -1,0 +1,5 @@
+	title = c_kirapa
+	max_settlements = 2
+	culture = lappish
+	religion = paulician
+	b_nang = tribal

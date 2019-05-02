@@ -1,0 +1,5 @@
+	title = c_nata
+	max_settlements = 2
+	culture = uyghur
+	religion = tengri_pagan
+	b_bafond = tribal

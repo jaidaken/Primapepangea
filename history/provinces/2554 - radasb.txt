@@ -1,0 +1,5 @@
+	title = c_radasb
+	max_settlements = 2
+	culture = afghan
+	religion = hindu
+	b_bidumo = tribal

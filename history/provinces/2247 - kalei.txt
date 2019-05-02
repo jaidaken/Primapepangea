@@ -1,0 +1,5 @@
+	title = c_kalei
+	max_settlements = 2
+	culture = nahuatl
+	religion = zun_pagan
+	b_avinian = tribal

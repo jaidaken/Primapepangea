@@ -1,0 +1,5 @@
+	title = c_ececahim
+	max_settlements = 2
+	culture = khanty
+	religion = fraticelli
+	b_remahim = tribal

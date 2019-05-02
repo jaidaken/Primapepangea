@@ -1,0 +1,5 @@
+	title = c_edirah
+	max_settlements = 2
+	culture = finnish
+	religion = iconoclast
+	b_kirand = tribal

@@ -1,0 +1,5 @@
+	title = c_salouz
+	max_settlements = 2
+	culture = norwegian
+	religion = sunni
+	b_kahuinu = tribal

@@ -1,0 +1,5 @@
+	title = c_sarenda
+	max_settlements = 3
+	culture = coptic
+	religion = baltic_pagan_reformed
+	b_rerund = tribal

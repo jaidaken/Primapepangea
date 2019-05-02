@@ -1,0 +1,5 @@
+	title = c_siata
+	max_settlements = 2
+	culture = occitan
+	religion = catholic
+	b_lyolara = tribal

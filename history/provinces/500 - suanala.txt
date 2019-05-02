@@ -1,0 +1,5 @@
+	title = c_suanala
+	max_settlements = 3
+	culture = coptic
+	religion = tengri_pagan
+	b_sigide = tribal

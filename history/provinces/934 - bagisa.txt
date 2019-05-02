@@ -1,0 +1,5 @@
+	title = c_bagisa
+	max_settlements = 2
+	culture = daju
+	religion = slavic_pagan
+	b_timanay = tribal

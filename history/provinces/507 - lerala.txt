@@ -1,0 +1,5 @@
+	title = c_lerala
+	max_settlements = 2
+	culture = dalmatian
+	religion = zun_pagan
+	b_wofala = tribal

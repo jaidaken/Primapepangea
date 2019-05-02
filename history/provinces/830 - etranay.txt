@@ -1,0 +1,5 @@
+	title = c_etranay
+	max_settlements = 2
+	culture = occitan
+	religion = aztec
+	b_qaleslav = tribal

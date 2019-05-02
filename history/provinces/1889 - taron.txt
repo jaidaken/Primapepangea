@@ -1,0 +1,5 @@
+	title = c_taron
+	max_settlements = 2
+	culture = norwegian
+	religion = baltic_pagan_reformed
+	b_nesust = tribal

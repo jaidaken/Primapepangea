@@ -1,0 +1,5 @@
+	title = c_nodusha
+	max_settlements = 3
+	culture = swedish
+	religion = interface_skin
+	b_qurigun = tribal

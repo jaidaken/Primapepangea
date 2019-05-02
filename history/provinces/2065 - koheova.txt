@@ -1,0 +1,5 @@
+	title = c_koheova
+	max_settlements = 2
+	culture = sindhi
+	religion = cathar
+	b_kameca = tribal

@@ -1,0 +1,5 @@
+	title = c_agirili
+	max_settlements = 2
+	culture = nepali
+	religion = west_african_pagan
+	b_serindo = tribal

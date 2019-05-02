@@ -1,0 +1,5 @@
+	title = c_ruden
+	max_settlements = 3
+	culture = old_frankish
+	religion = bon
+	b_rumo = tribal

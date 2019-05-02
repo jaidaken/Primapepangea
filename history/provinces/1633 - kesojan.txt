@@ -1,0 +1,5 @@
+	title = c_kesojan
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = manichean
+	b_larojan = tribal

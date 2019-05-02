@@ -1,0 +1,280 @@
+758.2.1 = {
+	holder = 1000011
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_natexis
+}
+
+758.2.3 = {
+	liege = d_natexis
+}
+
+758.2.4 = {
+	holder = 1000751
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+789.2.1 = {
+	holder = 1006655
+}
+
+792.2.1 = {
+	holder = 1008094
+}
+
+828.2.1 = {
+	holder = 1012654
+}
+
+836.2.1 = {
+	holder = 1014919
+}
+
+837.2.1 = {
+	holder = 1010244
+}
+
+855.2.1 = {
+	liege = d_rapau
+}
+
+855.2.2 = {
+	liege = d_barall
+}
+
+855.2.3 = {
+	liege = d_ragiga
+}
+
+855.2.4 = {
+	liege = d_kedall
+}
+
+855.2.5 = {
+	holder = 1011872
+}
+
+855.2.6 = {
+	liege = k_kedura
+}
+
+856.2.1 = {
+	liege = d_robanga
+}
+
+856.2.2 = {
+	liege = d_boniar
+}
+
+856.2.3 = {
+	liege = d_wiaina
+}
+
+856.2.4 = {
+	liege = d_natexis
+}
+
+856.2.5 = {
+	liege = d_rapau
+}
+
+856.2.6 = {
+	liege = d_barall
+}
+
+856.2.7 = {
+	liege = d_ragiga
+}
+
+856.2.8 = {
+	liege = d_kedall
+}
+
+856.2.9 = {
+	holder = 1016311
+}
+
+856.2.10 = {
+	liege = k_kedura
+}
+
+876.2.1 = {
+	liege = d_wiaina
+}
+
+876.2.2 = {
+	liege = d_boniar
+}
+
+876.2.3 = {
+	liege = d_robanga
+}
+
+876.2.4 = {
+	liege = d_kedall
+}
+
+876.2.5 = {
+	liege = d_barall
+}
+
+876.2.6 = {
+	liege = d_rapau
+}
+
+876.2.7 = {
+	liege = d_natexis
+}
+
+876.2.8 = {
+	liege = d_ragiga
+}
+
+876.2.9 = {
+	liege = d_wagiga
+}
+
+876.2.10 = {
+	liege = d_weupacob
+}
+
+876.2.11 = {
+	holder = 1016444
+}
+
+876.2.12 = {
+	liege = k_kedura
+}
+
+877.2.1 = {
+	liege = d_wiaina
+}
+
+877.2.2 = {
+	liege = d_boniar
+}
+
+877.2.3 = {
+	liege = d_robanga
+}
+
+877.2.4 = {
+	liege = d_kedall
+}
+
+877.2.5 = {
+	liege = d_barall
+}
+
+877.2.6 = {
+	liege = d_rapau
+}
+
+877.2.7 = {
+	liege = d_natexis
+}
+
+877.2.8 = {
+	liege = d_ragiga
+}
+
+877.2.9 = {
+	liege = d_wagiga
+}
+
+877.2.10 = {
+	liege = d_weupacob
+}
+
+877.2.11 = {
+	holder = 1014303
+}
+
+877.2.12 = {
+	liege = k_kedura
+}
+
+888.2.1 = {
+	liege = d_robanga
+}
+
+888.2.2 = {
+	liege = d_boniar
+}
+
+888.2.3 = {
+	liege = d_wiaina
+}
+
+888.2.4 = {
+	liege = d_somaina
+}
+
+888.2.5 = {
+	liege = d_natexis
+}
+
+888.2.6 = {
+	liege = d_rapau
+}
+
+888.2.7 = {
+	liege = d_barall
+}
+
+888.2.8 = {
+	liege = d_kedall
+}
+
+888.2.9 = {
+	liege = d_wagiga
+}
+
+888.2.10 = {
+	liege = d_ragiga
+}
+
+888.2.11 = {
+	holder = 1017718
+}
+
+923.2.1 = {
+	holder = 1018924
+}
+
+931.2.1 = {
+	holder = 1020036
+}
+
+967.2.1 = {
+	holder = 1020810
+}
+
+969.2.1 = {
+	holder = 1021733
+}
+
+997.2.1 = {
+	liege = d_wagiga
+}
+
+997.2.2 = {
+	holder = 1022127
+}
+
+1045.2.1 = {
+	liege = d_ragiga
+}
+
+1045.2.2 = {
+	holder = 1024712
+}
+
+1050.2.1 = {
+	holder = 1024918
+}
+

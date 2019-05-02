@@ -1,0 +1,5 @@
+	title = c_ezumay
+	max_settlements = 2
+	culture = mordvin
+	religion = paulician
+	b_kapama = tribal

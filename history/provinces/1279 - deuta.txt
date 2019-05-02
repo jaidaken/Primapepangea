@@ -1,0 +1,5 @@
+	title = c_deuta
+	max_settlements = 2
+	culture = sinhala
+	religion = west_african_pagan_reformed
+	b_rebeova = tribal

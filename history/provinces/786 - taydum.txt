@@ -1,0 +1,5 @@
+	title = c_taydum
+	max_settlements = 2
+	culture = ilmenian
+	religion = west_african_pagan_reformed
+	b_neiraj = tribal

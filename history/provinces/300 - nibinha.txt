@@ -1,0 +1,5 @@
+	title = c_nibinha
+	max_settlements = 2
+	culture = swedish
+	religion = monophysite
+	b_apuxijah = tribal

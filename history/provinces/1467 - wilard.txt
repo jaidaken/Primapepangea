@@ -1,0 +1,5 @@
+	title = c_wilard
+	max_settlements = 2
+	culture = severian
+	religion = hellenic_pagan_reformed
+	b_ketani = tribal

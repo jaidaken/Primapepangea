@@ -1,0 +1,5 @@
+	title = c_amatunah
+	max_settlements = 2
+	culture = tocharian
+	religion = zun_pagan
+	b_enarria = tribal

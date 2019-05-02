@@ -1,0 +1,5 @@
+	title = c_rofanta
+	max_settlements = 2
+	culture = khitan
+	religion = bon_reformed
+	b_egrenda = tribal

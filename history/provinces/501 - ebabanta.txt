@@ -1,0 +1,5 @@
+	title = c_ebabanta
+	max_settlements = 2
+	culture = zhangzhung
+	religion = miaphysite
+	b_sahide = tribal

@@ -1,0 +1,5 @@
+	title = c_adang
+	max_settlements = 2
+	culture = basque
+	religion = slavic_pagan
+	b_dubodia = tribal

@@ -1,0 +1,5 @@
+	title = c_kegilan
+	max_settlements = 3
+	culture = baloch
+	religion = tengri_pagan
+	b_noxonda = tribal

@@ -1,0 +1,5 @@
+	title = c_satonda
+	max_settlements = 2
+	culture = coptic
+	religion = jewish
+	b_dilazu = tribal

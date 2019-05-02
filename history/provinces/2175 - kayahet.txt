@@ -1,0 +1,5 @@
+	title = c_kayahet
+	max_settlements = 2
+	culture = komi
+	religion = nestorian
+	b_niejka = tribal

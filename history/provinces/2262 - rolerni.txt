@@ -1,0 +1,5 @@
+	title = c_rolerni
+	max_settlements = 2
+	culture = carantanian
+	religion = taoist
+	b_solako = tribal

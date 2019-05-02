@@ -1,0 +1,5 @@
+	title = c_bolecco
+	max_settlements = 2
+	culture = han
+	religion = shiite
+	b_amacinic = tribal

@@ -1,0 +1,5 @@
+	title = c_damula
+	max_settlements = 2
+	culture = ashkenazi
+	religion = bon_reformed
+	b_tamore = tribal

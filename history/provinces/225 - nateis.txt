@@ -1,0 +1,5 @@
+	title = c_nateis
+	max_settlements = 2
+	culture = khanty
+	religion = west_african_pagan
+	b_sirang = tribal

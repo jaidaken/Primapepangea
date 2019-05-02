@@ -1,0 +1,120 @@
+758.2.1 = {
+	holder = 1000006
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000526
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_welen
+}
+
+758.2.4 = {
+	holder = 1000527
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000524
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+796.2.1 = {
+	holder = 1006350
+}
+
+815.2.1 = {
+	liege = d_wagama
+}
+
+815.2.2 = {
+	holder = 1010241
+}
+
+815.2.3 = {
+	liege = d_welen
+}
+
+821.2.1 = {
+	liege = d_wagama
+}
+
+821.2.2 = {
+	liege = d_soaneka
+}
+
+821.2.3 = {
+	holder = 1013752
+}
+
+844.2.1 = {
+	holder = 1015533
+}
+
+870.2.1 = {
+	liege = d_lesick
+}
+
+870.2.2 = {
+	holder = 1016376
+}
+
+884.2.1 = {
+	liege = d_soaneka
+}
+
+884.2.2 = {
+	holder = 1017672
+}
+
+936.2.1 = {
+	holder = 1018778
+}
+
+945.2.1 = {
+	liege = d_lesick
+}
+
+945.2.2 = {
+	holder = 1020449
+}
+
+950.2.1 = {
+	holder = 1020968
+}
+
+1003.2.1 = {
+	liege = d_soaneka
+}
+
+1003.2.2 = {
+	holder = 1021109
+}
+
+1005.2.1 = {
+	holder = 1023175
+}
+
+1036.2.1 = {
+	liege = d_lesick
+}
+
+1036.2.2 = {
+	holder = 1023441
+}
+
+1045.2.1 = {
+	liege = d_soaneka
+}
+
+1045.2.2 = {
+	holder = 1024601
+}
+

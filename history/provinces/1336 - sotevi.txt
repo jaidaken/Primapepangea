@@ -1,0 +1,5 @@
+	title = c_sotevi
+	max_settlements = 2
+	culture = telugu
+	religion = hurufi
+	b_kosa = tribal

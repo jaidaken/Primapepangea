@@ -1,0 +1,5 @@
+	title = c_asudor
+	max_settlements = 3
+	culture = sogdian
+	religion = bon
+	b_asopir = tribal

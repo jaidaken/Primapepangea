@@ -1,0 +1,5 @@
+	title = c_wedoth
+	max_settlements = 2
+	culture = frankish
+	religion = finnish_pagan_reformed
+	b_eicunes = tribal

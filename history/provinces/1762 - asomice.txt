@@ -1,0 +1,5 @@
+	title = c_asomice
+	max_settlements = 2
+	culture = songhay
+	religion = karaite
+	b_lice = tribal

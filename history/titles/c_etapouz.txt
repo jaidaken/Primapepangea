@@ -1,0 +1,200 @@
+758.2.1 = {
+	holder = 1000000
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000106
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_wezora
+}
+
+758.2.4 = {
+	holder = 1000107
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000104
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+900.2.1 = {
+	holder = 1017214
+}
+
+912.2.1 = {
+	liege = d_remba
+}
+
+912.2.2 = {
+	liege = d_sicsan
+}
+
+912.2.3 = {
+	liege = d_anonauq
+}
+
+912.2.4 = {
+	liege = d_qiyara
+}
+
+912.2.5 = {
+	liege = d_didemba
+}
+
+912.2.6 = {
+	liege = d_tecemba
+}
+
+912.2.7 = {
+	holder = 1019352
+}
+
+912.2.8 = {
+	liege = k_tidhti
+}
+
+913.2.1 = {
+	liege = d_wezora
+}
+
+913.2.2 = {
+	liege = d_remba
+}
+
+913.2.3 = {
+	liege = d_sicsan
+}
+
+913.2.4 = {
+	liege = d_anonauq
+}
+
+913.2.5 = {
+	liege = d_qiyara
+}
+
+913.2.6 = {
+	liege = d_didemba
+}
+
+913.2.7 = {
+	liege = d_tecemba
+}
+
+913.2.8 = {
+	holder = 1019398
+}
+
+913.2.9 = {
+	liege = k_tidhti
+}
+
+914.2.1 = {
+	liege = d_wezora
+}
+
+914.2.2 = {
+	liege = d_remba
+}
+
+914.2.3 = {
+	liege = d_sicsan
+}
+
+914.2.4 = {
+	liege = d_anonauq
+}
+
+914.2.5 = {
+	liege = d_qiyara
+}
+
+914.2.6 = {
+	liege = d_didemba
+}
+
+914.2.7 = {
+	liege = d_tecemba
+}
+
+914.2.8 = {
+	holder = 1019450
+}
+
+914.2.9 = {
+	liege = k_tidhti
+}
+
+944.2.1 = {
+	liege = d_qicavya
+}
+
+944.2.2 = {
+	liege = d_wezora
+}
+
+944.2.3 = {
+	liege = d_remba
+}
+
+944.2.4 = {
+	liege = d_sicsan
+}
+
+944.2.5 = {
+	liege = d_anonauq
+}
+
+944.2.6 = {
+	liege = d_qiyara
+}
+
+944.2.7 = {
+	liege = d_didemba
+}
+
+944.2.8 = {
+	holder = 1020158
+}
+
+970.2.1 = {
+	liege = d_qiyara
+}
+
+970.2.2 = {
+	liege = d_anonauq
+}
+
+970.2.3 = {
+	holder = 1020847
+}
+
+991.2.1 = {
+	liege = d_qiyara
+}
+
+991.2.2 = {
+	liege = d_didemba
+}
+
+991.2.3 = {
+	holder = 1021961
+}
+
+1021.2.1 = {
+	holder = 1023051
+}
+
+1039.2.1 = {
+	holder = 1024056
+}
+

@@ -1,0 +1,5 @@
+	title = c_dapukar
+	max_settlements = 2
+	culture = saka
+	religion = color
+	b_kagaina = tribal

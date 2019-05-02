@@ -1,0 +1,5 @@
+	title = c_warte
+	max_settlements = 2
+	culture = norse
+	religion = jain
+	b_wirivia = tribal

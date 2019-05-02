@@ -1,0 +1,5 @@
+	title = c_desila
+	max_settlements = 4
+	culture = tocharian
+	religion = yazidi
+	b_aqapila = tribal

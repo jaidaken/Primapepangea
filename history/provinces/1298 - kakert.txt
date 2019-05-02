@@ -1,0 +1,5 @@
+	title = c_kakert
+	max_settlements = 2
+	culture = irish
+	religion = fraticelli
+	b_rariam = tribal

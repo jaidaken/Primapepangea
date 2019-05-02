@@ -1,0 +1,5 @@
+	title = c_tesena
+	max_settlements = 2
+	culture = hausa
+	religion = jewish
+	b_reke = tribal

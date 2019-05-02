@@ -1,0 +1,5 @@
+	title = c_qarania
+	max_settlements = 2
+	culture = hindustani
+	religion = ibadi
+	b_karair = tribal

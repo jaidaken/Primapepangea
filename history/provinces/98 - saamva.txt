@@ -1,0 +1,5 @@
+	title = c_saamva
+	max_settlements = 2
+	culture = prussian
+	religion = bogomilist
+	b_sanamma = tribal

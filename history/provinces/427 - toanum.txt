@@ -1,0 +1,5 @@
+	title = c_toanum
+	max_settlements = 2
+	culture = swedish
+	religion = ibadi
+	b_nika = tribal

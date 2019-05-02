@@ -1,0 +1,5 @@
+	title = c_biviam
+	max_settlements = 2
+	culture = han
+	religion = taoist
+	b_danunes = tribal

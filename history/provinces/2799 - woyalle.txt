@@ -1,0 +1,5 @@
+	title = c_woyalle
+	max_settlements = 2
+	culture = scottish
+	religion = finnish_pagan
+	b_wasaide = tribal

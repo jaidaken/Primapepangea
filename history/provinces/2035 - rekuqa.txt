@@ -1,0 +1,5 @@
+	title = c_rekuqa
+	max_settlements = 2
+	culture = castillan
+	religion = iconoclast
+	b_qicataw = tribal

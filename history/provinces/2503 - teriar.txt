@@ -1,0 +1,5 @@
+	title = c_teriar
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = finnish_pagan_reformed
+	b_ebagiar = tribal

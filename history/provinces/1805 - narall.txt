@@ -1,0 +1,5 @@
+	title = c_narall
+	max_settlements = 2
+	culture = karluk
+	religion = bogomilist
+	b_winetar = tribal

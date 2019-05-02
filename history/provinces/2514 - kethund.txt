@@ -1,0 +1,5 @@
+	title = c_kethund
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = baltic_pagan_reformed
+	b_qeoruna = tribal

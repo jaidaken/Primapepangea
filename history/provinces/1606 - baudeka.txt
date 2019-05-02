@@ -1,0 +1,5 @@
+	title = c_baudeka
+	max_settlements = 2
+	culture = karluk
+	religion = norse_pagan
+	b_ryahan = tribal

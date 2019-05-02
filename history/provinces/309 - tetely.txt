@@ -1,0 +1,5 @@
+	title = c_tetely
+	max_settlements = 2
+	culture = bulgarian
+	religion = karaite
+	b_nelw = tribal

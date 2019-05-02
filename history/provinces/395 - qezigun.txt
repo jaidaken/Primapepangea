@@ -1,0 +1,5 @@
+	title = c_qezigun
+	max_settlements = 2
+	culture = tamil
+	religion = color
+	b_asodabi = tribal

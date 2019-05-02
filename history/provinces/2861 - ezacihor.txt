@@ -1,0 +1,5 @@
+	title = c_ezacihor
+	max_settlements = 2
+	culture = romanian
+	religion = shiite
+	b_totonda = tribal

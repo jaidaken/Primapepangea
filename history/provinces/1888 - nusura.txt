@@ -1,0 +1,5 @@
+	title = c_nusura
+	max_settlements = 2
+	culture = zaghawa
+	religion = messalian
+	b_ricasar = tribal

@@ -1,0 +1,5 @@
+	title = c_binalp
+	max_settlements = 5
+	culture = kirghiz
+	religion = monophysite
+	b_terudra = tribal

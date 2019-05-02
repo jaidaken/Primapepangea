@@ -1,0 +1,5 @@
+	title = c_talijah
+	max_settlements = 2
+	culture = manden
+	religion = pagan
+	b_lonse = tribal

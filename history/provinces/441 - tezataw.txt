@@ -1,0 +1,5 @@
+	title = c_tezataw
+	max_settlements = 2
+	culture = carantanian
+	religion = monothelite
+	b_tutanu = tribal

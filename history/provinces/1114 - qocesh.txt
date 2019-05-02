@@ -1,0 +1,5 @@
+	title = c_qocesh
+	max_settlements = 2
+	culture = meshchera
+	religion = finnish_pagan_reformed
+	b_rerey = tribal

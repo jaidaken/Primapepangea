@@ -1,0 +1,5 @@
+	title = c_kaisl
+	max_settlements = 2
+	culture = telugu
+	religion = lollard
+	b_alerni = tribal

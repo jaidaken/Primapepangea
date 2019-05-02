@@ -1,0 +1,5 @@
+	title = c_apiik
+	max_settlements = 3
+	culture = daju
+	religion = jain
+	b_torulis = tribal

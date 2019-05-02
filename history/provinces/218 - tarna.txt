@@ -1,0 +1,5 @@
+	title = c_tarna
+	max_settlements = 2
+	culture = khazar
+	religion = pagan
+	b_salilla = tribal

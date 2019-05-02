@@ -1,0 +1,5 @@
+	title = c_echicega
+	max_settlements = 2
+	culture = norman
+	religion = tengri_pagan
+	b_kicath = tribal

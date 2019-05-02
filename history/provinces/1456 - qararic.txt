@@ -1,0 +1,5 @@
+	title = c_qararic
+	max_settlements = 3
+	culture = frisian
+	religion = taoist
+	b_baeparic = tribal

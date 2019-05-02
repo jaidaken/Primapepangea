@@ -1,0 +1,5 @@
+	title = c_revite
+	max_settlements = 2
+	culture = sinhala
+	religion = mazdaki
+	b_teubite = tribal

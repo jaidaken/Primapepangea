@@ -1,0 +1,5 @@
+	title = c_kezaqra
+	max_settlements = 2
+	culture = prussian
+	religion = pagan
+	b_daluqa = tribal

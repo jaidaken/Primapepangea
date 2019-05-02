@@ -1,0 +1,5 @@
+	title = c_erullah
+	max_settlements = 2
+	culture = nepali
+	religion = norse_pagan_reformed
+	b_seofeyr = tribal

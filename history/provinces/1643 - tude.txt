@@ -1,0 +1,5 @@
+	title = c_tude
+	max_settlements = 2
+	culture = hausa
+	religion = paulician
+	b_karyne = tribal

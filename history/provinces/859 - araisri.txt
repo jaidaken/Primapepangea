@@ -1,0 +1,5 @@
+	title = c_araisri
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = west_african_pagan
+	b_ebagaj = tribal

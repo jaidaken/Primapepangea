@@ -1,0 +1,5 @@
+	title = c_aperofia
+	max_settlements = 2
+	culture = hungarian
+	religion = jewish
+	b_kyasand = tribal

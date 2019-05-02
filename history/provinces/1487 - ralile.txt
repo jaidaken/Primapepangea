@@ -1,0 +1,5 @@
+	title = c_ralile
+	max_settlements = 2
+	culture = basque
+	religion = shiite
+	b_batofan = tribal

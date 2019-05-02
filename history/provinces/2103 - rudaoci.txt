@@ -1,0 +1,5 @@
+	title = c_rudaoci
+	max_settlements = 2
+	culture = portuguese
+	religion = mazdaki
+	b_toumaoci = tribal

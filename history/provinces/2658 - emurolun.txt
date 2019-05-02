@@ -1,0 +1,5 @@
+	title = c_emurolun
+	max_settlements = 2
+	culture = gujurati
+	religion = shiite
+	b_wanigun = tribal

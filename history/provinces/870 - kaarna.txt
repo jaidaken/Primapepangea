@@ -1,0 +1,5 @@
+	title = c_kaarna
+	max_settlements = 2
+	culture = uyghur
+	religion = monothelite
+	b_wobena = tribal

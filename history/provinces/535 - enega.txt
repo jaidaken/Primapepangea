@@ -1,0 +1,5 @@
+	title = c_enega
+	max_settlements = 2
+	culture = jurchen
+	religion = pagan
+	b_wetanay = tribal

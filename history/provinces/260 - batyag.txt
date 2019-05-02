@@ -1,0 +1,5 @@
+	title = c_batyag
+	max_settlements = 2
+	culture = pommeranian
+	religion = monothelite
+	b_sasasb = tribal

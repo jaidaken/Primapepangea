@@ -1,0 +1,5 @@
+	title = c_tosugun
+	max_settlements = 2
+	culture = dalmatian
+	religion = finnish_pagan
+	b_kosirin = tribal

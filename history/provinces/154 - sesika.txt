@@ -1,0 +1,5 @@
+	title = c_sesika
+	max_settlements = 2
+	culture = suebi
+	religion = waldensian
+	b_eglojan = tribal

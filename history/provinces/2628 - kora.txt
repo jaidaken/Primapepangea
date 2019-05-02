@@ -1,0 +1,5 @@
+	title = c_kora
+	max_settlements = 2
+	culture = assyrian
+	religion = fraticelli
+	b_qogay = tribal

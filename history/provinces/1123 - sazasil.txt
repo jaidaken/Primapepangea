@@ -1,0 +1,5 @@
+	title = c_sazasil
+	max_settlements = 2
+	culture = han
+	religion = baltic_pagan
+	b_ralasil = tribal

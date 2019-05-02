@@ -1,0 +1,5 @@
+	title = c_epumay
+	max_settlements = 4
+	culture = samoyed
+	religion = finnish_pagan
+	b_esomacob = tribal

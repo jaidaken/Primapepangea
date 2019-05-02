@@ -1,0 +1,5 @@
+	title = c_ajhetu
+	max_settlements = 2
+	culture = nepali
+	religion = tengri_pagan_reformed
+	b_weatund = tribal

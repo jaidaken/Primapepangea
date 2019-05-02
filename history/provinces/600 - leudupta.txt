@@ -1,0 +1,5 @@
+	title = c_leudupta
+	max_settlements = 2
+	culture = hungarian
+	religion = manichean
+	b_ricasan = tribal

@@ -1,0 +1,5 @@
+	title = c_abhaka
+	max_settlements = 2
+	culture = hindustani
+	religion = orthodox
+	b_rademey = tribal

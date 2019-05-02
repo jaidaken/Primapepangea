@@ -1,0 +1,5 @@
+	title = c_datilan
+	max_settlements = 2
+	culture = dalmatian
+	religion = aztec_reformed
+	b_rett = tribal

@@ -1,0 +1,5 @@
+	title = c_wuksin
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = west_african_pagan
+	b_raymaj = tribal

@@ -1,0 +1,74 @@
+758.2.1 = {
+	holder = 1004653
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_rosaul
+}
+
+758.2.3 = {
+	liege = e_sikaul
+}
+
+758.2.4 = {
+	liege = e_salonti
+}
+
+758.2.5 = {
+	liege = e_telunah
+}
+
+758.2.6 = {
+	liege = e_ralli
+}
+
+758.2.7 = {
+	liege = e_semir
+}
+
+761.2.1 = {
+	holder = 1007057
+}
+
+779.2.1 = {
+	holder = 1009636
+}
+
+817.2.1 = {
+	holder = 1010506
+}
+
+824.2.1 = {
+	holder = 1013556
+}
+
+871.2.1 = {
+	holder = 1015539
+}
+
+902.2.1 = {
+	holder = 1018783
+}
+
+954.2.1 = {
+	holder = 1019645
+}
+
+974.2.1 = {
+	holder = 1021229
+}
+
+980.2.1 = {
+	holder = 1022186
+}
+
+1029.2.1 = {
+	holder = 1022984
+}
+
+1048.2.1 = {
+	holder = 1024144
+}
+

@@ -1,0 +1,5 @@
+	title = c_qotoo
+	max_settlements = 2
+	culture = panjabi
+	religion = pagan
+	b_reraus = tribal

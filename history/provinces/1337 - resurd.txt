@@ -1,0 +1,5 @@
+	title = c_resurd
+	max_settlements = 2
+	culture = lombard
+	religion = taoist
+	b_kesojan = tribal

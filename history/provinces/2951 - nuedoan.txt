@@ -1,0 +1,5 @@
+	title = c_nuedoan
+	max_settlements = 2
+	culture = oriya
+	religion = iconoclast
+	b_licara = tribal

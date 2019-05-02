@@ -1,0 +1,5 @@
+	title = c_radeth
+	max_settlements = 2
+	culture = sinhala
+	religion = zun_pagan
+	b_qenura = tribal

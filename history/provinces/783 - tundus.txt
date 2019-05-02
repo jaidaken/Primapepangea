@@ -1,0 +1,5 @@
+	title = c_tundus
+	max_settlements = 3
+	culture = lettigallish
+	religion = monothelite
+	b_redek = tribal

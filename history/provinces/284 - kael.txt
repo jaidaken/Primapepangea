@@ -1,0 +1,5 @@
+	title = c_kael
+	max_settlements = 2
+	culture = nubian
+	religion = monothelite
+	b_satusha = tribal

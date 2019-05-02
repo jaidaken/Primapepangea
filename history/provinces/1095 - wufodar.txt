@@ -1,0 +1,5 @@
+	title = c_wufodar
+	max_settlements = 3
+	culture = andalusian_arabic
+	religion = norse_pagan_reformed
+	b_bopolk = tribal

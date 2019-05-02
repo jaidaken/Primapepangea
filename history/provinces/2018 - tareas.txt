@@ -1,0 +1,5 @@
+	title = c_tareas
+	max_settlements = 2
+	culture = sumpa
+	religion = khurmazta
+	b_rofeas = tribal

@@ -1,0 +1,5 @@
+	title = c_kyaoi
+	max_settlements = 2
+	culture = outremer
+	religion = buddhist
+	b_kilane = tribal

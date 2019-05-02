@@ -1,0 +1,5 @@
+	title = c_kotusha
+	max_settlements = 3
+	culture = samoyed
+	religion = norse_pagan
+	b_tedihor = tribal

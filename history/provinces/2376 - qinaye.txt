@@ -1,0 +1,5 @@
+	title = c_qinaye
+	max_settlements = 2
+	culture = avar
+	religion = finnish_pagan
+	b_ratomar = tribal

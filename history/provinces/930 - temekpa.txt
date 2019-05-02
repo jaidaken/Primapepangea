@@ -1,0 +1,5 @@
+	title = c_temekpa
+	max_settlements = 3
+	culture = kirghiz
+	religion = samaritan
+	b_tamyid = tribal

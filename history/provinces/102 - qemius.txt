@@ -1,0 +1,5 @@
+	title = c_qemius
+	max_settlements = 2
+	culture = sindhi
+	religion = slavic_pagan
+	b_raramma = tribal

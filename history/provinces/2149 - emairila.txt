@@ -1,0 +1,5 @@
+	title = c_emairila
+	max_settlements = 2
+	culture = suebi
+	religion = zun_pagan_reformed
+	b_nessal = tribal

@@ -1,0 +1,5 @@
+	title = c_agesusha
+	max_settlements = 2
+	culture = dutch
+	religion = tengri_pagan_reformed
+	b_dahikan = tribal

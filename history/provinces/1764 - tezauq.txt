@@ -1,0 +1,5 @@
+	title = c_tezauq
+	max_settlements = 2
+	culture = sogdian
+	religion = bon_reformed
+	b_balataw = tribal

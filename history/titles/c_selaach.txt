@@ -1,0 +1,54 @@
+758.2.1 = {
+	holder = 1000087
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_nayathe
+}
+
+791.2.1 = {
+	holder = 1006331
+}
+
+809.2.1 = {
+	holder = 1011861
+}
+
+810.2.1 = {
+	holder = 1012784
+}
+
+853.2.1 = {
+	holder = 1014338
+}
+
+860.2.1 = {
+	holder = 1016147
+}
+
+896.2.1 = {
+	holder = 1017857
+}
+
+922.2.1 = {
+	holder = 1018945
+}
+
+972.2.1 = {
+	holder = 1020066
+}
+
+989.2.1 = {
+	holder = 1021912
+}
+
+1036.2.1 = {
+	holder = 1022849
+}
+
+1065.2.1 = {
+	holder = 1025039
+}
+

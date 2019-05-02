@@ -1,0 +1,5 @@
+	title = c_dakusa
+	max_settlements = 2
+	culture = tamil
+	religion = lollard
+	b_lyosusa = tribal

@@ -1,0 +1,5 @@
+	title = c_bilamid
+	max_settlements = 2
+	culture = oriya
+	religion = cathar
+	b_kidugun = tribal

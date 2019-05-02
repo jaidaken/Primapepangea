@@ -1,0 +1,5 @@
+	title = c_qisa
+	max_settlements = 2
+	culture = marathi
+	religion = hellenic_pagan
+	b_retiyu = tribal

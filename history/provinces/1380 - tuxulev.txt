@@ -1,0 +1,5 @@
+	title = c_tuxulev
+	max_settlements = 2
+	culture = norman
+	religion = messalian
+	b_tuirena = tribal

@@ -1,0 +1,5 @@
+	title = c_lata
+	max_settlements = 3
+	culture = romanian
+	religion = hellenic_pagan_reformed
+	b_duliana = tribal

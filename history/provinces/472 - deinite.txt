@@ -1,0 +1,5 @@
+	title = c_deinite
+	max_settlements = 2
+	culture = songhay
+	religion = zoroastrian
+	b_barme = tribal

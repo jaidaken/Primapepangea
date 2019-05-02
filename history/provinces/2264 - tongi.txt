@@ -1,0 +1,5 @@
+	title = c_tongi
+	max_settlements = 2
+	culture = mordvin
+	religion = fraticelli
+	b_lasiku = tribal

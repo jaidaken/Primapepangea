@@ -1,0 +1,5 @@
+	title = c_wekasan
+	max_settlements = 2
+	culture = hungarian
+	religion = kharijite
+	b_azmataw = tribal

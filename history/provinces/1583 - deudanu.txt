@@ -1,0 +1,5 @@
+	title = c_deudanu
+	max_settlements = 5
+	culture = telugu
+	religion = samaritan
+	b_rekasan = tribal

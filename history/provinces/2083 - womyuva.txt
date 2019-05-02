@@ -1,0 +1,5 @@
+	title = c_womyuva
+	max_settlements = 2
+	culture = english
+	religion = hurufi
+	b_taoci = tribal

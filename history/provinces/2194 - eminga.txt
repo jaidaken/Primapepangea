@@ -1,0 +1,5 @@
+	title = c_eminga
+	max_settlements = 2
+	culture = bengali
+	religion = monophysite
+	b_bomyay = tribal

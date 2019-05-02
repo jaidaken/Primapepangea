@@ -1,0 +1,5 @@
+	title = c_bileas
+	max_settlements = 2
+	culture = bodpa
+	religion = bon
+	b_necusoy = tribal

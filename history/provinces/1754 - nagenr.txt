@@ -1,0 +1,5 @@
+	title = c_nagenr
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = catholic
+	b_nocirun = tribal

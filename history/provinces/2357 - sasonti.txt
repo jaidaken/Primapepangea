@@ -1,0 +1,5 @@
+	title = c_sasonti
+	max_settlements = 2
+	culture = meshchera
+	religion = monothelite
+	b_lidaul = tribal

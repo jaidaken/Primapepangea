@@ -1,0 +1,5 @@
+	title = c_rilroy
+	max_settlements = 3
+	culture = finnish
+	religion = aztec
+	b_edaner = tribal

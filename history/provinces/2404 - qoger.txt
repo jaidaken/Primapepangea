@@ -1,0 +1,5 @@
+	title = c_qoger
+	max_settlements = 2
+	culture = bohemian
+	religion = shiite
+	b_taran = tribal

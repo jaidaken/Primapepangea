@@ -1,0 +1,5 @@
+	title = c_derirna
+	max_settlements = 2
+	culture = oriya
+	religion = interface_skin
+	b_relalia = tribal

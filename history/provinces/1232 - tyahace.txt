@@ -1,0 +1,5 @@
+	title = c_tyahace
+	max_settlements = 2
+	culture = old_saxon
+	religion = nestorian
+	b_watyid = tribal

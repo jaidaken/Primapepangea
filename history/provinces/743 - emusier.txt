@@ -1,0 +1,5 @@
+	title = c_emusier
+	max_settlements = 2
+	culture = assamese
+	religion = hellenic_pagan
+	b_wulavo = tribal

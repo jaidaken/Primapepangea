@@ -1,0 +1,5 @@
+	title = c_like
+	max_settlements = 2
+	culture = afghan
+	religion = jain
+	b_kikike = tribal

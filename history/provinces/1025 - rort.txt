@@ -1,0 +1,5 @@
+	title = c_rort
+	max_settlements = 2
+	culture = coptic
+	religion = zoroastrian
+	b_rediek = tribal

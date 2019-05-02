@@ -1,0 +1,5 @@
+	title = c_wyosopir
+	max_settlements = 2
+	culture = bodpa
+	religion = bon_reformed
+	b_warold = tribal

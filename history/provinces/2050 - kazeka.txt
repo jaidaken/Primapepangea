@@ -1,0 +1,5 @@
+	title = c_kazeka
+	max_settlements = 2
+	culture = kannada
+	religion = color
+	b_wazoo = tribal

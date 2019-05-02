@@ -1,0 +1,5 @@
+	title = c_nanazan
+	max_settlements = 2
+	culture = lappish
+	religion = slavic_pagan_reformed
+	b_laynadu = tribal

@@ -1,0 +1,5 @@
+	title = c_lyahutis
+	max_settlements = 2
+	culture = portuguese
+	religion = interface_skin
+	b_takyid = tribal

@@ -1,0 +1,56 @@
+758.2.1 = {
+	holder = 1000024
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_tamya
+}
+
+758.2.3 = {
+	holder = 1001343
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1015539
+}
+
+902.2.1 = {
+	holder = 1018783
+}
+
+954.2.1 = {
+	holder = 1019645
+}
+
+974.2.1 = {
+	liege = d_teutey
+}
+
+974.2.2 = {
+	holder = 1021229
+}
+
+980.2.1 = {
+	liege = d_tamya
+}
+
+980.2.2 = {
+	holder = 1022186
+}
+
+1029.2.1 = {
+	holder = 1022984
+}
+
+1048.2.1 = {
+	liege = d_teutey
+}
+
+1048.2.2 = {
+	holder = 1024144
+}
+

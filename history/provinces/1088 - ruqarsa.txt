@@ -1,0 +1,5 @@
+	title = c_ruqarsa
+	max_settlements = 2
+	culture = finnish
+	religion = messalian
+	b_keusexis = tribal

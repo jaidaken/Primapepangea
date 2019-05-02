@@ -1,0 +1,5 @@
+	title = c_nicuz
+	max_settlements = 2
+	culture = komi
+	religion = taoist
+	b_diyara = tribal

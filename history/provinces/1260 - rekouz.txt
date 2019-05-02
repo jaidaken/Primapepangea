@@ -1,0 +1,5 @@
+	title = c_rekouz
+	max_settlements = 2
+	culture = suebi
+	religion = waldensian
+	b_ticataw = tribal

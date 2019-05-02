@@ -1,0 +1,5 @@
+	title = c_eperenda
+	max_settlements = 2
+	culture = serbian
+	religion = norse_pagan_reformed
+	b_daraoci = tribal

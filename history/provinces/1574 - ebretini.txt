@@ -1,0 +1,5 @@
+	title = c_ebretini
+	max_settlements = 2
+	culture = uyghur
+	religion = color
+	b_eheratso = tribal

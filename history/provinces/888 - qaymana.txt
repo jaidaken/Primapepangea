@@ -1,0 +1,5 @@
+	title = c_qaymana
+	max_settlements = 2
+	culture = mongol
+	religion = taoist
+	b_deiraj = tribal

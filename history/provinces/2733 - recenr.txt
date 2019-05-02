@@ -1,0 +1,5 @@
+	title = c_recenr
+	max_settlements = 2
+	culture = afghan
+	religion = fraticelli
+	b_amurusha = tribal

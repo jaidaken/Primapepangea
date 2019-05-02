@@ -1,0 +1,5 @@
+	title = c_kanjay
+	max_settlements = 2
+	culture = hindustani
+	religion = nestorian
+	b_qegiray = tribal

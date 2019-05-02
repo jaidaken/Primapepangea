@@ -1,0 +1,5 @@
+	title = c_kahuira
+	max_settlements = 2
+	culture = volhynian
+	religion = bogomilist
+	b_wonauq = tribal

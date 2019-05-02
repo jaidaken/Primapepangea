@@ -1,0 +1,5 @@
+	title = c_atahala
+	max_settlements = 2
+	culture = sephardi
+	religion = iconoclast
+	b_lofujin = tribal

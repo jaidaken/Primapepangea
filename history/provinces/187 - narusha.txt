@@ -1,0 +1,5 @@
+	title = c_narusha
+	max_settlements = 2
+	culture = suebi
+	religion = orthodox
+	b_narata = tribal

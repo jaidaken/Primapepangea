@@ -1,0 +1,5 @@
+	title = c_tanelw
+	max_settlements = 2
+	culture = visigothic
+	religion = monothelite
+	b_danini = tribal

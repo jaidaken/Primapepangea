@@ -1,0 +1,5 @@
+	title = c_rayara
+	max_settlements = 2
+	culture = bengali
+	religion = catholic
+	b_bulumo = tribal

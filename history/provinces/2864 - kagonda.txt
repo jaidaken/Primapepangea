@@ -1,0 +1,5 @@
+	title = c_kagonda
+	max_settlements = 2
+	culture = german
+	religion = tengri_pagan_reformed
+	b_adobonda = tribal

@@ -1,0 +1,5 @@
+	title = c_kigre
+	max_settlements = 2
+	culture = sogdian
+	religion = jewish
+	b_tureike = tribal

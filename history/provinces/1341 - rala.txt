@@ -1,0 +1,5 @@
+	title = c_rala
+	max_settlements = 3
+	culture = telugu
+	religion = baltic_pagan_reformed
+	b_dakke = tribal

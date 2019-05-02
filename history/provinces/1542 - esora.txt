@@ -1,0 +1,5 @@
+	title = c_esora
+	max_settlements = 2
+	culture = hungarian
+	religion = interface_skin
+	b_keatora = tribal

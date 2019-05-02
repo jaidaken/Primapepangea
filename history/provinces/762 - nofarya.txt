@@ -1,0 +1,5 @@
+	title = c_nofarya
+	max_settlements = 2
+	culture = gujurati
+	religion = nestorian
+	b_baharya = tribal

@@ -1,0 +1,5 @@
+	title = c_seudows
+	max_settlements = 2
+	culture = manden
+	religion = taoist
+	b_wufows = tribal

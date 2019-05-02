@@ -1,0 +1,5 @@
+	title = c_kahes
+	max_settlements = 2
+	culture = catalan
+	religion = pagan
+	b_lallei = tribal

@@ -1,0 +1,5 @@
+	title = c_sadiam
+	max_settlements = 2
+	culture = serbian
+	religion = taoist
+	b_weorife = tribal

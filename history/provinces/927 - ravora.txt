@@ -1,0 +1,5 @@
+	title = c_ravora
+	max_settlements = 2
+	culture = armenian
+	religion = mazdaki
+	b_rahepa = tribal

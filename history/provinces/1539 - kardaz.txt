@@ -1,0 +1,5 @@
+	title = c_kardaz
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = buddhist
+	b_dyahena = tribal

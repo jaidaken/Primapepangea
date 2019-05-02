@@ -1,0 +1,5 @@
+	title = c_waipena
+	max_settlements = 2
+	culture = nubian
+	religion = messalian
+	b_qyouwiza = tribal

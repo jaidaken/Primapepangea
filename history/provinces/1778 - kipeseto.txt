@@ -1,0 +1,5 @@
+	title = c_kipeseto
+	max_settlements = 4
+	culture = ashkenazi
+	religion = druze
+	b_daneseto = tribal

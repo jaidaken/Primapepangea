@@ -1,0 +1,5 @@
+	title = c_waraqiq
+	max_settlements = 2
+	culture = kirghiz
+	religion = catholic
+	b_weiradl = tribal

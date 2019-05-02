@@ -1,0 +1,5 @@
+	title = c_qaisora
+	max_settlements = 2
+	culture = ethiopian
+	religion = hurufi
+	b_reirako = tribal

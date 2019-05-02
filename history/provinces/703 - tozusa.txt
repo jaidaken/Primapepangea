@@ -1,0 +1,5 @@
+	title = c_tozusa
+	max_settlements = 2
+	culture = khanty
+	religion = shiite
+	b_sozinic = tribal

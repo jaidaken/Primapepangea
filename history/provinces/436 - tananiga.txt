@@ -1,0 +1,5 @@
+	title = c_tananiga
+	max_settlements = 2
+	culture = old_saxon
+	religion = catholic
+	b_rocani = tribal

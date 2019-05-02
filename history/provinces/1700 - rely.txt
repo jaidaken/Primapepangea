@@ -1,0 +1,5 @@
+	title = c_rely
+	max_settlements = 3
+	culture = finnish
+	religion = hindu
+	b_loanad = tribal

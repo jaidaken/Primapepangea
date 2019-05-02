@@ -1,0 +1,5 @@
+	title = c_aremar
+	max_settlements = 2
+	culture = lettigallish
+	religion = zikri
+	b_kulis = tribal

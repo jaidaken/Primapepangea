@@ -1,0 +1,5 @@
+	title = c_tageefa
+	max_settlements = 2
+	culture = serbian
+	religion = jewish
+	b_suozosa = tribal

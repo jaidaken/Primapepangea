@@ -1,0 +1,5 @@
+	title = c_railyan
+	max_settlements = 2
+	culture = norse
+	religion = zikri
+	b_biselle = tribal

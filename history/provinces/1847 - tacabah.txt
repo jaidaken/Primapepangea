@@ -1,0 +1,5 @@
+	title = c_tacabah
+	max_settlements = 2
+	culture = rajput
+	religion = miaphysite
+	b_wuludah = tribal

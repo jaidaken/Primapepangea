@@ -1,0 +1,5 @@
+	title = c_enanair
+	max_settlements = 2
+	culture = greek
+	religion = samaritan
+	b_ryaoi = tribal

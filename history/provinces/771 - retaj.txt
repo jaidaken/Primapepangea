@@ -1,0 +1,5 @@
+	title = c_retaj
+	max_settlements = 3
+	culture = ashkenazi
+	religion = jain
+	b_betaj = tribal

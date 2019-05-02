@@ -1,0 +1,5 @@
+	title = c_digen
+	max_settlements = 2
+	culture = german
+	religion = yazidi
+	b_korilda = tribal

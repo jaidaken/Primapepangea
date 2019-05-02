@@ -1,0 +1,5 @@
+	title = c_nustin
+	max_settlements = 3
+	culture = nubian
+	religion = shiite
+	b_lularic = tribal

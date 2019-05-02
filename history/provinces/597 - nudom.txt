@@ -1,0 +1,5 @@
+	title = c_nudom
+	max_settlements = 2
+	culture = assamese
+	religion = aztec
+	b_lilios = tribal

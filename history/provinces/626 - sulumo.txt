@@ -1,0 +1,5 @@
+	title = c_sulumo
+	max_settlements = 3
+	culture = daju
+	religion = bon_reformed
+	b_kinanna = tribal

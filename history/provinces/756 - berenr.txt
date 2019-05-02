@@ -1,0 +1,5 @@
+	title = c_berenr
+	max_settlements = 2
+	culture = norwegian
+	religion = samaritan
+	b_qotyuk = tribal

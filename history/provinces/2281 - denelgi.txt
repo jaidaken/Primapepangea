@@ -1,0 +1,5 @@
+	title = c_denelgi
+	max_settlements = 2
+	culture = mongol
+	religion = norse_pagan_reformed
+	b_qinurga = tribal

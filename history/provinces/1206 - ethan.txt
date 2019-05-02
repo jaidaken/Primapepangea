@@ -1,0 +1,5 @@
+	title = c_ethan
+	max_settlements = 2
+	culture = daju
+	religion = west_african_pagan
+	b_reduu = tribal

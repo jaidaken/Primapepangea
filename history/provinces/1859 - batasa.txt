@@ -1,0 +1,5 @@
+	title = c_batasa
+	max_settlements = 2
+	culture = karluk
+	religion = tengri_pagan_reformed
+	b_tetusa = tribal

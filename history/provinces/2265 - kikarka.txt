@@ -1,0 +1,5 @@
+	title = c_kikarka
+	max_settlements = 2
+	culture = frankish
+	religion = interface_skin
+	b_amikumo = tribal

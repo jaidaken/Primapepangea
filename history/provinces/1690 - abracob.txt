@@ -1,0 +1,5 @@
+	title = c_abracob
+	max_settlements = 2
+	culture = english
+	religion = paulician
+	b_tesian = tribal

@@ -1,0 +1,5 @@
+	title = c_wiramed
+	max_settlements = 2
+	culture = serbian
+	religion = aztec_reformed
+	b_biramed = tribal

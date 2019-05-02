@@ -1,0 +1,5 @@
+	title = c_boturva
+	max_settlements = 2
+	culture = alan
+	religion = hellenic_pagan_reformed
+	b_lusidis = tribal

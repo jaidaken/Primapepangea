@@ -1,0 +1,5 @@
+	title = c_wotulda
+	max_settlements = 2
+	culture = lombard
+	religion = shiite
+	b_lirg = tribal

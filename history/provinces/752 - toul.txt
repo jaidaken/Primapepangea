@@ -1,0 +1,5 @@
+	title = c_toul
+	max_settlements = 2
+	culture = sogdian
+	religion = finnish_pagan
+	b_datalia = tribal

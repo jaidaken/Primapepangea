@@ -1,0 +1,5 @@
+	title = c_watoul
+	max_settlements = 2
+	culture = khanty
+	religion = norse_pagan
+	b_sagnus = tribal

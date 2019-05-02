@@ -1,0 +1,5 @@
+	title = c_eduuir
+	max_settlements = 3
+	culture = suebi
+	religion = khurmazta
+	b_achaman = tribal

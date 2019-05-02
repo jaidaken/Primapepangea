@@ -1,0 +1,5 @@
+	title = c_betigrid
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = aztec_reformed
+	b_atory = tribal

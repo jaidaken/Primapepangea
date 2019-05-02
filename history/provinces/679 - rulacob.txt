@@ -1,0 +1,5 @@
+	title = c_rulacob
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = sunni
+	b_edanasa = tribal

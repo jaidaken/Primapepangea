@@ -1,0 +1,5 @@
+	title = c_bigin
+	max_settlements = 2
+	culture = afghan
+	religion = baltic_pagan_reformed
+	b_lujin = tribal

@@ -1,0 +1,5 @@
+	title = c_afund
+	max_settlements = 2
+	culture = songhay
+	religion = hellenic_pagan_reformed
+	b_susepa = tribal

@@ -1,0 +1,5 @@
+	title = c_tevi
+	max_settlements = 3
+	culture = oriya
+	religion = lollard
+	b_raratt = tribal

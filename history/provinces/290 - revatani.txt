@@ -1,0 +1,5 @@
+	title = c_revatani
+	max_settlements = 3
+	culture = hindustani
+	religion = hurufi
+	b_qedolun = tribal

@@ -1,0 +1,5 @@
+	title = c_rerasi
+	max_settlements = 2
+	culture = serbian
+	religion = khurmazta
+	b_lutt = tribal

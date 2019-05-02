@@ -1,0 +1,5 @@
+	title = c_abinai
+	max_settlements = 2
+	culture = armenian
+	religion = baltic_pagan
+	b_rulavi = tribal

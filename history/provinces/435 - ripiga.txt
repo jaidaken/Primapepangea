@@ -1,0 +1,5 @@
+	title = c_ripiga
+	max_settlements = 2
+	culture = visigothic
+	religion = interface_skin
+	b_apritani = tribal

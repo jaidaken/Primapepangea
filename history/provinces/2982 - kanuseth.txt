@@ -1,0 +1,5 @@
+	title = c_kanuseth
+	max_settlements = 2
+	culture = scottish
+	religion = norse_pagan
+	b_naconda = tribal

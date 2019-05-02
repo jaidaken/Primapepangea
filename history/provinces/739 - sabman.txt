@@ -1,0 +1,5 @@
+	title = c_sabman
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = color
+	b_risuyruq = tribal

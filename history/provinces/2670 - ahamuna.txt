@@ -1,0 +1,5 @@
+	title = c_ahamuna
+	max_settlements = 2
+	culture = baloch
+	religion = paulician
+	b_todusha = tribal

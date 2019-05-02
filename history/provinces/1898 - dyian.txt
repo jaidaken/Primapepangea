@@ -1,0 +1,5 @@
+	title = c_dyian
+	max_settlements = 2
+	culture = armenian
+	religion = cathar
+	b_riney = tribal

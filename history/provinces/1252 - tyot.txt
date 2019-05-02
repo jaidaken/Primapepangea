@@ -1,0 +1,5 @@
+	title = c_tyot
+	max_settlements = 2
+	culture = nepali
+	religion = finnish_pagan
+	b_agaban = tribal

@@ -1,0 +1,5 @@
+	title = c_qavaul
+	max_settlements = 2
+	culture = swedish
+	religion = druze
+	b_walumo = tribal

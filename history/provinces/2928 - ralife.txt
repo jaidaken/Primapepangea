@@ -1,0 +1,5 @@
+	title = c_ralife
+	max_settlements = 2
+	culture = assyrian
+	religion = tengri_pagan
+	b_nedigin = tribal

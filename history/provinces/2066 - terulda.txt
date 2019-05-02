@@ -1,0 +1,5 @@
+	title = c_terulda
+	max_settlements = 2
+	culture = samoyed
+	religion = fraticelli
+	b_reguag = tribal

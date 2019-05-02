@@ -1,0 +1,5 @@
+	title = c_evakenia
+	max_settlements = 2
+	culture = kurdish
+	religion = color
+	b_qiricham = tribal

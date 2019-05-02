@@ -1,0 +1,5 @@
+	title = c_sanum
+	max_settlements = 2
+	culture = afghan
+	religion = messalian
+	b_tipiga = tribal

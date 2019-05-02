@@ -1,0 +1,5 @@
+	title = c_tagya
+	max_settlements = 2
+	culture = pictish
+	religion = slavic_pagan
+	b_wisasb = tribal

@@ -1,0 +1,5 @@
+	title = c_tojan
+	max_settlements = 3
+	culture = saxon
+	religion = messalian
+	b_lesalia = tribal

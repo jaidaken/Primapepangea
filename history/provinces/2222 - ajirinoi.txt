@@ -1,0 +1,5 @@
+	title = c_ajirinoi
+	max_settlements = 2
+	culture = roman
+	religion = fraticelli
+	b_edonio = tribal

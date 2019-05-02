@@ -1,0 +1,5 @@
+	title = c_quxinha
+	max_settlements = 2
+	culture = telugu
+	religion = catholic
+	b_bailena = tribal

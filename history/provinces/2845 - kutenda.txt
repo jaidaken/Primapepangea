@@ -1,0 +1,5 @@
+	title = c_kutenda
+	max_settlements = 2
+	culture = bulgarian
+	religion = ibadi
+	b_tupind = tribal

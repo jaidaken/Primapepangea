@@ -1,0 +1,5 @@
+	title = c_beratso
+	max_settlements = 2
+	culture = georgian
+	religion = interface_skin
+	b_tatecla = tribal

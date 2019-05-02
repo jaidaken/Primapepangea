@@ -1,0 +1,5 @@
+	title = c_laboan
+	max_settlements = 2
+	culture = serbian
+	religion = west_african_pagan_reformed
+	b_beatine = tribal

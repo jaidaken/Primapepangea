@@ -1,0 +1,5 @@
+	title = c_kacama
+	max_settlements = 2
+	culture = gujurati
+	religion = west_african_pagan
+	b_wacacob = tribal

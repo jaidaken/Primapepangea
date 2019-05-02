@@ -1,0 +1,5 @@
+	title = c_ligazan
+	max_settlements = 2
+	culture = dalmatian
+	religion = zun_pagan
+	b_lanunes = tribal

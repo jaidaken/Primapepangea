@@ -1,0 +1,5 @@
+	title = c_keinesh
+	max_settlements = 2
+	culture = outremer
+	religion = monothelite
+	b_alidad = tribal

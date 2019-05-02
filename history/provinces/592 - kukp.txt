@@ -1,0 +1,5 @@
+	title = c_kukp
+	max_settlements = 2
+	culture = tamil
+	religion = yazidi
+	b_nigijah = tribal

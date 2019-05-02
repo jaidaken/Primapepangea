@@ -1,0 +1,5 @@
+	title = c_kanako
+	max_settlements = 2
+	culture = zhangzhung
+	religion = miaphysite
+	b_kanyai = tribal

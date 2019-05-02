@@ -1,0 +1,5 @@
+	title = c_qinumo
+	max_settlements = 3
+	culture = khazar
+	religion = hindu
+	b_ruhakr = tribal

@@ -1,0 +1,162 @@
+758.2.1 = {
+	holder = 1000021
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001223
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tamagpa
+}
+
+758.2.4 = {
+	holder = 1001221
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+806.2.1 = {
+	holder = 1006908
+}
+
+809.2.1 = {
+	holder = 1012706
+}
+
+814.2.1 = {
+	holder = 1006909
+}
+
+818.2.1 = {
+	holder = 1012805
+}
+
+841.2.1 = {
+	liege = d_tipamed
+}
+
+841.2.2 = {
+	liege = d_tamoun
+}
+
+841.2.3 = {
+	liege = d_savili
+}
+
+841.2.4 = {
+	holder = 1012957
+}
+
+870.2.1 = {
+	liege = d_tamoun
+}
+
+870.2.2 = {
+	liege = d_tipamed
+}
+
+870.2.3 = {
+	liege = d_niralha
+}
+
+870.2.4 = {
+	liege = d_lipalaf
+}
+
+870.2.5 = {
+	holder = 1014829
+}
+
+870.2.6 = {
+	liege = k_ratonti
+}
+
+887.2.1 = {
+	liege = d_sibemir
+}
+
+887.2.2 = {
+	liege = d_tamagpa
+}
+
+887.2.3 = {
+	liege = d_niralha
+}
+
+887.2.4 = {
+	liege = d_tipamed
+}
+
+887.2.5 = {
+	liege = d_tamoun
+}
+
+887.2.6 = {
+	liege = d_savili
+}
+
+887.2.7 = {
+	holder = 1017343
+}
+
+917.2.1 = {
+	liege = d_tamoun
+}
+
+917.2.2 = {
+	liege = d_tipamed
+}
+
+917.2.3 = {
+	liege = d_niralha
+}
+
+917.2.4 = {
+	holder = 1018254
+}
+
+945.2.1 = {
+	holder = 1020253
+}
+
+965.2.1 = {
+	liege = d_tipamed
+}
+
+965.2.2 = {
+	liege = d_tamoun
+}
+
+965.2.3 = {
+	liege = d_savili
+}
+
+965.2.4 = {
+	holder = 1021154
+}
+
+1005.2.1 = {
+	holder = 1021845
+}
+
+1028.2.1 = {
+	liege = d_tamoun
+}
+
+1028.2.2 = {
+	liege = d_tipamed
+}
+
+1028.2.3 = {
+	liege = d_niralha
+}
+
+1028.2.4 = {
+	holder = 1023290
+}
+

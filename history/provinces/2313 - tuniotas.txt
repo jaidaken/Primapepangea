@@ -1,0 +1,5 @@
+	title = c_tuniotas
+	max_settlements = 2
+	culture = bodpa
+	religion = manichean
+	b_rokulgu = tribal

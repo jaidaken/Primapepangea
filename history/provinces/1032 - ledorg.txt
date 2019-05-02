@@ -1,0 +1,5 @@
+	title = c_ledorg
+	max_settlements = 2
+	culture = frisian
+	religion = bon_reformed
+	b_aweryuk = tribal

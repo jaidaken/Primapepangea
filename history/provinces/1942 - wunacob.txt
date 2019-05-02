@@ -1,0 +1,5 @@
+	title = c_wunacob
+	max_settlements = 2
+	culture = karluk
+	religion = hindu
+	b_dalona = tribal

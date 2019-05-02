@@ -1,0 +1,5 @@
+	title = c_wozaruk
+	max_settlements = 2
+	culture = somali
+	religion = color
+	b_agunund = tribal

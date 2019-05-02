@@ -1,0 +1,5 @@
+	title = c_syaleth
+	max_settlements = 2
+	culture = georgian
+	religion = khurmazta
+	b_qotulda = tribal

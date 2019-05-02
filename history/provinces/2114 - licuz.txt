@@ -1,0 +1,5 @@
+	title = c_licuz
+	max_settlements = 2
+	culture = dalmatian
+	religion = monothelite
+	b_ezmavya = tribal

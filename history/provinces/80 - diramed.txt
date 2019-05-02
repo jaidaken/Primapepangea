@@ -1,0 +1,5 @@
+	title = c_diramed
+	max_settlements = 2
+	culture = sumpa
+	religion = manichean
+	b_sucanab = tribal

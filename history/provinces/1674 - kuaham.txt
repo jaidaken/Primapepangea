@@ -1,0 +1,5 @@
+	title = c_kuaham
+	max_settlements = 2
+	culture = kirghiz
+	religion = hindu
+	b_ladl = tribal

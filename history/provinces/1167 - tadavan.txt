@@ -1,0 +1,5 @@
+	title = c_tadavan
+	max_settlements = 2
+	culture = nepali
+	religion = samaritan
+	b_losarka = tribal

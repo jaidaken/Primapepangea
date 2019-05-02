@@ -1,0 +1,5 @@
+	title = c_tigaway
+	max_settlements = 2
+	culture = daju
+	religion = lollard
+	b_wezidun = tribal

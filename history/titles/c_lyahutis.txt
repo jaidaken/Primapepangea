@@ -1,0 +1,134 @@
+758.2.1 = {
+	holder = 1000049
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002713
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_katila
+}
+
+758.2.4 = {
+	holder = 1002709
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+794.2.1 = {
+	holder = 1007980
+}
+
+824.2.1 = {
+	holder = 1011266
+}
+
+862.2.1 = {
+	holder = 1014502
+}
+
+888.2.1 = {
+	holder = 1017264
+}
+
+902.2.1 = {
+	holder = 1018443
+}
+
+959.2.1 = {
+	liege = d_sirara
+}
+
+959.2.2 = {
+	liege = d_ajirodia
+}
+
+959.2.3 = {
+	liege = d_kinesh
+}
+
+959.2.4 = {
+	liege = d_lirin
+}
+
+959.2.5 = {
+	liege = d_bekpa
+}
+
+959.2.6 = {
+	liege = d_wezesh
+}
+
+959.2.7 = {
+	liege = d_demekpa
+}
+
+959.2.8 = {
+	liege = d_tudha
+}
+
+959.2.9 = {
+	liege = d_bace
+}
+
+959.2.10 = {
+	holder = 1019224
+}
+
+964.2.1 = {
+	liege = d_tudha
+}
+
+964.2.2 = {
+	liege = d_demekpa
+}
+
+964.2.3 = {
+	liege = d_wezesh
+}
+
+964.2.4 = {
+	liege = d_bekpa
+}
+
+964.2.5 = {
+	holder = 1021448
+}
+
+970.2.1 = {
+	holder = 1021783
+}
+
+999.2.1 = {
+	liege = d_wezesh
+}
+
+999.2.2 = {
+	liege = d_demekpa
+}
+
+999.2.3 = {
+	liege = d_tudha
+}
+
+999.2.4 = {
+	liege = d_bace
+}
+
+999.2.5 = {
+	holder = 1021864
+}
+
+1029.2.1 = {
+	holder = 1023110
+}
+
+1061.2.1 = {
+	holder = 1024431
+}
+

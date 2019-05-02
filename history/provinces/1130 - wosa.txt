@@ -1,0 +1,5 @@
+	title = c_wosa
+	max_settlements = 2
+	culture = somali
+	religion = monothelite
+	b_wavoyan = tribal

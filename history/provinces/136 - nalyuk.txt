@@ -1,0 +1,5 @@
+	title = c_nalyuk
+	max_settlements = 3
+	culture = tangut
+	religion = zikri
+	b_ralichi = tribal

@@ -1,0 +1,5 @@
+	title = c_ahibihor
+	max_settlements = 2
+	culture = scottish
+	religion = interface_skin
+	b_qotonda = tribal

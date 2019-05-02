@@ -1,0 +1,5 @@
+	title = c_kilen
+	max_settlements = 2
+	culture = russian
+	religion = karaite
+	b_lekom = tribal

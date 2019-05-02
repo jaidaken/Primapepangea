@@ -1,0 +1,5 @@
+	title = c_deufen
+	max_settlements = 3
+	culture = dutch
+	religion = norse_pagan
+	b_kumesh = tribal

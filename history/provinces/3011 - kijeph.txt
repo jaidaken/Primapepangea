@@ -1,0 +1,5 @@
+	title = c_kijeph
+	max_settlements = 3
+	culture = lombard
+	religion = ibadi
+	b_qadeyr = tribal

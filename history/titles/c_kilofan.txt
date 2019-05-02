@@ -1,0 +1,64 @@
+758.2.1 = {
+	holder = 1000068
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1003595
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_serani
+}
+
+758.2.4 = {
+	holder = 1003596
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1003593
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+900.2.1 = {
+	holder = 1016874
+}
+
+902.2.1 = {
+	holder = 1018899
+}
+
+962.2.1 = {
+	holder = 1019834
+}
+
+986.2.1 = {
+	holder = 1021629
+}
+
+1023.2.1 = {
+	holder = 1022541
+}
+
+1029.2.1 = {
+	holder = 1024127
+}
+
+1048.2.1 = {
+	holder = 1024862
+}
+
+1052.2.1 = {
+	holder = 1025030
+}
+
+1066.2.1 = {
+	holder = 1025110
+}
+

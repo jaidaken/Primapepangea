@@ -1,0 +1,5 @@
+	title = c_lahella
+	max_settlements = 2
+	culture = norse
+	religion = mazdaki
+	b_sirara = tribal

@@ -1,0 +1,5 @@
+	title = c_rirofan
+	max_settlements = 2
+	culture = alan
+	religion = buddhist
+	b_natolas = tribal

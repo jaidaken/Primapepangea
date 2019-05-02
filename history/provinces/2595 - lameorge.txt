@@ -1,0 +1,5 @@
+	title = c_lameorge
+	max_settlements = 2
+	culture = jurchen
+	religion = mazdaki
+	b_ludemon = tribal

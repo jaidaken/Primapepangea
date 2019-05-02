@@ -1,0 +1,5 @@
+	title = c_tosirun
+	max_settlements = 2
+	culture = romanian
+	religion = tengri_pagan_reformed
+	b_esahpar = tribal

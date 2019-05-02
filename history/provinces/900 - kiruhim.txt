@@ -1,0 +1,5 @@
+	title = c_kiruhim
+	max_settlements = 4
+	culture = alan
+	religion = cathar
+	b_wiruhim = tribal

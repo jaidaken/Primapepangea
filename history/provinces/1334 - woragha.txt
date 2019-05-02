@@ -1,0 +1,5 @@
+	title = c_woragha
+	max_settlements = 3
+	culture = italian
+	religion = finnish_pagan_reformed
+	b_rinugun = tribal

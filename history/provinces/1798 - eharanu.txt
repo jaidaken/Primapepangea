@@ -1,0 +1,5 @@
+	title = c_eharanu
+	max_settlements = 2
+	culture = avar
+	religion = mazdaki
+	b_saronda = tribal

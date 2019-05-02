@@ -1,0 +1,5 @@
+	title = c_danunes
+	max_settlements = 2
+	culture = baloch
+	religion = slavic_pagan_reformed
+	b_wigufer = tribal

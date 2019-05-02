@@ -1,0 +1,5 @@
+	title = c_weceth
+	max_settlements = 2
+	culture = outremer
+	religion = mazdaki
+	b_bicega = tribal

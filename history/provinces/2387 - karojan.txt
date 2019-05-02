@@ -1,0 +1,5 @@
+	title = c_karojan
+	max_settlements = 2
+	culture = bodpa
+	religion = khurmazta
+	b_ridhe = tribal

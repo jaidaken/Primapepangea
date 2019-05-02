@@ -1,0 +1,5 @@
+	title = c_qolofan
+	max_settlements = 2
+	culture = komi
+	religion = karaite
+	b_revum = tribal

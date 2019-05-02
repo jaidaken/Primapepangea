@@ -1,0 +1,5 @@
+	title = c_qarine
+	max_settlements = 2
+	culture = english
+	religion = hellenic_pagan
+	b_tetine = tribal

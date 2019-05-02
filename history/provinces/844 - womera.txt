@@ -1,0 +1,5 @@
+	title = c_womera
+	max_settlements = 2
+	culture = castillan
+	religion = monothelite
+	b_demihuo = tribal

@@ -1,0 +1,5 @@
+	title = c_nediek
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = miaphysite
+	b_tars = tribal

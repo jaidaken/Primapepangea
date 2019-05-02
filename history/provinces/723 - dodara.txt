@@ -1,0 +1,5 @@
+	title = c_dodara
+	max_settlements = 2
+	culture = uyghur
+	religion = orthodox
+	b_qamolun = tribal

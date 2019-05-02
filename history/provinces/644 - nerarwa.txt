@@ -1,0 +1,5 @@
+	title = c_nerarwa
+	max_settlements = 2
+	culture = catalan
+	religion = baltic_pagan_reformed
+	b_rurita = tribal

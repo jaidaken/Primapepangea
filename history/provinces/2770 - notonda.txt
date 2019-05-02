@@ -1,0 +1,5 @@
+	title = c_notonda
+	max_settlements = 2
+	culture = dalmatian
+	religion = manichean
+	b_dedusha = tribal

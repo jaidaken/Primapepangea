@@ -1,0 +1,5 @@
+	title = c_kaepovan
+	max_settlements = 2
+	culture = hungarian
+	religion = fraticelli
+	b_kaepajko = tribal

@@ -1,0 +1,5 @@
+	title = c_etigond
+	max_settlements = 2
+	culture = panjabi
+	religion = monothelite
+	b_kanarn = tribal

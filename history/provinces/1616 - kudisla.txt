@@ -1,0 +1,5 @@
+	title = c_kudisla
+	max_settlements = 2
+	culture = bulgarian
+	religion = slavic_pagan
+	b_dyoseth = tribal

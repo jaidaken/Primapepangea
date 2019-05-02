@@ -1,0 +1,5 @@
+	title = c_biala
+	max_settlements = 2
+	culture = serbian
+	religion = interface_skin
+	b_terirta = tribal

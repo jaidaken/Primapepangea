@@ -1,0 +1,5 @@
+	title = c_enahou
+	max_settlements = 2
+	culture = khazar
+	religion = west_african_pagan
+	b_asahou = tribal

@@ -1,0 +1,5 @@
+	title = c_tesisa
+	max_settlements = 2
+	culture = karluk
+	religion = pagan
+	b_nacine = tribal

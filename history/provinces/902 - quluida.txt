@@ -1,0 +1,5 @@
+	title = c_quluida
+	max_settlements = 2
+	culture = assamese
+	religion = zikri
+	b_toruida = tribal

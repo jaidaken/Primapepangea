@@ -1,0 +1,5 @@
+	title = c_beusong
+	max_settlements = 2
+	culture = sinhala
+	religion = finnish_pagan
+	b_legiar = tribal

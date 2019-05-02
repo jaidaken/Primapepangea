@@ -1,0 +1,5 @@
+	title = c_tenamma
+	max_settlements = 3
+	culture = visigothic
+	religion = baltic_pagan
+	b_becahim = tribal

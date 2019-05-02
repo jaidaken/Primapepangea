@@ -1,0 +1,5 @@
+	title = c_nelun
+	max_settlements = 2
+	culture = frisian
+	religion = color
+	b_rinelgi = tribal

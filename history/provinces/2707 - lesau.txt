@@ -1,0 +1,5 @@
+	title = c_lesau
+	max_settlements = 2
+	culture = saka
+	religion = pagan
+	b_edonair = tribal

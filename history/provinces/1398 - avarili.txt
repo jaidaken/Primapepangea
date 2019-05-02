@@ -1,0 +1,5 @@
+	title = c_avarili
+	max_settlements = 2
+	culture = kanuri
+	religion = hellenic_pagan_reformed
+	b_bireyr = tribal

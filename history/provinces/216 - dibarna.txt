@@ -1,0 +1,5 @@
+	title = c_dibarna
+	max_settlements = 2
+	culture = hindustani
+	religion = jewish
+	b_qaena = tribal

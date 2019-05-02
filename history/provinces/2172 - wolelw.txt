@@ -1,0 +1,5 @@
+	title = c_wolelw
+	max_settlements = 2
+	culture = ilmenian
+	religion = monophysite
+	b_tolard = tribal

@@ -1,0 +1,5 @@
+	title = c_kughan
+	max_settlements = 2
+	culture = han
+	religion = bon_reformed
+	b_bund = tribal

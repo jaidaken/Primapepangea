@@ -1,0 +1,5 @@
+	title = c_dakatu
+	max_settlements = 2
+	culture = georgian
+	religion = bon
+	b_wusort = tribal

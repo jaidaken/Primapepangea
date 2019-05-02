@@ -1,0 +1,5 @@
+	title = c_kirula
+	max_settlements = 2
+	culture = outremer
+	religion = taoist
+	b_rusunah = tribal

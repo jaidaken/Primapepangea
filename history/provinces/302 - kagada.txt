@@ -1,0 +1,5 @@
+	title = c_kagada
+	max_settlements = 4
+	culture = russian
+	religion = bogomilist
+	b_tusayya = tribal

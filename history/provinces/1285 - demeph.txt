@@ -1,0 +1,5 @@
+	title = c_demeph
+	max_settlements = 2
+	culture = mongol
+	religion = aztec_reformed
+	b_arolman = tribal

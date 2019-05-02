@@ -1,0 +1,5 @@
+	title = c_bulavo
+	max_settlements = 2
+	culture = karluk
+	religion = khurmazta
+	b_esyne = tribal

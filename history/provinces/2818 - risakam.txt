@@ -1,0 +1,5 @@
+	title = c_risakam
+	max_settlements = 2
+	culture = finnish
+	religion = baltic_pagan_reformed
+	b_kaytaham = tribal

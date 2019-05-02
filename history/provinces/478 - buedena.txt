@@ -1,0 +1,5 @@
+	title = c_buedena
+	max_settlements = 2
+	culture = marathi
+	religion = ibadi
+	b_lemka = tribal

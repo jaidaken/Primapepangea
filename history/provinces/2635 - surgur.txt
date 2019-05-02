@@ -1,0 +1,5 @@
+	title = c_surgur
+	max_settlements = 2
+	culture = arberian
+	religion = hellenic_pagan
+	b_wegiar = tribal

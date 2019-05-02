@@ -1,0 +1,5 @@
+	title = c_ebulana
+	max_settlements = 2
+	culture = turkish
+	religion = pagan
+	b_rarana = tribal

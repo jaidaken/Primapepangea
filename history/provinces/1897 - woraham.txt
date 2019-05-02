@@ -1,0 +1,5 @@
+	title = c_woraham
+	max_settlements = 2
+	culture = frisian
+	religion = interface_skin
+	b_kuand = tribal

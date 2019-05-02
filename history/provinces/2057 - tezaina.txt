@@ -1,0 +1,5 @@
+	title = c_tezaina
+	max_settlements = 3
+	culture = prussian
+	religion = pagan
+	b_rezumay = tribal

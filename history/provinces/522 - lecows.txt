@@ -1,0 +1,5 @@
+	title = c_lecows
+	max_settlements = 4
+	culture = roman
+	religion = lollard
+	b_tecunah = tribal

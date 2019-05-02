@@ -1,0 +1,5 @@
+	title = c_ruqila
+	max_settlements = 2
+	culture = armenian
+	religion = miaphysite
+	b_torarcas = tribal

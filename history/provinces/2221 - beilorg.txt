@@ -1,0 +1,5 @@
+	title = c_beilorg
+	max_settlements = 2
+	culture = zhangzhung
+	religion = karaite
+	b_ragey = tribal

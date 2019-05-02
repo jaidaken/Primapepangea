@@ -1,0 +1,5 @@
+	title = c_raninus
+	max_settlements = 2
+	culture = mongol
+	religion = zun_pagan
+	b_aciboy = tribal

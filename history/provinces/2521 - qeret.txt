@@ -1,0 +1,5 @@
+	title = c_qeret
+	max_settlements = 2
+	culture = frisian
+	religion = sunni
+	b_wunughan = tribal

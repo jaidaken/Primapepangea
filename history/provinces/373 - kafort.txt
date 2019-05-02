@@ -1,0 +1,5 @@
+	title = c_kafort
+	max_settlements = 2
+	culture = zaghawa
+	religion = finnish_pagan_reformed
+	b_adanarn = tribal

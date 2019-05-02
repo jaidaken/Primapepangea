@@ -1,0 +1,5 @@
+	title = c_wida
+	max_settlements = 3
+	culture = frisian
+	religion = khurmazta
+	b_basotte = tribal

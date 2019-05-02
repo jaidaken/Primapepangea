@@ -1,0 +1,5 @@
+	title = c_anusesa
+	max_settlements = 2
+	culture = kannada
+	religion = sunni
+	b_qairesa = tribal

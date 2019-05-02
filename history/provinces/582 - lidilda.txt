@@ -1,0 +1,5 @@
+	title = c_lidilda
+	max_settlements = 3
+	culture = zhangzhung
+	religion = bogomilist
+	b_ronilda = tribal

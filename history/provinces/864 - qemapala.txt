@@ -1,0 +1,5 @@
+	title = c_qemapala
+	max_settlements = 2
+	culture = portuguese
+	religion = hindu
+	b_bamekpa = tribal

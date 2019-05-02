@@ -1,0 +1,5 @@
+	title = c_saroo
+	max_settlements = 3
+	culture = mongol
+	religion = cathar
+	b_kotirah = tribal

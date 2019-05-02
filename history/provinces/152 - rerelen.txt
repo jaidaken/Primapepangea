@@ -1,0 +1,5 @@
+	title = c_rerelen
+	max_settlements = 2
+	culture = sumpa
+	religion = jain
+	b_tezick = tribal

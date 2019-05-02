@@ -1,0 +1,5 @@
+	title = c_torabak
+	max_settlements = 2
+	culture = basque
+	religion = kharijite
+	b_tesikan = tribal

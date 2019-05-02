@@ -1,0 +1,5 @@
+	title = c_ariibetu
+	max_settlements = 2
+	culture = german
+	religion = yazidi
+	b_qetu = tribal

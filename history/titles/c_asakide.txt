@@ -1,0 +1,40 @@
+758.2.1 = {
+	holder = 1000007
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_neriar
+}
+
+758.2.3 = {
+	holder = 1000799
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1018807
+}
+
+1003.2.1 = {
+	holder = 1019681
+}
+
+1004.2.1 = {
+	liege = d_tilda
+}
+
+1004.2.2 = {
+	holder = 1020769
+}
+
+1014.2.1 = {
+	holder = 1023526
+}
+
+1053.2.1 = {
+	holder = 1025043
+}
+

@@ -1,0 +1,5 @@
+	title = c_kanunes
+	max_settlements = 3
+	culture = khanty
+	religion = yazidi
+	b_digigin = tribal

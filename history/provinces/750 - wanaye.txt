@@ -1,0 +1,5 @@
+	title = c_wanaye
+	max_settlements = 2
+	culture = english
+	religion = shiite
+	b_ronrad = tribal

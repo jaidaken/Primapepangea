@@ -1,0 +1,5 @@
+	title = c_taepeth
+	max_settlements = 2
+	culture = avar
+	religion = yazidi
+	b_asanesa = tribal

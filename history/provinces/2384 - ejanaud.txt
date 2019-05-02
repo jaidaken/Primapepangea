@@ -1,0 +1,5 @@
+	title = c_ejanaud
+	max_settlements = 2
+	culture = visigothic
+	religion = aztec_reformed
+	b_tisaut = tribal

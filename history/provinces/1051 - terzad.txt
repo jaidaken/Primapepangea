@@ -1,0 +1,5 @@
+	title = c_terzad
+	max_settlements = 2
+	culture = alan
+	religion = baltic_pagan
+	b_saye = tribal

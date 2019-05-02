@@ -1,0 +1,5 @@
+	title = c_riraj
+	max_settlements = 2
+	culture = uyghur
+	religion = druze
+	b_edana = tribal

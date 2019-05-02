@@ -1,0 +1,5 @@
+	title = c_dulund
+	max_settlements = 2
+	culture = scottish
+	religion = bogomilist
+	b_liuba = tribal

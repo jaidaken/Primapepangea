@@ -1,0 +1,5 @@
+	title = c_sirin
+	max_settlements = 2
+	culture = kannada
+	religion = zikri
+	b_tamur = tribal

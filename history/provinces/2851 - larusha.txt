@@ -1,0 +1,5 @@
+	title = c_larusha
+	max_settlements = 2
+	culture = english
+	religion = hindu
+	b_wedonda = tribal

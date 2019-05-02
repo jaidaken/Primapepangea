@@ -1,0 +1,5 @@
+	title = c_wotair
+	max_settlements = 2
+	culture = suebi
+	religion = zikri
+	b_wareth = tribal

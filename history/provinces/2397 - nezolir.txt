@@ -1,0 +1,5 @@
+	title = c_nezolir
+	max_settlements = 2
+	culture = songhay
+	religion = cathar
+	b_livvas = tribal

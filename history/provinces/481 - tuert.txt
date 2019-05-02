@@ -1,0 +1,5 @@
+	title = c_tuert
+	max_settlements = 3
+	culture = karluk
+	religion = karaite
+	b_worasco = tribal

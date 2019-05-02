@@ -1,0 +1,5 @@
+	title = c_butanu
+	max_settlements = 2
+	culture = coptic
+	religion = karaite
+	b_kutupta = tribal

@@ -1,0 +1,5 @@
+	title = c_edonilzi
+	max_settlements = 2
+	culture = lettigallish
+	religion = slavic_pagan
+	b_biotas = tribal

@@ -1,0 +1,5 @@
+	title = c_adanilip
+	max_settlements = 2
+	culture = avar
+	religion = hurufi
+	b_lanatas = tribal

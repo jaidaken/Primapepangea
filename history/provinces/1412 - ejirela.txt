@@ -1,0 +1,5 @@
+	title = c_ejirela
+	max_settlements = 2
+	culture = zhangzhung
+	religion = waldensian
+	b_lahead = tribal

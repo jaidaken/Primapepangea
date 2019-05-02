@@ -1,0 +1,5 @@
+	title = c_aboteon
+	max_settlements = 2
+	culture = swedish
+	religion = hellenic_pagan_reformed
+	b_larofia = tribal

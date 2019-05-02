@@ -1,0 +1,5 @@
+	title = c_sudera
+	max_settlements = 2
+	culture = arberian
+	religion = messalian
+	b_romisek = tribal

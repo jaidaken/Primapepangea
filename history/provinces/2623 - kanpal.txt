@@ -1,0 +1,5 @@
+	title = c_kanpal
+	max_settlements = 2
+	culture = irish
+	religion = iconoclast
+	b_nudella = tribal

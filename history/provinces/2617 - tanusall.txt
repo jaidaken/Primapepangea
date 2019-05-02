@@ -1,0 +1,5 @@
+	title = c_tanusall
+	max_settlements = 3
+	culture = breton
+	religion = messalian
+	b_kibura = tribal

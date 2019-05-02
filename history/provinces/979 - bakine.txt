@@ -1,0 +1,5 @@
+	title = c_bakine
+	max_settlements = 2
+	culture = carantanian
+	religion = cathar
+	b_korine = tribal

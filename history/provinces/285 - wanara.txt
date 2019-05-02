@@ -1,0 +1,5 @@
+	title = c_wanara
+	max_settlements = 2
+	culture = bengali
+	religion = west_african_pagan_reformed
+	b_lenr = tribal

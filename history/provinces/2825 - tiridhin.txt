@@ -1,0 +1,5 @@
+	title = c_tiridhin
+	max_settlements = 2
+	culture = daju
+	religion = aztec
+	b_kulakam = tribal

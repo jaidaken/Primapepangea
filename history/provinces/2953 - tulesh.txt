@@ -1,0 +1,5 @@
+	title = c_tulesh
+	max_settlements = 3
+	culture = old_frankish
+	religion = shiite
+	b_emaroot = tribal

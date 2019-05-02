@@ -1,0 +1,5 @@
+	title = c_davyuk
+	max_settlements = 2
+	culture = basque
+	religion = hellenic_pagan
+	b_wotyuk = tribal

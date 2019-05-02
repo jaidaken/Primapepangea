@@ -1,0 +1,5 @@
+	title = c_dulona
+	max_settlements = 2
+	culture = prussian
+	religion = khurmazta
+	b_satelo = tribal

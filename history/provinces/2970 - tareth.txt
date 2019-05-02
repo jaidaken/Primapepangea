@@ -1,0 +1,5 @@
+	title = c_tareth
+	max_settlements = 2
+	culture = english
+	religion = slavic_pagan
+	b_ladelund = tribal

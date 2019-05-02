@@ -1,0 +1,5 @@
+	title = c_abinyas
+	max_settlements = 2
+	culture = croatian
+	religion = pagan
+	b_damanna = tribal

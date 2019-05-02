@@ -1,0 +1,5 @@
+	title = c_rideva
+	max_settlements = 2
+	culture = frankish
+	religion = taoist
+	b_agrana = tribal

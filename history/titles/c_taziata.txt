@@ -1,0 +1,210 @@
+758.2.1 = {
+	holder = 1000081
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1003978
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_qirofia
+}
+
+758.2.4 = {
+	holder = 1003976
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+784.2.1 = {
+	holder = 1007019
+}
+
+829.2.1 = {
+	liege = d_ranopo
+}
+
+829.2.2 = {
+	holder = 1010493
+}
+
+829.2.3 = {
+	liege = d_qirofia
+}
+
+832.2.1 = {
+	liege = d_ranopo
+}
+
+832.2.2 = {
+	holder = 1011083
+}
+
+832.2.3 = {
+	liege = k_ezanda
+}
+
+838.2.1 = {
+	liege = d_kahio
+}
+
+838.2.2 = {
+	liege = d_tyasavai
+}
+
+838.2.3 = {
+	liege = d_darand
+}
+
+838.2.4 = {
+	liege = d_aloo
+}
+
+838.2.5 = {
+	liege = d_lirand
+}
+
+838.2.6 = {
+	liege = d_amonza
+}
+
+838.2.7 = {
+	liege = d_qirofia
+}
+
+838.2.8 = {
+	liege = d_ranopo
+}
+
+838.2.9 = {
+	holder = 1014332
+}
+
+838.2.10 = {
+	liege = k_ezanda
+}
+
+859.2.1 = {
+	liege = d_naliata
+}
+
+859.2.2 = {
+	liege = d_ranopo
+}
+
+859.2.3 = {
+	liege = d_tyasavai
+}
+
+859.2.4 = {
+	liege = d_kahio
+}
+
+859.2.5 = {
+	liege = d_amonza
+}
+
+859.2.6 = {
+	liege = d_lirand
+}
+
+859.2.7 = {
+	liege = d_aloo
+}
+
+859.2.8 = {
+	liege = d_darand
+}
+
+859.2.9 = {
+	holder = 1016017
+}
+
+881.2.1 = {
+	holder = 1017059
+}
+
+888.2.1 = {
+	holder = 1017571
+}
+
+901.2.1 = {
+	liege = d_aloo
+}
+
+901.2.2 = {
+	liege = d_lirand
+}
+
+901.2.3 = {
+	liege = d_amonza
+}
+
+901.2.4 = {
+	holder = 1018655
+}
+
+930.2.1 = {
+	liege = d_lirand
+}
+
+930.2.2 = {
+	liege = d_aloo
+}
+
+930.2.3 = {
+	liege = d_darand
+}
+
+930.2.4 = {
+	holder = 1019482
+}
+
+937.2.1 = {
+	holder = 1020350
+}
+
+973.2.1 = {
+	holder = 1021065
+}
+
+995.2.1 = {
+	liege = d_aloo
+}
+
+995.2.2 = {
+	liege = d_lirand
+}
+
+995.2.3 = {
+	liege = d_amonza
+}
+
+995.2.4 = {
+	holder = 1022366
+}
+
+1014.2.1 = {
+	liege = d_lirand
+}
+
+1014.2.2 = {
+	liege = d_aloo
+}
+
+1014.2.3 = {
+	liege = d_darand
+}
+
+1014.2.4 = {
+	holder = 1023161
+}
+
+1019.2.1 = {
+	holder = 1023737
+}
+

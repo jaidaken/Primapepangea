@@ -1,0 +1,5 @@
+	title = c_nomaon
+	max_settlements = 2
+	culture = komi
+	religion = karaite
+	b_enuhiyi = tribal

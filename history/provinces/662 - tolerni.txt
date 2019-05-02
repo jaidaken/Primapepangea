@@ -1,0 +1,5 @@
+	title = c_tolerni
+	max_settlements = 2
+	culture = serbian
+	religion = color
+	b_qatako = tribal

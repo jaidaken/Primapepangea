@@ -1,0 +1,5 @@
+	title = c_baut
+	max_settlements = 2
+	culture = norwegian
+	religion = orthodox
+	b_lugick = tribal

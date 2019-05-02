@@ -1,0 +1,5 @@
+	title = c_kiday
+	max_settlements = 4
+	culture = norwegian
+	religion = shiite
+	b_atedrik = tribal

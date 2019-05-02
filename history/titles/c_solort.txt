@@ -1,0 +1,142 @@
+758.2.1 = {
+	holder = 1000074
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1003808
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kerandak
+}
+
+758.2.4 = {
+	holder = 1003806
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+906.2.1 = {
+	holder = 1017120
+}
+
+923.2.1 = {
+	liege = d_dounort
+}
+
+923.2.2 = {
+	liege = d_korakhir
+}
+
+923.2.3 = {
+	holder = 1018601
+}
+
+942.2.1 = {
+	liege = d_dounort
+}
+
+942.2.2 = {
+	liege = d_kerandak
+}
+
+942.2.3 = {
+	liege = d_nerort
+}
+
+942.2.4 = {
+	liege = d_worort
+}
+
+942.2.5 = {
+	holder = 1020017
+}
+
+977.2.1 = {
+	liege = d_nerort
+}
+
+977.2.2 = {
+	liege = d_kerandak
+}
+
+977.2.3 = {
+	liege = d_dounort
+}
+
+977.2.4 = {
+	liege = d_korakhir
+}
+
+977.2.5 = {
+	holder = 1022068
+}
+
+1017.2.1 = {
+	holder = 1022398
+}
+
+1022.2.1 = {
+	liege = d_dounort
+}
+
+1022.2.2 = {
+	liege = d_kerandak
+}
+
+1022.2.3 = {
+	liege = d_nerort
+}
+
+1022.2.4 = {
+	liege = d_worort
+}
+
+1022.2.5 = {
+	holder = 1023853
+}
+
+1051.2.1 = {
+	liege = d_nerort
+}
+
+1051.2.2 = {
+	liege = d_kerandak
+}
+
+1051.2.3 = {
+	liege = d_dounort
+}
+
+1051.2.4 = {
+	liege = d_korakhir
+}
+
+1051.2.5 = {
+	holder = 1024084
+}
+
+1061.2.1 = {
+	liege = d_dounort
+}
+
+1061.2.2 = {
+	liege = d_kerandak
+}
+
+1061.2.3 = {
+	liege = d_nerort
+}
+
+1061.2.4 = {
+	liege = d_worort
+}
+
+1061.2.5 = {
+	holder = 1025112
+}
+

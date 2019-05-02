@@ -1,0 +1,5 @@
+	title = c_qodusha
+	max_settlements = 2
+	culture = ethiopian
+	religion = aztec
+	b_kecenr = tribal

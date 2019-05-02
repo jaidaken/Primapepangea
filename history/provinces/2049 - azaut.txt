@@ -1,0 +1,5 @@
+	title = c_azaut
+	max_settlements = 2
+	culture = alan
+	religion = interface_skin
+	b_roumick = tribal

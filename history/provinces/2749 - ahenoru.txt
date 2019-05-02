@@ -1,0 +1,5 @@
+	title = c_ahenoru
+	max_settlements = 2
+	culture = old_saxon
+	religion = zikri
+	b_kenoru = tribal

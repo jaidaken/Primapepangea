@@ -1,0 +1,5 @@
+	title = c_siyataw
+	max_settlements = 2
+	culture = sogdian
+	religion = nestorian
+	b_ezmuqa = tribal

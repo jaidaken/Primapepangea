@@ -1,0 +1,5 @@
+	title = c_nuinde
+	max_settlements = 3
+	culture = manden
+	religion = zun_pagan_reformed
+	b_lauleca = tribal

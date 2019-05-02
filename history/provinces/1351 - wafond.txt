@@ -1,0 +1,5 @@
+	title = c_wafond
+	max_settlements = 2
+	culture = coptic
+	religion = lollard
+	b_wigamma = tribal

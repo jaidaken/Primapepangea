@@ -1,0 +1,5 @@
+	title = c_buiryg
+	max_settlements = 2
+	culture = bulgarian
+	religion = zikri
+	b_tidyg = tribal

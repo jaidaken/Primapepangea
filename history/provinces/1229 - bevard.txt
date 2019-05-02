@@ -1,0 +1,5 @@
+	title = c_bevard
+	max_settlements = 3
+	culture = khitan
+	religion = zun_pagan_reformed
+	b_rerecla = tribal

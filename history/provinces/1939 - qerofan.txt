@@ -1,0 +1,5 @@
+	title = c_qerofan
+	max_settlements = 3
+	culture = turkish
+	religion = messalian
+	b_solecla = tribal

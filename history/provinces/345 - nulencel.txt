@@ -1,0 +1,5 @@
+	title = c_nulencel
+	max_settlements = 2
+	culture = occitan
+	religion = interface_skin
+	b_batilan = tribal

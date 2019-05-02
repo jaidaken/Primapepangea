@@ -1,0 +1,5 @@
+	title = c_sakadhi
+	max_settlements = 2
+	culture = saxon
+	religion = messalian
+	b_talayra = tribal

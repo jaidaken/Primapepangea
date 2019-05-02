@@ -1,0 +1,5 @@
+	title = c_siubisa
+	max_settlements = 2
+	culture = old_frankish
+	religion = baltic_pagan
+	b_risine = tribal

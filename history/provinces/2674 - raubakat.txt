@@ -1,0 +1,5 @@
+	title = c_raubakat
+	max_settlements = 2
+	culture = panjabi
+	religion = druze
+	b_wenirin = tribal

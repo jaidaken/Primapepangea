@@ -1,0 +1,5 @@
+	title = c_berini
+	max_settlements = 2
+	culture = lettigallish
+	religion = zun_pagan
+	b_qolerni = tribal

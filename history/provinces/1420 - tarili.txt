@@ -1,0 +1,5 @@
+	title = c_tarili
+	max_settlements = 3
+	culture = oriya
+	religion = zoroastrian
+	b_kipeyr = tribal

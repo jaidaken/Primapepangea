@@ -1,0 +1,5 @@
+	title = c_kajarin
+	max_settlements = 2
+	culture = carantanian
+	religion = pagan
+	b_eratopo = tribal

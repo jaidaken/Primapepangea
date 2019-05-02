@@ -1,0 +1,5 @@
+	title = c_tunelo
+	max_settlements = 2
+	culture = saka
+	religion = waldensian
+	b_kulinic = tribal

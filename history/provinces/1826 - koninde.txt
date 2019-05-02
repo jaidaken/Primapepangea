@@ -1,0 +1,5 @@
+	title = c_koninde
+	max_settlements = 2
+	culture = alan
+	religion = paulician
+	b_lorance = tribal

@@ -1,0 +1,5 @@
+	title = c_rine
+	max_settlements = 2
+	culture = arberian
+	religion = waldensian
+	b_sutisa = tribal

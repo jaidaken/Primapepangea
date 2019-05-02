@@ -1,0 +1,5 @@
+	title = c_beatata
+	max_settlements = 2
+	culture = avar
+	religion = druze
+	b_bahonza = tribal

@@ -1,0 +1,5 @@
+	title = c_teudauq
+	max_settlements = 2
+	culture = han
+	religion = fraticelli
+	b_qalupta = tribal

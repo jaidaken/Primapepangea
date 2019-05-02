@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1002118
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_kitarya
+}
+
+816.2.1 = {
+	holder = 1010655
+}
+
+824.2.1 = {
+	holder = 1013428
+}
+
+843.2.1 = {
+	holder = 1015228
+}
+
+886.2.1 = {
+	holder = 1016425
+}
+
+921.2.1 = {
+	holder = 1018177
+}
+
+954.2.1 = {
+	holder = 1019943
+}
+
+993.2.1 = {
+	holder = 1021665
+}
+
+1011.2.1 = {
+	holder = 1022816
+}
+
+1057.2.1 = {
+	holder = 1024110
+}
+

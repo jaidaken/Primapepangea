@@ -1,0 +1,5 @@
+	title = c_tarora
+	max_settlements = 3
+	culture = mongol
+	religion = tengri_pagan
+	b_warom = tribal

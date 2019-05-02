@@ -1,0 +1,5 @@
+	title = c_kenian
+	max_settlements = 2
+	culture = romanian
+	religion = karaite
+	b_qenonia = tribal

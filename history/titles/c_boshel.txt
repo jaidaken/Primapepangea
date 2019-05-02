@@ -1,0 +1,136 @@
+758.2.1 = {
+	holder = 1000053
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002858
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_balaran
+}
+
+758.2.4 = {
+	holder = 1002859
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1002855
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+810.2.1 = {
+	holder = 1008321
+}
+
+822.2.1 = {
+	holder = 1013285
+}
+
+825.2.1 = {
+	holder = 1010168
+}
+
+828.2.1 = {
+	holder = 1013442
+}
+
+853.2.1 = {
+	liege = d_lorey
+}
+
+853.2.2 = {
+	liege = d_nafetri
+}
+
+853.2.3 = {
+	holder = 1014858
+}
+
+857.2.1 = {
+	holder = 1016397
+}
+
+897.2.1 = {
+	holder = 1016462
+}
+
+909.2.1 = {
+	holder = 1019225
+}
+
+912.2.1 = {
+	holder = 1018505
+}
+
+931.2.1 = {
+	liege = d_ehusoger
+}
+
+931.2.2 = {
+	liege = d_naul
+}
+
+931.2.3 = {
+	holder = 1019825
+}
+
+999.2.1 = {
+	liege = d_bilroy
+}
+
+999.2.2 = {
+	holder = 1020586
+}
+
+999.2.3 = {
+	liege = k_bilroy
+}
+
+1002.2.1 = {
+	liege = d_bilroy
+}
+
+1002.2.2 = {
+	liege = d_lorey
+}
+
+1002.2.3 = {
+	liege = d_nafetri
+}
+
+1002.2.4 = {
+	liege = d_ehusoger
+}
+
+1002.2.5 = {
+	liege = d_naul
+}
+
+1002.2.6 = {
+	holder = 1023070
+}
+
+1011.2.1 = {
+	holder = 1023414
+}
+
+1018.2.1 = {
+	holder = 1023701
+}
+
+1029.2.1 = {
+	holder = 1024124
+}
+
+1057.2.1 = {
+	holder = 1024163
+}
+

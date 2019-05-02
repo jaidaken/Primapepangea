@@ -1,0 +1,5 @@
+	title = c_abuohida
+	max_settlements = 2
+	culture = kannada
+	religion = west_african_pagan
+	b_dilata = tribal

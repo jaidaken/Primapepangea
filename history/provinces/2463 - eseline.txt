@@ -1,0 +1,5 @@
+	title = c_eseline
+	max_settlements = 2
+	culture = carantanian
+	religion = zoroastrian
+	b_savofan = tribal

@@ -1,0 +1,5 @@
+	title = c_riejda
+	max_settlements = 2
+	culture = khitan
+	religion = ibadi
+	b_bezirc = tribal

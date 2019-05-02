@@ -1,0 +1,5 @@
+	title = c_awinina
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = hellenic_pagan_reformed
+	b_lerug = tribal

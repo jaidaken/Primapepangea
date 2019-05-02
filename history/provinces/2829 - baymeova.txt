@@ -1,0 +1,5 @@
+	title = c_baymeova
+	max_settlements = 2
+	culture = sumpa
+	religion = west_african_pagan
+	b_roxemey = tribal

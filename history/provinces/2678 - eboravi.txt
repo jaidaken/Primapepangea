@@ -1,0 +1,5 @@
+	title = c_eboravi
+	max_settlements = 3
+	culture = romanian
+	religion = iconoclast
+	b_epai = tribal

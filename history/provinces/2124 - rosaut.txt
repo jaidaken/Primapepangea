@@ -1,0 +1,5 @@
+	title = c_rosaut
+	max_settlements = 2
+	culture = hindustani
+	religion = monophysite
+	b_nipu = tribal

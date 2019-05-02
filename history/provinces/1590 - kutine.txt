@@ -1,0 +1,5 @@
+	title = c_kutine
+	max_settlements = 2
+	culture = castillan
+	religion = zun_pagan
+	b_kutay = tribal

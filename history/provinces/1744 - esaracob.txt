@@ -1,0 +1,5 @@
+	title = c_esaracob
+	max_settlements = 2
+	culture = bulgarian
+	religion = west_african_pagan
+	b_walei = tribal

@@ -1,0 +1,5 @@
+	title = c_tumoito
+	max_settlements = 2
+	culture = bolghar
+	religion = yazidi
+	b_qanefan = tribal

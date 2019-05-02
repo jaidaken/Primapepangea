@@ -1,0 +1,5 @@
+	title = c_eturexis
+	max_settlements = 2
+	culture = german
+	religion = bon
+	b_teusaman = tribal

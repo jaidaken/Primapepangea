@@ -1,0 +1,5 @@
+	title = c_kanayka
+	max_settlements = 2
+	culture = danish
+	religion = catholic
+	b_lyahyuva = tribal

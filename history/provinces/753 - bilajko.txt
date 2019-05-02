@@ -1,0 +1,5 @@
+	title = c_bilajko
+	max_settlements = 2
+	culture = old_frankish
+	religion = pagan
+	b_qipefan = tribal

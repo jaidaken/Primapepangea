@@ -1,0 +1,5 @@
+	title = c_kakamur
+	max_settlements = 2
+	culture = marathi
+	religion = bogomilist
+	b_sirapa = tribal

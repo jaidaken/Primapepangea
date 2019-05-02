@@ -1,0 +1,5 @@
+	title = c_ranusick
+	max_settlements = 2
+	culture = bulgarian
+	religion = kharijite
+	b_tasey = tribal

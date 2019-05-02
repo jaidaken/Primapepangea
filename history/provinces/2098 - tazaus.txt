@@ -1,0 +1,5 @@
+	title = c_tazaus
+	max_settlements = 2
+	culture = oriya
+	religion = pagan
+	b_kitili = tribal

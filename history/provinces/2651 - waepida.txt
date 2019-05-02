@@ -1,0 +1,5 @@
+	title = c_waepida
+	max_settlements = 2
+	culture = old_frankish
+	religion = west_african_pagan
+	b_rolael = tribal

@@ -1,0 +1,106 @@
+758.2.1 = {
+	holder = 1000004
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000388
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_qanindik
+}
+
+758.2.4 = {
+	holder = 1000387
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+770.2.1 = {
+	holder = 1008515
+}
+
+772.2.1 = {
+	holder = 1000351
+}
+
+774.2.1 = {
+	holder = 1009019
+}
+
+803.2.1 = {
+	liege = d_kosorgil
+}
+
+803.2.2 = {
+	holder = 1012119
+}
+
+823.2.1 = {
+	holder = 1012425
+}
+
+861.2.1 = {
+	holder = 1015331
+}
+
+872.2.1 = {
+	holder = 1017088
+}
+
+887.2.1 = {
+	holder = 1018144
+}
+
+894.2.1 = {
+	holder = 1018187
+}
+
+904.2.1 = {
+	holder = 1017254
+}
+
+913.2.1 = {
+	holder = 1018126
+}
+
+920.2.1 = {
+	liege = d_qata
+}
+
+920.2.2 = {
+	holder = 1019715
+}
+
+959.2.1 = {
+	liege = d_kosorgil
+}
+
+959.2.2 = {
+	holder = 1020534
+}
+
+980.2.1 = {
+	holder = 1022078
+}
+
+1003.2.1 = {
+	liege = d_qata
+}
+
+1003.2.2 = {
+	holder = 1023053
+}
+
+1004.2.1 = {
+	holder = 1023127
+}
+
+1044.2.1 = {
+	holder = 1023363
+}
+

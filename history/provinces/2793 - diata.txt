@@ -1,0 +1,5 @@
+	title = c_diata
+	max_settlements = 2
+	culture = sogdian
+	religion = waldensian
+	b_reudiyar = tribal

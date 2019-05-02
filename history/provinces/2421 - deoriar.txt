@@ -1,0 +1,5 @@
+	title = c_deoriar
+	max_settlements = 2
+	culture = serbian
+	religion = mazdaki
+	b_kere = tribal

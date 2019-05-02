@@ -1,0 +1,5 @@
+	title = c_akicasan
+	max_settlements = 2
+	culture = english
+	religion = color
+	b_wuyaka = tribal

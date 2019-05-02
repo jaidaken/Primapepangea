@@ -1,0 +1,5 @@
+	title = c_roside
+	max_settlements = 2
+	culture = roman
+	religion = samaritan
+	b_kileyu = tribal

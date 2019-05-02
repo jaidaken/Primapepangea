@@ -1,0 +1,5 @@
+	title = c_loubick
+	max_settlements = 4
+	culture = roman
+	religion = waldensian
+	b_winola = tribal

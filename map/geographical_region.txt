@@ -1,0 +1,345 @@
+dataw = {
+	duchies = {
+			d_tapupta d_diyasan d_achictaw d_didemba d_reudataw d_amacodar d_satavati d_ralataw d_sutuqa d_kica d_enonusoy d_lezusoy d_qiyara d_sicsan d_ezeas d_remba d_emacemey d_wezora d_qahuipta d_amalanu d_tude d_evimaoro d_tecemba d_anonauq	}
+}
+
+likora = {
+	duchies = {
+			d_qicuqa d_diluray d_nitani d_wezavya d_enanaut d_qipani d_agorios d_rarilda d_sanaud d_touum d_kuqezhay d_ameemuk d_taneseto d_toabud d_weozia d_bidhaud d_esodenr d_aseseto d_dorijah d_kora d_kudina d_rutom d_kofan d_anuhihuo d_wufisey d_biibund	}
+}
+
+dekuqa = {
+	duchies = {
+			d_qicavya	}
+}
+
+tidirc = {
+	duchies = {
+			d_nuigda d_karaud d_asoabaki d_locila d_lemba d_ranaud d_buohuu d_locenr d_kerenr d_narair d_kouad d_ajanonti d_rughan d_rabi d_rilaca d_nanesa d_banaud d_lezusha d_tisini d_digun d_lilefan d_ejamakat d_agzajko d_dedeer	}
+}
+
+durara = {
+	duchies = {
+			d_qamolun d_kurigun d_nametu d_qodolun d_kuu d_bamabi d_aduu d_tinara d_rurusha d_rezughan d_kuohetu d_kukenr d_sanolun d_raepilo d_welabi d_qatani d_dezusha d_kalita d_rara d_kodund d_sukelun d_nanan d_tileria d_tolilo d_devund d_kaiman d_ejhusha d_rarusha d_tabenr d_qonusha d_ratael d_dungas	}
+}
+
+esanetu = {
+	duchies = {
+			d_reatara d_naratko d_rathita	}
+}
+
+wusha = {
+	duchies = {
+			d_tigun d_qurolun d_anusha d_donarsa d_qabusha d_banazan d_seufesa	}
+}
+
+ragahou = {
+	duchies = {
+			d_kocesh d_lenili d_riradfar d_tiririn d_kucili d_ripirin d_savirin d_kereer d_sibemir d_nenakat d_seofeyr d_sutakat d_biroun d_lanani d_bavirin d_niralha d_baranab d_tamoun d_savili d_lozalaf d_agisesh d_tipamed d_kamemir d_lelienne d_ranindik d_lipalaf d_qanindik d_ripamed d_diboru d_agzeran d_rirert d_tamagpa d_rilamed d_riliise d_ebuzemar d_nadeka d_sarahra d_kareria d_kosorgil d_bamamed	}
+}
+
+tisu = {
+	duchies = {
+			d_ajanaut d_wezum d_kipierr d_kidheka d_tiaon d_riojan d_soaneka d_welen d_lesick d_sidha d_asrirna d_qadika d_najide d_wagama d_toaneka d_rinina d_teseka d_kacaina d_kadelug d_esacacob	}
+}
+
+asrick = {
+	duchies = {
+			d_latrick d_teruna d_sarenda d_tulaham d_wesetar d_nuryuva	}
+}
+
+namangi = {
+	duchies = {
+			d_nakojan d_somaina d_kagacob d_ewinall d_wezinluo d_wiaina d_weupacob d_neriar d_tarina d_tilda d_kahexis d_boniar d_nuqyavka d_kedall d_rapau d_nigijah d_buraman d_qegexis d_ragiga d_barall d_qegora d_natexis d_larenda d_ragaoci d_wagiga	}
+}
+
+ronina = {
+	duchies = {
+			d_aragania d_tareth d_lapug d_asisund d_neryuva d_sadura d_bonund d_robanga d_bedania d_nakarma d_sonarak d_tutort d_bedall d_loratu d_awiga d_beniyar d_lusyeju d_tagura d_togora d_qananort d_tanathe	}
+}
+
+kobeth = {
+	duchies = {
+			d_wibusha d_qibanda d_dadund d_sadihor d_qiline d_tonith d_renarn	}
+}
+
+sarepa = {
+	duchies = {
+			d_emeguzh d_wumo d_nokuzh d_qigemon d_wabodar d_adudina d_kudemon d_qeilofan d_bemey d_wopolk d_kabemey d_kadupta d_sonuzh d_tuyuzia d_kilisey	}
+}
+
+kiana = {
+	duchies = {
+			d_qata d_liropolk d_ahezolod d_datatun d_kavild d_ekamita d_banisa d_kuzimiy	}
+}
+
+tanild = {
+	duchies = {
+			d_logettil d_nari d_astaimur d_resine d_dacifon d_wanifon d_elaula d_raula d_wutofan d_naran d_kust d_senacob d_sadhi d_eeolod d_teutey d_elemar d_tagrat d_tust d_bigayra d_edesust d_ecarian d_kalonia d_talaron d_beufivoj d_tenantia d_tamya d_kuunen d_waronia	}
+}
+
+kesild = {
+	duchies = {
+			d_wanemar d_ryian d_agzamed d_qikasb d_lisya d_emikya d_savyag d_qagasb	}
+}
+
+bisesa = {
+	duchies = {
+			d_dicevat d_raladu d_wobufer d_adurund d_kican d_kalosye d_nalayra d_divatani d_kisatani d_bobigin d_anirovya d_keph d_nivili d_dakeph d_rimovya d_taladhi d_wigigin d_rayra d_tivadir d_dadazan d_edobiam d_welanay d_kiubam d_kiriata d_telopolk d_kirimiy d_sanife d_letalma d_adobadir d_ekadhi d_tittiba	}
+}
+
+bucienne = {
+	duchies = {
+			d_bareran d_tadumo d_epalyag d_badarka d_qulonti d_qagumo d_tedavi d_soravi	}
+}
+
+dadavan = {
+	duchies = {
+			d_tadyag d_binara d_rulai d_equtarka d_tai d_tacavi d_rusiek d_tigice d_takyas d_nacice d_kulyas d_akulonti d_dulila d_egediek d_nulabah d_qicice d_ramiek d_tasavi d_nomyas d_kicasar d_qerarda d_domavi d_qeupars d_rajujin d_tura	}
+}
+
+lidasb = {
+	duchies = {
+			d_qadonti d_losarka d_sikumo d_salumo d_tikarka d_walumo d_rikavan d_qomabah d_tacara d_wafond d_rei d_tadaul d_tota	}
+}
+
+kedadir = {
+	duchies = {
+			d_robayra d_ekedeph d_raneph d_tacarn d_ecleph d_kanadhi d_kiratma d_kunah d_barcus d_nobife d_ledurak d_tanort d_boucows d_temunah d_tacahim d_tarn d_neniala	}
+}
+
+savamma = {
+	duchies = {
+			d_duran d_natva d_emusius d_tafiek d_bigiek	}
+}
+
+sinonti = {
+	duchies = {
+			d_ruloses d_nafarn d_komudah d_bigius d_kafius d_bahin d_sigin d_exenda	}
+}
+
+enirega = {
+	duchies = {
+			d_sofan d_kanajun d_tusinus d_qeupisa d_asurajun d_betalma d_letimiy d_bisutis d_legone d_ekukajun d_keyrahil d_raliray d_kasaddeo d_kegiba	}
+}
+
+tamavi = {
+	duchies = {
+			d_kars d_barda d_ladeph d_ricavi d_naroul d_kerunes d_dageph d_dyesijah d_ejarina d_noroth	}
+}
+
+ranike = {
+	duchies = {
+			d_belemir d_rusa d_tabina d_kirma d_kanasa d_belusa d_tuaneyu d_latin d_telemir d_rujin d_wiganta d_wilala	}
+}
+
+datina = {
+	duchies = {
+			d_tofina d_ronueri d_luida d_konike d_rinike d_dulatun d_tulencel d_nigudit d_quanala d_tolike d_katett d_dapoke d_kineyu d_waveyu d_sorarcas d_akilala d_nett d_ashalia d_karila d_konorday d_sundus d_roroul d_ebabina d_tuqimon d_warta d_lilimon d_kedek d_qenda d_etaporu d_tanimon d_qand d_kabijah	}
+}
+
+tatide = {
+	duchies = {
+			d_ejosin d_qudit d_tigeyu d_tezi d_deszek d_secry d_tofin d_wecaud d_danta d_torars	}
+}
+
+basone = {
+	duchies = {
+			d_bidadri	}
+}
+
+tina = {
+	duchies = {
+			d_ahoroth	}
+}
+
+dya = {
+	duchies = {
+			d_qagalia d_lir d_dyi d_naham d_qoraqiq d_kalaqiq d_kaham d_sodoke d_taqiq d_doradl	}
+}
+
+kyot = {
+	duchies = {
+			d_tagnus d_wagjin d_domadl d_raynand d_taynay d_qeret d_wutecco d_rarid d_kagjin d_akosand d_lunasi d_sadila d_qeladl d_nodaqiq d_kolyg d_tutinic d_abeseba d_alora d_domory d_wuirory d_sabaira d_nilenzo d_nutinic d_tetudrd d_qetagjin d_kazela d_wiibila d_eshalat d_taraka d_racinic d_naray d_bunojin d_qomoste d_dokutt	}
+}
+
+aqimon = {
+	duchies = {
+			d_radona d_riibona d_dadory d_ranimon d_qoravin	}
+}
+
+reba = {
+	duchies = {
+			d_rayalun d_nunulgu d_koanom d_buvven d_lalat d_binavai d_sanalo d_esilarig d_sazalo d_kegaise d_winom d_teberlo d_raterlo d_qinora d_leronda d_rebiise d_bubaula d_soxaise d_lida	}
+}
+
+kutoste = {
+	duchies = {
+			d_rilyg d_kokoste d_tomay d_kutenzo d_qetiam d_romid d_tutudrd d_kilan d_bolinic d_lilase d_lacinic d_nuirine d_binahim d_sirona d_bamacob d_kyayco d_siginha	}
+}
+
+qominic = {
+	duchies = {
+			d_ewolory	}
+}
+
+eqizayah = {
+	duchies = {
+			d_beraham d_ehubaula d_satella d_rudella d_wakian d_talleph d_edhessal d_rireis d_nirela	}
+}
+
+ludha = {
+	duchies = {
+			d_edhian d_doumtas d_sirang d_satara d_wang d_batenia d_tirextus d_tudivia d_bekpa d_sirara d_wakulia d_tatodia d_lubasin d_sapa d_etoumtas d_tudha	}
+}
+
+tarahim = {
+	duchies = {
+			d_navugun d_kodomon d_ranacob d_nigresi d_leataht d_tulela d_ratiek d_runela d_aborona d_lorone d_sadichay d_qalusa d_kanona d_rulone	}
+}
+
+qatodia = {
+	duchies = {
+			d_ajirodia d_lirin d_bace d_katila d_wezesh d_kinesh d_demekpa d_wakace d_reatana d_kanecla d_tuedan d_kararme d_tiecla d_tugapa d_emanenna d_ryahemka d_qotoshel d_kyahyuva d_lijah d_anaisha	}
+}
+
+tirapa = {
+	duchies = {
+			d_raheaj d_qaulev d_rarampa d_kinha d_adobulev d_kusada d_kurumar d_silicta d_reodor d_doniar d_tageka d_rulev d_tuxarna d_qigiar d_sodha d_rinola d_dakala d_turarna d_bemayya d_surumar d_lasi d_kadornik d_leodor d_lagena d_betana d_atemaman d_byolafiy d_esteodor d_apetike	}
+}
+
+kamund = {
+	duchies = {
+			d_latiek d_dozana d_wulela d_lesela d_qatund d_qalasa d_retona d_lasinha d_talona d_agetaruk d_kinaine d_baterni d_kerofan d_bovisil d_kigaram d_runmatam d_tadach d_bomar d_esamurga	}
+}
+
+ralana = {
+	duchies = {
+			d_egetona d_leatena d_rorund d_soza d_kura d_dusa d_dagibai d_tovifan d_aglosye d_katasil d_kesh d_ronibai d_ratusa d_talevan d_teloza d_kesil d_nalor	}
+}
+
+waleka = {
+	duchies = {
+			d_saudena d_ekaleka d_kanapa d_lorey d_bevat d_boanyay d_wyousey d_kaneka d_naul d_ehusoger d_balaran d_tammad d_nite d_nulewe d_keubala d_nafetri d_ryousaut d_neceefa d_azdakite d_bilroy d_rakke	}
+}
+
+nalini = {
+	duchies = {
+			d_wapusa d_boromar d_winick d_arazona d_wenilda d_ajinurga d_senomar d_selelun d_ejinaye d_qenasa d_luovola d_wusaro	}
+}
+
+kalund = {
+	duchies = {
+			d_korepa d_rivoj d_qaytuel d_kaon d_neria d_roraut d_balavka d_elivoj d_radind d_ducia d_tukivoj d_telita d_wahikan d_qagiaco d_qohisel d_nahualis d_eraak d_nualis d_kyasio d_buzavka d_kicius d_lerius d_koya d_sualis d_dalii d_qameca d_keorn d_buzater d_nuirlis d_wailte d_diteco d_ereubesh d_wimeinn d_koravin	}
+}
+
+deveefa = {
+	duchies = {
+			d_baraly d_qazle d_lienna d_satecla d_qachesh d_ereubite d_tesh d_teudely d_dezadrig d_nileorn d_tanenna d_serani d_do-lua d_aparaham d_tyoanesh d_taevand d_ezdublig d_kimad d_koringus d_ahanaham d_turida d_qyad d_niluin d_rodyuva d_wimesh d_ladisel d_evolerni d_kateova d_riheefa	}
+}
+
+kinaram = {
+	duchies = {
+			d_abagilek	}
+}
+
+dideefa = {
+	duchies = {
+			d_leinad d_toheca d_talena d_dadinde d_lamallo d_deudeca d_arallo d_wuinde d_sadallo d_toremir d_duzavin d_belind d_teph d_katallo d_waziyahu d_qoremir d_egliyahu d_toniulf	}
+}
+
+etamind = {
+	duchies = {
+			d_loniulf d_wuiulf d_dimind d_tileorn d_lodaham d_wevako d_turubb d_danacon d_rurida d_rolelw d_tedeorn	}
+}
+
+wobing = {
+	duchies = {
+			d_wibumar d_detodha d_alafiy d_roniza d_kodha d_qatora d_daisora d_qusha d_teatdor d_watike d_byoliraj d_ketaj d_ragodha d_derecla d_apremani d_tolerni d_wuksin d_ratora d_qagiata	}
+}
+
+ehibalvi = {
+	duchies = {
+			d_kuirena d_sagasi d_taydum d_wiraj d_nolonti d_nolerni d_revani	}
+}
+
+soretar = {
+	duchies = {
+			d_tajko d_amadavan d_wyea d_nebila d_lukac d_banavi d_dukac d_borina d_secavo d_sila d_atorulis d_kanelle d_lanyan d_keilivoj d_kajid d_delenja d_qanavo	}
+}
+
+lanini = {
+	duchies = {
+			d_remako d_bolard d_naterni d_amatini d_katerni d_terako d_dolerni d_kolini d_katelw d_bedand d_rerini	}
+}
+
+tisarde = {
+	duchies = {
+			d_tecarde d_resa d_aseravan	}
+}
+
+keriala = {
+	duchies = {
+			d_kaarak d_ravarab d_worort d_dounort d_nerort d_bavanda d_leriza d_korakhir d_kerandak d_lerazu d_roryeju d_boragnus d_luyulip d_danitya	}
+}
+
+raylith = {
+	duchies = {
+			d_kanampa d_qobitya d_dotitya d_kalawa	}
+}
+
+dezagh = {
+	duchies = {
+			d_lezald d_wazeyr	}
+}
+
+tuyarn = {
+	duchies = {
+			d_qefeyr d_bijurla d_radagni d_qefore d_kicurd d_befeyr d_kisya d_kailula d_bajenna d_kadya d_budela	}
+}
+
+tanaselt = {
+	duchies = {
+			d_wyosurva d_koteas d_soaneas d_damude d_kareric d_qanasatt d_raneka d_abotindo d_noyan d_abulau d_toraus d_kaudoo d_wulude d_bitofia d_wavoyan d_qoanier d_nanavai d_naliata d_waneon d_soyan d_kuunaj d_lirand d_kalopolk d_ralindo d_seriaco d_sevi d_qavana d_qimopo d_rimesa d_qulidis d_wesania	}
+}
+
+rinurva = {
+	duchies = {
+			d_qirofia d_darand d_tyasavai d_syaseka d_ranopo d_razirah d_kahio d_qerconza d_etravai d_aloo d_amonza	}
+}
+
+nazesa = {
+	duchies = {
+			d_roxesa d_kyasaca d_dyosonda d_taracob d_karia d_saheka d_tonodai d_qaisian d_nucirve d_kimule d_rairoya d_kasuela d_bezidun d_qoti d_baruraj d_tigush d_nebuela d_wibopir d_ravaise d_tunalev	}
+}
+
+kercavai = {
+	duchies = {
+			d_wonoan d_sirarin d_seocir d_kerir d_edonikan d_sipigo	}
+}
+
+teatag = {
+	duchies = {
+			d_qahata d_rusir d_revata d_koroan d_selaach d_baboan d_avonza d_taach d_babak	}
+}
+
+lezanu = {
+	duchies = {
+			d_kahanu d_anarruq d_degahar d_kigidun d_karold d_rariray d_enamuraj d_debeth d_emeth d_qebuela d_wanu	}
+}
+
+sebiray = {
+	duchies = {
+			d_beth d_nateova d_rudopir d_deceth d_taymeth d_ligen d_bigivoj d_rereon d_qicaise d_lamisa d_ethiise d_kezole	}
+}
+
+tozavid = {
+	duchies = {
+			d_ecekania d_tegale d_regania d_lidilda d_konania d_azina	}
+}
+
+keefa = {
+	duchies = {
+			d_ephomeus d_dorosa d_emagosa d_ronrad d_baganay d_bagyuk d_boresh d_badaye	}
+}
+

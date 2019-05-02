@@ -1,0 +1,5 @@
+	title = c_emugort
+	max_settlements = 2
+	culture = irish
+	religion = jewish
+	b_ekafota = tribal

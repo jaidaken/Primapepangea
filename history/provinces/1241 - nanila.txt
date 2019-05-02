@@ -1,0 +1,5 @@
+	title = c_nanila
+	max_settlements = 2
+	culture = gujurati
+	religion = nestorian
+	b_rosindik = tribal

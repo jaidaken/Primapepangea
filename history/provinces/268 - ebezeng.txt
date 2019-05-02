@@ -1,0 +1,5 @@
+	title = c_ebezeng
+	max_settlements = 3
+	culture = kurdish
+	religion = cathar
+	b_nogettil = tribal

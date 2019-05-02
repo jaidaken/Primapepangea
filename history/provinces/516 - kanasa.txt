@@ -1,0 +1,5 @@
+	title = c_kanasa
+	max_settlements = 2
+	culture = ashkenazi
+	religion = mazdaki
+	b_rouzan = tribal

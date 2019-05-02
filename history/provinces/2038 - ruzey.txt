@@ -1,0 +1,5 @@
+	title = c_ruzey
+	max_settlements = 2
+	culture = khanty
+	religion = aztec
+	b_ezarme = tribal

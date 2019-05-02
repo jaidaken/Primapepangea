@@ -1,0 +1,5 @@
+	title = c_ranufer
+	max_settlements = 2
+	culture = prussian
+	religion = bon
+	b_rakazan = tribal

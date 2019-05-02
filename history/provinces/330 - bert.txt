@@ -1,0 +1,5 @@
+	title = c_bert
+	max_settlements = 3
+	culture = hindustani
+	religion = interface_skin
+	b_duaham = tribal

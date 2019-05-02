@@ -1,0 +1,5 @@
+	title = c_susabah
+	max_settlements = 2
+	culture = persian
+	religion = messalian
+	b_ledoth = tribal

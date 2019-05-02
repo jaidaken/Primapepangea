@@ -1,0 +1,5 @@
+	title = c_nilida
+	max_settlements = 3
+	culture = greek
+	religion = paulician
+	b_tileria = tribal

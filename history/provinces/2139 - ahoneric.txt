@@ -1,0 +1,5 @@
+	title = c_ahoneric
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = taoist
+	b_dusilia = tribal

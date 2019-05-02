@@ -1,0 +1,5 @@
+	title = c_wazeorn
+	max_settlements = 3
+	culture = sogdian
+	religion = catholic
+	b_kokith = tribal

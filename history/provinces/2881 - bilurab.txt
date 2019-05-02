@@ -1,0 +1,5 @@
+	title = c_bilurab
+	max_settlements = 2
+	culture = dalmatian
+	religion = pagan
+	b_roliza = tribal

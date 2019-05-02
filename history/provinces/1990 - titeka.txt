@@ -1,0 +1,5 @@
+	title = c_titeka
+	max_settlements = 2
+	culture = greek
+	religion = cathar
+	b_lalummai = tribal

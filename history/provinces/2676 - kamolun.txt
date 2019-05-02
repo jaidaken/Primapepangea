@@ -1,0 +1,5 @@
+	title = c_kamolun
+	max_settlements = 2
+	culture = alan
+	religion = zikri
+	b_wurara = tribal

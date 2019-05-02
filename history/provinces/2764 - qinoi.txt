@@ -1,0 +1,5 @@
+	title = c_qinoi
+	max_settlements = 4
+	culture = afghan
+	religion = monothelite
+	b_ekulukac = tribal

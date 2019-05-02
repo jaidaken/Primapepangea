@@ -1,0 +1,5 @@
+	title = c_qicudra
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = slavic_pagan_reformed
+	b_wearlis = tribal

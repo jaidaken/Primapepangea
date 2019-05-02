@@ -1,0 +1,5 @@
+	title = c_betula
+	max_settlements = 2
+	culture = saxon
+	religion = fraticelli
+	b_weorn = tribal

@@ -1,0 +1,5 @@
+	title = c_kagirun
+	max_settlements = 2
+	culture = castillan
+	religion = pagan
+	b_terey = tribal

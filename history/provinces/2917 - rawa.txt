@@ -1,0 +1,5 @@
+	title = c_rawa
+	max_settlements = 2
+	culture = bulgarian
+	religion = slavic_pagan_reformed
+	b_weditya = tribal

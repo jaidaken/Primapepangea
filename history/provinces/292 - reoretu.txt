@@ -1,0 +1,5 @@
+	title = c_reoretu
+	max_settlements = 2
+	culture = mordvin
+	religion = aztec
+	b_sedara = tribal

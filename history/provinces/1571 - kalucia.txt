@@ -1,0 +1,5 @@
+	title = c_kalucia
+	max_settlements = 2
+	culture = frankish
+	religion = manichean
+	b_ralence = tribal

@@ -1,0 +1,5 @@
+	title = c_dezataw
+	max_settlements = 2
+	culture = arberian
+	religion = lollard
+	b_ronataw = tribal

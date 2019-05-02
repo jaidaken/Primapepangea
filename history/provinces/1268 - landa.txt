@@ -1,0 +1,5 @@
+	title = c_landa
+	max_settlements = 2
+	culture = daju
+	religion = finnish_pagan_reformed
+	b_danay = tribal

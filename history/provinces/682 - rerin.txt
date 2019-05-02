@@ -1,0 +1,5 @@
+	title = c_rerin
+	max_settlements = 2
+	culture = occitan
+	religion = interface_skin
+	b_kigina = tribal

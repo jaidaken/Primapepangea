@@ -1,0 +1,5 @@
+	title = c_tipindik
+	max_settlements = 2
+	culture = lappish
+	religion = mazdaki
+	b_tedey = tribal

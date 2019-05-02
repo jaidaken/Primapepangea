@@ -1,0 +1,5 @@
+	title = c_kuohega
+	max_settlements = 2
+	culture = sinhala
+	religion = karaite
+	b_sezega = tribal

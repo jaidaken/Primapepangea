@@ -1,0 +1,5 @@
+	title = c_teziyata
+	max_settlements = 2
+	culture = nepali
+	religion = miaphysite
+	b_somina = tribal

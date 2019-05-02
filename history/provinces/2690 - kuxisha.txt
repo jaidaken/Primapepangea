@@ -1,0 +1,5 @@
+	title = c_kuxisha
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = jewish
+	b_bonumar = tribal

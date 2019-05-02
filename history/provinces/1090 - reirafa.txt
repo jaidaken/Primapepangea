@@ -1,0 +1,5 @@
+	title = c_reirafa
+	max_settlements = 2
+	culture = swedish
+	religion = karaite
+	b_domina = tribal

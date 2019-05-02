@@ -1,0 +1,5 @@
+	title = c_qutind
+	max_settlements = 3
+	culture = crimean_gothic
+	religion = taoist
+	b_sirira = tribal

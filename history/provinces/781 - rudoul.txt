@@ -1,0 +1,5 @@
+	title = c_rudoul
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = hurufi
+	b_nabir = tribal

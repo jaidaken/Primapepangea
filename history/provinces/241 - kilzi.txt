@@ -1,0 +1,5 @@
+	title = c_kilzi
+	max_settlements = 2
+	culture = irish
+	religion = hellenic_pagan
+	b_ashughan = tribal

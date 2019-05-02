@@ -1,0 +1,5 @@
+	title = c_rigemon
+	max_settlements = 3
+	culture = sinhala
+	religion = kharijite
+	b_bamoasse = tribal

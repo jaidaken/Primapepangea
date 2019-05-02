@@ -1,0 +1,5 @@
+	title = c_rinarka
+	max_settlements = 2
+	culture = volhynian
+	religion = monothelite
+	b_akulakr = tribal

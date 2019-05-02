@@ -1,0 +1,5 @@
+	title = c_weleth
+	max_settlements = 2
+	culture = roman
+	religion = jewish
+	b_lyosiray = tribal

@@ -1,0 +1,5 @@
+	title = c_selusa
+	max_settlements = 3
+	culture = baloch
+	religion = kharijite
+	b_eglosye = tribal

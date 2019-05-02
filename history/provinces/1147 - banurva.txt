@@ -1,0 +1,5 @@
+	title = c_banurva
+	max_settlements = 2
+	culture = dalmatian
+	religion = catholic
+	b_edanofia = tribal

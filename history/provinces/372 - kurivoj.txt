@@ -1,0 +1,5 @@
+	title = c_kurivoj
+	max_settlements = 4
+	culture = coptic
+	religion = cathar
+	b_syab = tribal

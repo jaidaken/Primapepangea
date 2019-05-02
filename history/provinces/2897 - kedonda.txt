@@ -1,0 +1,5 @@
+	title = c_kedonda
+	max_settlements = 2
+	culture = marathi
+	religion = interface_skin
+	b_raifiza = tribal

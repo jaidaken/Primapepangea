@@ -1,0 +1,5 @@
+	title = c_qinalp
+	max_settlements = 3
+	culture = karluk
+	religion = iconoclast
+	b_avlavin = tribal

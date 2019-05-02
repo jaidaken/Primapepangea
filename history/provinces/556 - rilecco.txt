@@ -1,0 +1,5 @@
+	title = c_rilecco
+	max_settlements = 2
+	culture = oriya
+	religion = slavic_pagan
+	b_etaddeo = tribal

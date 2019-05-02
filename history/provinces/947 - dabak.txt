@@ -1,0 +1,5 @@
+	title = c_dabak
+	max_settlements = 2
+	culture = sogdian
+	religion = pagan
+	b_rabir = tribal

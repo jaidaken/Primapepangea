@@ -1,0 +1,5 @@
+	title = c_lyayva
+	max_settlements = 3
+	culture = mordvin
+	religion = monophysite
+	b_ekicataw = tribal

@@ -1,0 +1,5 @@
+	title = c_sacarda
+	max_settlements = 2
+	culture = oriya
+	religion = jewish
+	b_damavi = tribal

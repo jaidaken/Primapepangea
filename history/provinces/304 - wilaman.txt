@@ -1,0 +1,5 @@
+	title = c_wilaman
+	max_settlements = 2
+	culture = dutch
+	religion = baltic_pagan_reformed
+	b_qeliaco = tribal

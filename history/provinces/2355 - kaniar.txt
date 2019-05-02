@@ -1,0 +1,5 @@
+	title = c_kaniar
+	max_settlements = 2
+	culture = zhangzhung
+	religion = interface_skin
+	b_enmae = tribal

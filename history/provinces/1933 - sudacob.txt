@@ -1,0 +1,5 @@
+	title = c_sudacob
+	max_settlements = 2
+	culture = daju
+	religion = samaritan
+	b_weguela = tribal

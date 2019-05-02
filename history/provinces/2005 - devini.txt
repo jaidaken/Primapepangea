@@ -1,0 +1,5 @@
+	title = c_devini
+	max_settlements = 2
+	culture = norwegian
+	religion = druze
+	b_bevani = tribal

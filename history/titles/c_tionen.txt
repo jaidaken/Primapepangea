@@ -1,0 +1,140 @@
+758.2.1 = {
+	holder = 1000021
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000023
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1001319
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_qikasb
+}
+
+758.2.5 = {
+	holder = 1001318
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+796.2.1 = {
+	holder = 1007393
+}
+
+809.2.1 = {
+	holder = 1008948
+}
+
+809.2.2 = {
+	holder = 1010094
+}
+
+823.2.1 = {
+	liege = d_lelienne
+}
+
+823.2.2 = {
+	liege = d_bamamed
+}
+
+823.2.3 = {
+	liege = d_rilamed
+}
+
+823.2.4 = {
+	holder = 1013972
+}
+
+875.2.1 = {
+	holder = 1015189
+}
+
+890.2.1 = {
+	liege = d_bamamed
+}
+
+890.2.2 = {
+	liege = d_lelienne
+}
+
+890.2.3 = {
+	liege = d_qikasb
+}
+
+890.2.4 = {
+	holder = 1017724
+}
+
+914.2.1 = {
+	liege = d_lelienne
+}
+
+914.2.2 = {
+	liege = d_bamamed
+}
+
+914.2.3 = {
+	liege = d_rilamed
+}
+
+914.2.4 = {
+	holder = 1018682
+}
+
+966.2.1 = {
+	liege = d_bamamed
+}
+
+966.2.2 = {
+	liege = d_lelienne
+}
+
+966.2.3 = {
+	liege = d_qikasb
+}
+
+966.2.4 = {
+	holder = 1019687
+}
+
+977.2.1 = {
+	holder = 1021702
+}
+
+1016.2.1 = {
+	holder = 1023060
+}
+
+1053.2.1 = {
+	holder = 1024834
+}
+
+1062.2.1 = {
+	liege = d_lelienne
+}
+
+1062.2.2 = {
+	liege = d_bamamed
+}
+
+1062.2.3 = {
+	liege = d_rilamed
+}
+
+1062.2.4 = {
+	liege = d_ripamed
+}
+
+1062.2.5 = {
+	holder = 1025416
+}
+

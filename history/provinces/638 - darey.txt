@@ -1,0 +1,5 @@
+	title = c_darey
+	max_settlements = 2
+	culture = manden
+	religion = waldensian
+	b_tyetin = tribal

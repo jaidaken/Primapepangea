@@ -1,0 +1,5 @@
+	title = c_kecewe
+	max_settlements = 2
+	culture = volhynian
+	religion = jewish
+	b_avecoot = tribal

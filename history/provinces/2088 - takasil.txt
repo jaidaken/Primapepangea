@@ -1,0 +1,5 @@
+	title = c_takasil
+	max_settlements = 2
+	culture = kanuri
+	religion = iconoclast
+	b_datri = tribal

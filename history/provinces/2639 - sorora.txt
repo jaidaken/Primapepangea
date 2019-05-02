@@ -1,0 +1,5 @@
+	title = c_sorora
+	max_settlements = 2
+	culture = hausa
+	religion = bon_reformed
+	b_katexis = tribal

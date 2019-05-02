@@ -1,0 +1,5 @@
+	title = c_talp
+	max_settlements = 2
+	culture = ilmenian
+	religion = aztec_reformed
+	b_kuzance = tribal

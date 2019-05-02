@@ -1,0 +1,5 @@
+	title = c_emoroun
+	max_settlements = 2
+	culture = pictish
+	religion = interface_skin
+	b_kienne = tribal

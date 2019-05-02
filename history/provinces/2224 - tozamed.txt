@@ -1,0 +1,5 @@
+	title = c_tozamed
+	max_settlements = 2
+	culture = portuguese
+	religion = hurufi
+	b_wavamed = tribal

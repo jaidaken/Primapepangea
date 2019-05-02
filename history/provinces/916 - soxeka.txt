@@ -1,0 +1,5 @@
+	title = c_soxeka
+	max_settlements = 2
+	culture = kanuri
+	religion = jain
+	b_kili = tribal

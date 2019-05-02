@@ -1,0 +1,5 @@
+	title = c_nirasin
+	max_settlements = 2
+	culture = marathi
+	religion = norse_pagan_reformed
+	b_kallara = tribal

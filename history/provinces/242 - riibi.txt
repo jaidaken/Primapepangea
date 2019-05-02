@@ -1,0 +1,5 @@
+	title = c_riibi
+	max_settlements = 2
+	culture = persian
+	religion = druze
+	b_edereba = tribal

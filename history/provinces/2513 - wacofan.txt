@@ -1,0 +1,5 @@
+	title = c_wacofan
+	max_settlements = 2
+	culture = oriya
+	religion = aztec_reformed
+	b_dezine = tribal

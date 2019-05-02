@@ -1,0 +1,5 @@
+	title = c_taziata
+	max_settlements = 2
+	culture = daju
+	religion = jewish
+	b_ryasili = tribal

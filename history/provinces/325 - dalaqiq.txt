@@ -1,0 +1,5 @@
+	title = c_dalaqiq
+	max_settlements = 2
+	culture = somali
+	religion = interface_skin
+	b_wakir = tribal

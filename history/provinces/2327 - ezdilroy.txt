@@ -1,0 +1,5 @@
+	title = c_ezdilroy
+	max_settlements = 2
+	culture = afghan
+	religion = interface_skin
+	b_tanely = tribal

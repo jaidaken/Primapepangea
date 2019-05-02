@@ -1,0 +1,5 @@
+	title = c_kyet
+	max_settlements = 3
+	culture = zhangzhung
+	religion = lollard
+	b_ejudolt = tribal

@@ -1,0 +1,5 @@
+	title = c_aglusa
+	max_settlements = 2
+	culture = english
+	religion = bon
+	b_keroza = tribal

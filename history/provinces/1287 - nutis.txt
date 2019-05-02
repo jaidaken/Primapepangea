@@ -1,0 +1,5 @@
+	title = c_nutis
+	max_settlements = 2
+	culture = alan
+	religion = catholic
+	b_liedn = tribal

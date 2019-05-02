@@ -1,0 +1,5 @@
+	title = c_tatiulf
+	max_settlements = 2
+	culture = ilmenian
+	religion = taoist
+	b_quinde = tribal

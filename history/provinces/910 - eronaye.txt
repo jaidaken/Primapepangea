@@ -1,0 +1,5 @@
+	title = c_eronaye
+	max_settlements = 2
+	culture = panjabi
+	religion = pagan
+	b_nagosa = tribal

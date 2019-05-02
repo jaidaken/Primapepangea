@@ -1,0 +1,5 @@
+	title = c_razasil
+	max_settlements = 3
+	culture = catalan
+	religion = hurufi
+	b_kapini = tribal

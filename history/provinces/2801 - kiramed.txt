@@ -1,0 +1,5 @@
+	title = c_kiramed
+	max_settlements = 2
+	culture = irish
+	religion = west_african_pagan_reformed
+	b_kaubagpa = tribal

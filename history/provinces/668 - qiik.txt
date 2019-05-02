@@ -1,0 +1,5 @@
+	title = c_qiik
+	max_settlements = 3
+	culture = scottish
+	religion = lollard
+	b_deilukac = tribal

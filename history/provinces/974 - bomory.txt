@@ -1,0 +1,5 @@
+	title = c_bomory
+	max_settlements = 2
+	culture = tamil
+	religion = norse_pagan
+	b_tokine = tribal

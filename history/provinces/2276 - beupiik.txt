@@ -1,0 +1,5 @@
+	title = c_beupiik
+	max_settlements = 3
+	culture = serbian
+	religion = druze
+	b_kudulis = tribal

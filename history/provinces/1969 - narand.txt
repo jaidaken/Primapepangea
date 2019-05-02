@@ -1,0 +1,5 @@
+	title = c_narand
+	max_settlements = 2
+	culture = volhynian
+	religion = jewish
+	b_arinurva = tribal

@@ -1,0 +1,5 @@
+	title = c_riyauq
+	max_settlements = 2
+	culture = zaghawa
+	religion = west_african_pagan_reformed
+	b_edauq = tribal

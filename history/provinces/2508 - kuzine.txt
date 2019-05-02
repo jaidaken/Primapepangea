@@ -1,0 +1,5 @@
+	title = c_kuzine
+	max_settlements = 2
+	culture = tocharian
+	religion = orthodox
+	b_enimiy = tribal

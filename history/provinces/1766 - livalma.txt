@@ -1,0 +1,5 @@
+	title = c_livalma
+	max_settlements = 2
+	culture = assyrian
+	religion = color
+	b_saladu = tribal

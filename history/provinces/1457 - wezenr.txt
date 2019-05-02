@@ -1,0 +1,5 @@
+	title = c_wezenr
+	max_settlements = 2
+	culture = dalmatian
+	religion = miaphysite
+	b_necetu = tribal

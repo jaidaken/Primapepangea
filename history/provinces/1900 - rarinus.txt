@@ -1,0 +1,5 @@
+	title = c_rarinus
+	max_settlements = 2
+	culture = saxon
+	religion = interface_skin
+	b_nisinus = tribal

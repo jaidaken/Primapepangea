@@ -1,0 +1,5 @@
+	title = c_rodha
+	max_settlements = 2
+	culture = nubian
+	religion = interface_skin
+	b_eraymara = tribal

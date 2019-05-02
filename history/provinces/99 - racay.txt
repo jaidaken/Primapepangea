@@ -1,0 +1,5 @@
+	title = c_racay
+	max_settlements = 2
+	culture = occitan
+	religion = finnish_pagan_reformed
+	b_lafiek = tribal

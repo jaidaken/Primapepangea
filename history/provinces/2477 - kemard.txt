@@ -1,0 +1,5 @@
+	title = c_kemard
+	max_settlements = 2
+	culture = lithuanian
+	religion = tengri_pagan
+	b_werako = tribal

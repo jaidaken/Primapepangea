@@ -1,0 +1,5 @@
+	title = c_nugetri
+	max_settlements = 2
+	culture = hungarian
+	religion = messalian
+	b_abugey = tribal

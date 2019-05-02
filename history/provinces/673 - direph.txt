@@ -1,0 +1,5 @@
+	title = c_direph
+	max_settlements = 2
+	culture = turkish
+	religion = miaphysite
+	b_belw = tribal

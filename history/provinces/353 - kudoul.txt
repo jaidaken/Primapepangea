@@ -1,0 +1,5 @@
+	title = c_kudoul
+	max_settlements = 2
+	culture = basque
+	religion = zun_pagan
+	b_ratedek = tribal

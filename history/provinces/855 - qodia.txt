@@ -1,0 +1,5 @@
+	title = c_qodia
+	max_settlements = 2
+	culture = sindhi
+	religion = finnish_pagan_reformed
+	b_lahenia = tribal

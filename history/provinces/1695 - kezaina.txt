@@ -1,0 +1,5 @@
+	title = c_kezaina
+	max_settlements = 2
+	culture = avar
+	religion = interface_skin
+	b_tezukar = tribal

@@ -1,0 +1,5 @@
+	title = c_tisutis
+	max_settlements = 2
+	culture = serbian
+	religion = bon_reformed
+	b_regaja = tribal

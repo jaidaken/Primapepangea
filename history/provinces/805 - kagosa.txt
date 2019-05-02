@@ -1,0 +1,5 @@
+	title = c_kagosa
+	max_settlements = 2
+	culture = finnish
+	religion = slavic_pagan_reformed
+	b_qoranay = tribal

@@ -1,0 +1,5 @@
+	title = c_kineric
+	max_settlements = 2
+	culture = bohemian
+	religion = finnish_pagan
+	b_roraye = tribal

@@ -1,0 +1,5 @@
+	title = c_qarila
+	max_settlements = 2
+	culture = han
+	religion = taoist
+	b_wiibtas = tribal

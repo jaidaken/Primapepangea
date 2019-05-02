@@ -1,0 +1,5 @@
+	title = c_tisurla
+	max_settlements = 4
+	culture = saxon
+	religion = bogomilist
+	b_weteyr = tribal

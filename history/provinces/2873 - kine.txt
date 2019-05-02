@@ -1,0 +1,5 @@
+	title = c_kine
+	max_settlements = 2
+	culture = norman
+	religion = cathar
+	b_rolyen = tribal

@@ -1,0 +1,5 @@
+	title = c_dyayuz
+	max_settlements = 2
+	culture = pecheneg
+	religion = finnish_pagan
+	b_dicuqa = tribal

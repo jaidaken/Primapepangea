@@ -1,0 +1,5 @@
+	title = c_binida
+	max_settlements = 2
+	culture = alan
+	religion = kharijite
+	b_busurah = tribal

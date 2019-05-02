@@ -1,0 +1,5 @@
+	title = c_qapiena
+	max_settlements = 2
+	culture = pommeranian
+	religion = khurmazta
+	b_eqila = tribal

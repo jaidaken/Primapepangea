@@ -1,0 +1,5 @@
+	title = c_nienah
+	max_settlements = 3
+	culture = bodpa
+	religion = kharijite
+	b_renattr = tribal

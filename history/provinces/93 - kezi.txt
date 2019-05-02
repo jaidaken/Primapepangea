@@ -1,0 +1,5 @@
+	title = c_kezi
+	max_settlements = 2
+	culture = hungarian
+	religion = zun_pagan
+	b_liludit = tribal

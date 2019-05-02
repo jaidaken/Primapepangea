@@ -1,0 +1,5 @@
+	title = c_radislav
+	max_settlements = 2
+	culture = welsh
+	religion = khurmazta
+	b_adavya = tribal

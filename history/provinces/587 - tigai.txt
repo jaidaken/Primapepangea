@@ -1,0 +1,5 @@
+	title = c_tigai
+	max_settlements = 2
+	culture = ashkenazi
+	religion = bogomilist
+	b_dilavi = tribal

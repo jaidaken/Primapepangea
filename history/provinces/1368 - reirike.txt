@@ -1,0 +1,5 @@
+	title = c_reirike
+	max_settlements = 3
+	culture = pictish
+	religion = khurmazta
+	b_wyolike = tribal

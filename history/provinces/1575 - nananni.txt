@@ -1,0 +1,5 @@
+	title = c_nananni
+	max_settlements = 2
+	culture = pictish
+	religion = lollard
+	b_ripu = tribal

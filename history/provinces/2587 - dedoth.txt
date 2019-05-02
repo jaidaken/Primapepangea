@@ -1,0 +1,5 @@
+	title = c_dedoth
+	max_settlements = 3
+	culture = portuguese
+	religion = karaite
+	b_apasar = tribal

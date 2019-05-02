@@ -1,0 +1,5 @@
+	title = c_romars
+	max_settlements = 2
+	culture = samoyed
+	religion = catholic
+	b_ehusars = tribal

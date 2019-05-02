@@ -1,0 +1,42 @@
+758.2.1 = {
+	holder = 1003121
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = k_tailte
+}
+
+758.2.3 = {
+	holder = 1004731
+}
+
+792.2.1 = {
+	holder = 1008236
+}
+
+822.2.1 = {
+	holder = 1013825
+}
+
+887.2.1 = {
+	holder = 1015150
+}
+
+898.2.1 = {
+	holder = 1018369
+}
+
+955.2.1 = {
+	holder = 1019187
+}
+
+964.2.1 = {
+	holder = 1021541
+}
+
+1018.2.1 = {
+	holder = 1023706
+}
+

@@ -1,0 +1,5 @@
+	title = c_qelalma
+	max_settlements = 2
+	culture = hindustani
+	religion = messalian
+	b_teupega = tribal

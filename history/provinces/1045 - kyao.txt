@@ -1,0 +1,5 @@
+	title = c_kyao
+	max_settlements = 2
+	culture = suebi
+	religion = paulician
+	b_dyoia = tribal

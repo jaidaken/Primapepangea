@@ -1,0 +1,5 @@
+	title = c_wicevat
+	max_settlements = 2
+	culture = bolghar
+	religion = zikri
+	b_eresh = tribal

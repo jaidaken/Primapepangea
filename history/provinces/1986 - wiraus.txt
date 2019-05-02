@@ -1,0 +1,5 @@
+	title = c_wiraus
+	max_settlements = 2
+	culture = ilmenian
+	religion = monophysite
+	b_lotili = tribal

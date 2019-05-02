@@ -1,0 +1,70 @@
+758.2.1 = {
+	holder = 1000061
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1003190
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_sadallo
+}
+
+758.2.4 = {
+	holder = 1003189
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+760.2.1 = {
+	holder = 1004792
+}
+
+784.2.1 = {
+	holder = 1008246
+}
+
+811.2.1 = {
+	holder = 1011111
+}
+
+813.2.1 = {
+	holder = 1013144
+}
+
+863.2.1 = {
+	holder = 1013745
+}
+
+885.2.1 = {
+	holder = 1016882
+}
+
+920.2.1 = {
+	holder = 1018171
+}
+
+931.2.1 = {
+	holder = 1019840
+}
+
+985.2.1 = {
+	holder = 1020525
+}
+
+990.2.1 = {
+	holder = 1022588
+}
+
+998.2.1 = {
+	holder = 1022894
+}
+
+1059.2.1 = {
+	holder = 1023633
+}
+

@@ -1,0 +1,5 @@
+	title = c_tuqiar
+	max_settlements = 2
+	culture = persian
+	religion = lollard
+	b_dare = tribal

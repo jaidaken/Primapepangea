@@ -1,0 +1,5 @@
+	title = c_kasanu
+	max_settlements = 2
+	culture = pommeranian
+	religion = mazdaki
+	b_lelold = tribal

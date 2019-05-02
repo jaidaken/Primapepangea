@@ -1,0 +1,5 @@
+	title = c_ramelo
+	max_settlements = 2
+	culture = lithuanian
+	religion = interface_skin
+	b_tanone = tribal

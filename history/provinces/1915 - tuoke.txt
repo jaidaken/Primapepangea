@@ -1,0 +1,5 @@
+	title = c_tuoke
+	max_settlements = 2
+	culture = karluk
+	religion = bon_reformed
+	b_dorand = tribal

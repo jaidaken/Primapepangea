@@ -1,0 +1,5 @@
+	title = c_arociga
+	max_settlements = 2
+	culture = outremer
+	religion = samaritan
+	b_wisani = tribal

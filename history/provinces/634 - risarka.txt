@@ -1,0 +1,5 @@
+	title = c_risarka
+	max_settlements = 2
+	culture = jurchen
+	religion = sunni
+	b_ebosarka = tribal

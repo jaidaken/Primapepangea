@@ -1,0 +1,5 @@
+	title = c_raymaj
+	max_settlements = 3
+	culture = tocharian
+	religion = zoroastrian
+	b_rakti = tribal

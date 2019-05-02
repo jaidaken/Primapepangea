@@ -1,0 +1,5 @@
+	title = c_qelarles
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = hindu
+	b_kyuk = tribal

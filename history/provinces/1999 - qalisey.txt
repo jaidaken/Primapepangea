@@ -1,0 +1,5 @@
+	title = c_qalisey
+	max_settlements = 2
+	culture = prussian
+	religion = norse_pagan_reformed
+	b_talie = tribal

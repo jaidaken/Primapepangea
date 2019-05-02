@@ -1,0 +1,5 @@
+	title = c_azacanda
+	max_settlements = 3
+	culture = afghan
+	religion = yazidi
+	b_acotura = tribal

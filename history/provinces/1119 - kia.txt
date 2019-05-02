@@ -1,0 +1,5 @@
+	title = c_kia
+	max_settlements = 4
+	culture = khazar
+	religion = samaritan
+	b_qamai = tribal

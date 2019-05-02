@@ -1,0 +1,5 @@
+	title = c_karaqiq
+	max_settlements = 2
+	culture = ilmenian
+	religion = monothelite
+	b_reland = tribal

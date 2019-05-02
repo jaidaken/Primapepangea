@@ -1,0 +1,5 @@
+	title = c_tomoth
+	max_settlements = 2
+	culture = russian
+	religion = aztec
+	b_tusavi = tribal

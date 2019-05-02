@@ -1,0 +1,5 @@
+	title = c_ririsa
+	max_settlements = 3
+	culture = afghan
+	religion = manichean
+	b_epovya = tribal

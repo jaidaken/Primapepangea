@@ -1,0 +1,5 @@
+	title = c_bida
+	max_settlements = 3
+	culture = kanuri
+	religion = mazdaki
+	b_tustin = tribal

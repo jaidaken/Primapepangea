@@ -1,0 +1,5 @@
+	title = c_qencel
+	max_settlements = 2
+	culture = german
+	religion = baltic_pagan
+	b_qalalia = tribal

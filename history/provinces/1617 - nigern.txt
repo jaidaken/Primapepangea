@@ -1,0 +1,5 @@
+	title = c_nigern
+	max_settlements = 2
+	culture = bengali
+	religion = baltic_pagan
+	b_kidad = tribal

@@ -1,0 +1,5 @@
+	title = c_lasick
+	max_settlements = 2
+	culture = irish
+	religion = norse_pagan_reformed
+	b_nusaut = tribal

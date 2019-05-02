@@ -1,0 +1,5 @@
+	title = c_kyosuela
+	max_settlements = 2
+	culture = irish
+	religion = baltic_pagan
+	b_darisla = tribal

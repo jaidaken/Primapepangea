@@ -1,0 +1,5 @@
+	title = c_rir
+	max_settlements = 2
+	culture = assamese
+	religion = bogomilist
+	b_kalilan = tribal

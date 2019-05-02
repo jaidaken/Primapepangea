@@ -1,0 +1,5 @@
+	title = c_kacoot
+	max_settlements = 2
+	culture = polish
+	religion = finnish_pagan
+	b_qeefa = tribal

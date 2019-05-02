@@ -1,0 +1,5 @@
+	title = c_tagumo
+	max_settlements = 2
+	culture = hindustani
+	religion = tengri_pagan
+	b_ratarka = tribal

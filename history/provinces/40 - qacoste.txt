@@ -1,0 +1,5 @@
+	title = c_qacoste
+	max_settlements = 2
+	culture = rajput
+	religion = west_african_pagan_reformed
+	b_nutine = tribal

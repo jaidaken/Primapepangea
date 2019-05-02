@@ -1,0 +1,5 @@
+	title = c_eseka
+	max_settlements = 2
+	culture = coptic
+	religion = tengri_pagan
+	b_dausalo = tribal

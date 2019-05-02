@@ -1,0 +1,5 @@
+	title = c_luohega
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = aztec_reformed
+	b_wilud = tribal

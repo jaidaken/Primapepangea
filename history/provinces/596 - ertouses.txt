@@ -1,0 +1,5 @@
+	title = c_ertouses
+	max_settlements = 2
+	culture = rajput
+	religion = finnish_pagan
+	b_nutumo = tribal

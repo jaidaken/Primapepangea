@@ -1,0 +1,5 @@
+	title = c_seraoci
+	max_settlements = 2
+	culture = somali
+	religion = khurmazta
+	b_totania = tribal

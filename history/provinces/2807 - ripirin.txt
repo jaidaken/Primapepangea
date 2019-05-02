@@ -1,0 +1,5 @@
+	title = c_ripirin
+	max_settlements = 2
+	culture = visigothic
+	religion = waldensian
+	b_wavili = tribal

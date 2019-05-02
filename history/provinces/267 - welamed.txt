@@ -1,0 +1,5 @@
+	title = c_welamed
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = paulician
+	b_kilienne = tribal

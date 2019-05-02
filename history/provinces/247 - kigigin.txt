@@ -1,0 +1,5 @@
+	title = c_kigigin
+	max_settlements = 2
+	culture = kannada
+	religion = tengri_pagan
+	b_terasar = tribal

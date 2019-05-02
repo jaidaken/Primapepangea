@@ -1,0 +1,5 @@
+	title = c_agunone
+	max_settlements = 3
+	culture = frisian
+	religion = hurufi
+	b_eborana = tribal

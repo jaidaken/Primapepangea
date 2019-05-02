@@ -1,0 +1,5 @@
+	title = c_qila
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = yazidi
+	b_qemir = tribal

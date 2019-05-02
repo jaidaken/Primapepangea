@@ -1,0 +1,5 @@
+	title = c_ladasb
+	max_settlements = 2
+	culture = greek
+	religion = interface_skin
+	b_ragaul = tribal

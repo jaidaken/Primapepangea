@@ -1,0 +1,5 @@
+	title = c_ruhila
+	max_settlements = 3
+	culture = english
+	religion = khurmazta
+	b_tinakr = tribal

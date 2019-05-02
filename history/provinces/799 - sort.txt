@@ -1,0 +1,5 @@
+	title = c_sort
+	max_settlements = 2
+	culture = oriya
+	religion = color
+	b_sigarn = tribal

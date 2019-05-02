@@ -1,0 +1,5 @@
+	title = c_tayumo
+	max_settlements = 2
+	culture = coptic
+	religion = khurmazta
+	b_kakanna = tribal

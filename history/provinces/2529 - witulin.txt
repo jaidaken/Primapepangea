@@ -1,0 +1,5 @@
+	title = c_witulin
+	max_settlements = 3
+	culture = severian
+	religion = hellenic_pagan
+	b_wuiriik = tribal

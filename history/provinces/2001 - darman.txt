@@ -1,0 +1,5 @@
+	title = c_darman
+	max_settlements = 2
+	culture = old_frankish
+	religion = pagan
+	b_ejezaway = tribal

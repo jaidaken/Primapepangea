@@ -1,0 +1,5 @@
+	title = c_wediga
+	max_settlements = 2
+	culture = khanty
+	religion = lollard
+	b_bobihor = tribal

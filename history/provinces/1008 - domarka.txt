@@ -1,0 +1,5 @@
+	title = c_domarka
+	max_settlements = 2
+	culture = bosnian
+	religion = norse_pagan
+	b_wezamga = tribal

@@ -1,0 +1,5 @@
+	title = c_tedanu
+	max_settlements = 2
+	culture = rajput
+	religion = orthodox
+	b_ewibuela = tribal

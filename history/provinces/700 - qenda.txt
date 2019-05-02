@@ -1,0 +1,5 @@
+	title = c_qenda
+	max_settlements = 2
+	culture = han
+	religion = bon
+	b_sobeke = tribal

@@ -1,0 +1,5 @@
+	title = c_ketaddeo
+	max_settlements = 2
+	culture = lappish
+	religion = hurufi
+	b_ryaykid = tribal

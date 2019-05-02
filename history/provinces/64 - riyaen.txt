@@ -1,0 +1,5 @@
+	title = c_riyaen
+	max_settlements = 3
+	culture = han
+	religion = norse_pagan_reformed
+	b_atoumen = tribal

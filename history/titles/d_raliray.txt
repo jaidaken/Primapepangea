@@ -1,0 +1,54 @@
+758.2.1 = {
+	holder = 1001965
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_ebabenzo
+}
+
+774.2.1 = {
+	holder = 1006705
+}
+
+823.2.1 = {
+	holder = 1009700
+}
+
+834.2.1 = {
+	holder = 1014420
+}
+
+855.2.1 = {
+	holder = 1016157
+}
+
+898.2.1 = {
+	holder = 1017327
+}
+
+906.2.1 = {
+	holder = 1018533
+}
+
+934.2.1 = {
+	holder = 1019602
+}
+
+981.2.1 = {
+	holder = 1020779
+}
+
+1007.2.1 = {
+	holder = 1022526
+}
+
+1043.2.1 = {
+	holder = 1023335
+}
+
+1065.2.1 = {
+	holder = 1025452
+}
+

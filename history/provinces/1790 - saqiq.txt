@@ -1,0 +1,5 @@
+	title = c_saqiq
+	max_settlements = 2
+	culture = frankish
+	religion = ibadi
+	b_komasco = tribal

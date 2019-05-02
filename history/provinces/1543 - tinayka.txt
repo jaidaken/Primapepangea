@@ -1,0 +1,5 @@
+	title = c_tinayka
+	max_settlements = 2
+	culture = bengali
+	religion = iconoclast
+	b_bugonse = tribal

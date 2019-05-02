@@ -1,0 +1,5 @@
+	title = c_kanosa
+	max_settlements = 2
+	culture = mordvin
+	religion = pagan
+	b_dyuk = tribal

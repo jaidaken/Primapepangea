@@ -1,0 +1,5 @@
+	title = c_lerum
+	max_settlements = 2
+	culture = lithuanian
+	religion = samaritan
+	b_demard = tribal

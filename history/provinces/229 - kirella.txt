@@ -1,0 +1,5 @@
+	title = c_kirella
+	max_settlements = 3
+	culture = karluk
+	religion = mazdaki
+	b_kanpal = tribal

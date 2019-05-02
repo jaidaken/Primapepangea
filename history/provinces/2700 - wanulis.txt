@@ -1,0 +1,5 @@
+	title = c_wanulis
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = jewish
+	b_sanemir = tribal

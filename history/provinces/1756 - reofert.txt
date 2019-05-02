@@ -1,0 +1,5 @@
+	title = c_reofert
+	max_settlements = 2
+	culture = visigothic
+	religion = druze
+	b_laveyr = tribal

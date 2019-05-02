@@ -1,0 +1,5 @@
+	title = c_danaon
+	max_settlements = 3
+	culture = lettigallish
+	religion = hellenic_pagan
+	b_sudin = tribal

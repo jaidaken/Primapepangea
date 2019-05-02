@@ -1,0 +1,5 @@
+	title = c_toryeju
+	max_settlements = 2
+	culture = occitan
+	religion = zikri
+	b_dakiala = tribal

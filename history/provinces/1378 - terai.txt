@@ -1,0 +1,5 @@
+	title = c_terai
+	max_settlements = 2
+	culture = coptic
+	religion = pagan
+	b_rigin = tribal

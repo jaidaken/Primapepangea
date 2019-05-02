@@ -1,0 +1,5 @@
+	title = c_nevewe
+	max_settlements = 2
+	culture = sogdian
+	religion = cathar
+	b_boot = tribal

@@ -1,0 +1,5 @@
+	title = c_subeph
+	max_settlements = 2
+	culture = pecheneg
+	religion = nestorian
+	b_edhelw = tribal

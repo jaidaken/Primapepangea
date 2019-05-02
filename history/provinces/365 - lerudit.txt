@@ -1,0 +1,5 @@
+	title = c_lerudit
+	max_settlements = 2
+	culture = ilmenian
+	religion = hindu
+	b_nabeyu = tribal

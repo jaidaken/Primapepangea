@@ -1,0 +1,5 @@
+	title = c_biminoi
+	max_settlements = 2
+	culture = manden
+	religion = paulician
+	b_nagiaco = tribal

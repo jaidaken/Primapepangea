@@ -1,0 +1,5 @@
+	title = c_roseseto
+	max_settlements = 2
+	culture = bengali
+	religion = mazdaki
+	b_danaut = tribal

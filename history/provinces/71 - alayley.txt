@@ -1,0 +1,5 @@
+	title = c_alayley
+	max_settlements = 2
+	culture = ilmenian
+	religion = nestorian
+	b_enadedas = tribal

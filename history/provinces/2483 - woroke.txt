@@ -1,0 +1,5 @@
+	title = c_woroke
+	max_settlements = 2
+	culture = tocharian
+	religion = bogomilist
+	b_lanavin = tribal

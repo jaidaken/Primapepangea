@@ -1,0 +1,5 @@
+	title = c_koziek
+	max_settlements = 2
+	culture = assamese
+	religion = norse_pagan
+	b_teseke = tribal

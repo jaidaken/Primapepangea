@@ -1,0 +1,5 @@
+	title = c_dadazan
+	max_settlements = 2
+	culture = frisian
+	religion = west_african_pagan
+	b_naligin = tribal

@@ -1,0 +1,5 @@
+	title = c_keiludra
+	max_settlements = 2
+	culture = hindustani
+	religion = hurufi
+	b_rorukac = tribal

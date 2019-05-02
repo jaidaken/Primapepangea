@@ -1,0 +1,5 @@
+	title = c_wercavai
+	max_settlements = 2
+	culture = breton
+	religion = taoist
+	b_tovinio = tribal

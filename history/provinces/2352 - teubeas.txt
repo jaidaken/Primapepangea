@@ -1,0 +1,5 @@
+	title = c_teubeas
+	max_settlements = 2
+	culture = gujurati
+	religion = monothelite
+	b_qibyne = tribal

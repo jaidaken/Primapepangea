@@ -1,0 +1,5 @@
+	title = c_worars
+	max_settlements = 2
+	culture = assamese
+	religion = aztec_reformed
+	b_esijah = tribal

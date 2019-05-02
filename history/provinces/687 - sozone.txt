@@ -1,0 +1,5 @@
+	title = c_sozone
+	max_settlements = 2
+	culture = prussian
+	religion = kharijite
+	b_wamone = tribal

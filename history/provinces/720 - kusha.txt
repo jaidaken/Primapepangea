@@ -1,0 +1,5 @@
+	title = c_kusha
+	max_settlements = 2
+	culture = nahuatl
+	religion = zikri
+	b_tukesha = tribal

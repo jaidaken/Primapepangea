@@ -1,0 +1,5 @@
+	title = c_qigaman
+	max_settlements = 2
+	culture = mongol
+	religion = interface_skin
+	b_ragetam = tribal

@@ -1,0 +1,5 @@
+	title = c_egunund
+	max_settlements = 2
+	culture = khazar
+	religion = hindu
+	b_wunacob = tribal

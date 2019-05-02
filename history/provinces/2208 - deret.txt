@@ -1,0 +1,5 @@
+	title = c_deret
+	max_settlements = 2
+	culture = marathi
+	religion = monothelite
+	b_resutt = tribal

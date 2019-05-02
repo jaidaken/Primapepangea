@@ -1,0 +1,5 @@
+	title = c_neatura
+	max_settlements = 2
+	culture = meshchera
+	religion = samaritan
+	b_woza = tribal

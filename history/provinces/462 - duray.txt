@@ -1,0 +1,5 @@
+	title = c_duray
+	max_settlements = 2
+	culture = hungarian
+	religion = zoroastrian
+	b_dezeidja = tribal

@@ -1,0 +1,5 @@
+	title = c_waziata
+	max_settlements = 2
+	culture = meshchera
+	religion = west_african_pagan
+	b_bereka = tribal

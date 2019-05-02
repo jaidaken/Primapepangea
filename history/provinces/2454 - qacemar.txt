@@ -1,0 +1,5 @@
+	title = c_qacemar
+	max_settlements = 2
+	culture = german
+	religion = samaritan
+	b_tezimiy = tribal

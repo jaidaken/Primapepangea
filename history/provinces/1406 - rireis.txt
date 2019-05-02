@@ -1,0 +1,5 @@
+	title = c_rireis
+	max_settlements = 3
+	culture = carantanian
+	religion = karaite
+	b_qireis = tribal

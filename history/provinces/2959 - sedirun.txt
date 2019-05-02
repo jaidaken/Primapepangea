@@ -1,0 +1,5 @@
+	title = c_sedirun
+	max_settlements = 2
+	culture = karluk
+	religion = hurufi
+	b_dounry = tribal

@@ -1,0 +1,5 @@
+	title = c_sarugun
+	max_settlements = 2
+	culture = khitan
+	religion = norse_pagan
+	b_tilase = tribal

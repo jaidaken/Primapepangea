@@ -1,0 +1,5 @@
+	title = c_leressa
+	max_settlements = 2
+	culture = soninke
+	religion = waldensian
+	b_enualis = tribal

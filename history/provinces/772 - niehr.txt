@@ -1,0 +1,5 @@
+	title = c_niehr
+	max_settlements = 2
+	culture = avar
+	religion = hellenic_pagan_reformed
+	b_dahoul = tribal

@@ -1,0 +1,5 @@
+	title = c_enripoan
+	max_settlements = 2
+	culture = dutch
+	religion = finnish_pagan
+	b_nyasiaco = tribal

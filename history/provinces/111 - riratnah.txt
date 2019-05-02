@@ -1,0 +1,5 @@
+	title = c_riratnah
+	max_settlements = 3
+	culture = hungarian
+	religion = ibadi
+	b_navamma = tribal

@@ -1,0 +1,5 @@
+	title = c_tenows
+	max_settlements = 2
+	culture = saxon
+	religion = buddhist
+	b_kusunah = tribal

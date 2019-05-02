@@ -1,0 +1,5 @@
+	title = c_tevecla
+	max_settlements = 2
+	culture = bosnian
+	religion = buddhist
+	b_solini = tribal

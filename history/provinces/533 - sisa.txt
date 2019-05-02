@@ -1,0 +1,5 @@
+	title = c_sisa
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = bon_reformed
+	b_wagovya = tribal

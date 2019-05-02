@@ -1,0 +1,5 @@
+	title = c_qagavai
+	max_settlements = 2
+	culture = bosnian
+	religion = bogomilist
+	b_sahom = tribal

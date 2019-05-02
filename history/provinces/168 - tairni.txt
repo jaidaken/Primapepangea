@@ -1,0 +1,5 @@
+	title = c_tairni
+	max_settlements = 2
+	culture = nepali
+	religion = zun_pagan
+	b_ejirofan = tribal

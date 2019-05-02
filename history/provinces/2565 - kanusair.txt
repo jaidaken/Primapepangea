@@ -1,0 +1,5 @@
+	title = c_kanusair
+	max_settlements = 2
+	culture = irish
+	religion = karaite
+	b_lerund = tribal

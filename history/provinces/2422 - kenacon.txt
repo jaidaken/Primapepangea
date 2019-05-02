@@ -1,0 +1,5 @@
+	title = c_kenacon
+	max_settlements = 2
+	culture = hindustani
+	religion = kharijite
+	b_kareorn = tribal

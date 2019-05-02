@@ -1,0 +1,5 @@
+	title = c_enudra
+	max_settlements = 3
+	culture = russian
+	religion = fraticelli
+	b_luzalp = tribal

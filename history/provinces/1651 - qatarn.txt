@@ -1,0 +1,5 @@
+	title = c_qatarn
+	max_settlements = 2
+	culture = catalan
+	religion = cathar
+	b_lularn = tribal

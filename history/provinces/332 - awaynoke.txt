@@ -1,0 +1,5 @@
+	title = c_awaynoke
+	max_settlements = 2
+	culture = italian
+	religion = khurmazta
+	b_tuiam = tribal

@@ -1,0 +1,5 @@
+	title = c_sofeas
+	max_settlements = 2
+	culture = afghan
+	religion = pagan
+	b_dusoete = tribal

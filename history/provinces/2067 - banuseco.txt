@@ -1,0 +1,5 @@
+	title = c_banuseco
+	max_settlements = 2
+	culture = sinhala
+	religion = yazidi
+	b_rareco = tribal

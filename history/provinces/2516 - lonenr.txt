@@ -1,0 +1,5 @@
+	title = c_lonenr
+	max_settlements = 2
+	culture = roman
+	religion = orthodox
+	b_nurabi = tribal

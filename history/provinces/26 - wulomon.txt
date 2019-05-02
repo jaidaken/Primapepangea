@@ -1,0 +1,5 @@
+	title = c_wulomon
+	max_settlements = 2
+	culture = khanty
+	religion = buddhist
+	b_lulesi = tribal

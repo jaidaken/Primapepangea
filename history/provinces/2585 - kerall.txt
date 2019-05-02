@@ -1,0 +1,5 @@
+	title = c_kerall
+	max_settlements = 2
+	culture = komi
+	religion = aztec
+	b_adonenda = tribal

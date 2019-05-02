@@ -1,0 +1,5 @@
+	title = c_dalisse
+	max_settlements = 2
+	culture = bolghar
+	religion = waldensian
+	b_rorakhir = tribal

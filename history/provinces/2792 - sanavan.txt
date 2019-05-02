@@ -1,0 +1,5 @@
+	title = c_sanavan
+	max_settlements = 2
+	culture = serbian
+	religion = west_african_pagan
+	b_disavo = tribal

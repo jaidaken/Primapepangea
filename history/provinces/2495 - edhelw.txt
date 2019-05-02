@@ -1,0 +1,5 @@
+	title = c_edhelw
+	max_settlements = 2
+	culture = norse
+	religion = jain
+	b_rireos = tribal

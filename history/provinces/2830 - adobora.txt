@@ -1,0 +1,5 @@
+	title = c_adobora
+	max_settlements = 2
+	culture = avar
+	religion = bon_reformed
+	b_bageph = tribal

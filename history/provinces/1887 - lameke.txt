@@ -1,0 +1,5 @@
+	title = c_lameke
+	max_settlements = 2
+	culture = bodpa
+	religion = zun_pagan
+	b_tozaruk = tribal

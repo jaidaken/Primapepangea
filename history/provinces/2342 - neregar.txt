@@ -1,0 +1,5 @@
+	title = c_neregar
+	max_settlements = 3
+	culture = polish
+	religion = samaritan
+	b_lagrat = tribal

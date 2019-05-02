@@ -1,0 +1,5 @@
+	title = c_atekagni
+	max_settlements = 2
+	culture = lettigallish
+	religion = west_african_pagan
+	b_bajenna = tribal

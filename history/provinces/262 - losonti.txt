@@ -1,0 +1,5 @@
+	title = c_losonti
+	max_settlements = 2
+	culture = russian
+	religion = miaphysite
+	b_kadasb = tribal

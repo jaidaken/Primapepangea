@@ -1,0 +1,5 @@
+	title = c_tenilda
+	max_settlements = 2
+	culture = hausa
+	religion = bon_reformed
+	b_roreric = tribal

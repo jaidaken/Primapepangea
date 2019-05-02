@@ -1,0 +1,5 @@
+	title = c_kodila
+	max_settlements = 2
+	culture = han
+	religion = aztec_reformed
+	b_lapiena = tribal

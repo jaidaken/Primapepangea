@@ -1,0 +1,5 @@
+	title = c_kerund
+	max_settlements = 3
+	culture = pecheneg
+	religion = baltic_pagan_reformed
+	b_tadelall = tribal

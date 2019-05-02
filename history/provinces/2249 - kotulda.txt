@@ -1,0 +1,5 @@
+	title = c_kotulda
+	max_settlements = 2
+	culture = greek
+	religion = slavic_pagan
+	b_kozavid = tribal

@@ -1,0 +1,5 @@
+	title = c_totenr
+	max_settlements = 2
+	culture = han
+	religion = norse_pagan_reformed
+	b_tanahou = tribal

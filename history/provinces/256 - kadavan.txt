@@ -1,0 +1,5 @@
+	title = c_kadavan
+	max_settlements = 2
+	culture = bengali
+	religion = lollard
+	b_nalyag = tribal

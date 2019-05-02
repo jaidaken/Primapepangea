@@ -1,0 +1,5 @@
+	title = c_bulew
+	max_settlements = 2
+	culture = castillan
+	religion = messalian
+	b_qilila = tribal

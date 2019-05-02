@@ -1,0 +1,5 @@
+	title = c_averair
+	max_settlements = 3
+	culture = pictish
+	religion = zikri
+	b_tapund = tribal

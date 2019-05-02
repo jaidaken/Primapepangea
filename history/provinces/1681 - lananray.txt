@@ -1,0 +1,5 @@
+	title = c_lananray
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = paulician
+	b_kanabha = tribal

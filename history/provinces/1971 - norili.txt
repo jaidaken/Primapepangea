@@ -1,0 +1,5 @@
+	title = c_norili
+	max_settlements = 2
+	culture = bulgarian
+	religion = waldensian
+	b_dareka = tribal

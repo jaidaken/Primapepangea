@@ -1,0 +1,5 @@
+	title = c_kamelo
+	max_settlements = 2
+	culture = english
+	religion = tengri_pagan
+	b_kunona = tribal

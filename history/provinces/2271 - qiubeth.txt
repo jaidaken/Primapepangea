@@ -1,0 +1,5 @@
+	title = c_qiubeth
+	max_settlements = 2
+	culture = visigothic
+	religion = slavic_pagan
+	b_woxund = tribal

@@ -1,0 +1,5 @@
+	title = c_licataw
+	max_settlements = 2
+	culture = sinhala
+	religion = druze
+	b_lahuinu = tribal

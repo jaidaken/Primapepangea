@@ -1,0 +1,5 @@
+	title = c_divaye
+	max_settlements = 2
+	culture = lithuanian
+	religion = bogomilist
+	b_nonane = tribal

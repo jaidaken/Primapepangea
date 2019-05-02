@@ -1,0 +1,5 @@
+	title = c_eferabah
+	max_settlements = 2
+	culture = kannada
+	religion = yazidi
+	b_kabah = tribal

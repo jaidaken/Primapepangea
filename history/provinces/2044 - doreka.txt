@@ -1,0 +1,5 @@
+	title = c_doreka
+	max_settlements = 2
+	culture = han
+	religion = karaite
+	b_koreon = tribal

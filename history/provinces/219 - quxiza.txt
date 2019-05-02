@@ -1,0 +1,5 @@
+	title = c_quxiza
+	max_settlements = 2
+	culture = ilmenian
+	religion = buddhist
+	b_nalinha = tribal

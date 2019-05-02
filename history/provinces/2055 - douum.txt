@@ -1,0 +1,5 @@
+	title = c_douum
+	max_settlements = 2
+	culture = coptic
+	religion = pagan
+	b_loconti = tribal

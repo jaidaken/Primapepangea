@@ -1,0 +1,5 @@
+	title = c_sutanu
+	max_settlements = 2
+	culture = han
+	religion = hurufi
+	b_dicupta = tribal

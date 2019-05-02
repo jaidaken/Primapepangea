@@ -1,0 +1,5 @@
+	title = c_lulard
+	max_settlements = 2
+	culture = scottish
+	religion = baltic_pagan
+	b_konyne = tribal

@@ -1,0 +1,5 @@
+	title = c_rivigin
+	max_settlements = 3
+	culture = bohemian
+	religion = kharijite
+	b_rakife = tribal

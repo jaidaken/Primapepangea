@@ -1,0 +1,5 @@
+	title = c_keefa
+	max_settlements = 2
+	culture = swedish
+	religion = zun_pagan_reformed
+	b_radibai = tribal

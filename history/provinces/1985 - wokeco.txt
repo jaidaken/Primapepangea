@@ -1,0 +1,5 @@
+	title = c_wokeco
+	max_settlements = 2
+	culture = pommeranian
+	religion = bon_reformed
+	b_sanuselm = tribal

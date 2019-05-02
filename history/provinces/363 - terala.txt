@@ -1,0 +1,5 @@
+	title = c_terala
+	max_settlements = 2
+	culture = nahuatl
+	religion = samaritan
+	b_witin = tribal

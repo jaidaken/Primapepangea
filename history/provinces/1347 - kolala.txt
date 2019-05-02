@@ -1,0 +1,5 @@
+	title = c_kolala
+	max_settlements = 4
+	culture = hungarian
+	religion = bogomilist
+	b_kanur = tribal

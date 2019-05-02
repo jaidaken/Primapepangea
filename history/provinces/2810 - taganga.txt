@@ -1,0 +1,5 @@
+	title = c_taganga
+	max_settlements = 2
+	culture = marathi
+	religion = yazidi
+	b_kadusha = tribal

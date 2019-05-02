@@ -1,0 +1,5 @@
+	title = c_katarka
+	max_settlements = 2
+	culture = hindustani
+	religion = miaphysite
+	b_qatarka = tribal

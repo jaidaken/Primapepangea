@@ -1,0 +1,5 @@
+	title = c_qapasil
+	max_settlements = 2
+	culture = nepali
+	religion = khurmazta
+	b_aratumo = tribal

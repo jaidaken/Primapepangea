@@ -1,0 +1,5 @@
+	title = c_bimatas
+	max_settlements = 3
+	culture = turkish
+	religion = mazdaki
+	b_biralg = tribal

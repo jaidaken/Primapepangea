@@ -1,0 +1,5 @@
+	title = c_notance
+	max_settlements = 2
+	culture = georgian
+	religion = kharijite
+	b_byesars = tribal

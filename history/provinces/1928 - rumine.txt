@@ -1,0 +1,5 @@
+	title = c_rumine
+	max_settlements = 2
+	culture = irish
+	religion = druze
+	b_niubara = tribal

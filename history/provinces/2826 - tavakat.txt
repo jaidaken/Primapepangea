@@ -1,0 +1,5 @@
+	title = c_tavakat
+	max_settlements = 2
+	culture = norse
+	religion = yazidi
+	b_kiraltum = tribal

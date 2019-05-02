@@ -1,0 +1,5 @@
+	title = c_emaririn
+	max_settlements = 2
+	culture = coptic
+	religion = buddhist
+	b_alionoru = tribal

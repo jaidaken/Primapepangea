@@ -1,0 +1,5 @@
+	title = c_qikuqa
+	max_settlements = 2
+	culture = frankish
+	religion = kharijite
+	b_rikupta = tribal

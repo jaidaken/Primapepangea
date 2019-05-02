@@ -1,0 +1,5 @@
+	title = c_nimalma
+	max_settlements = 2
+	culture = russian
+	religion = hindu
+	b_kagopolk = tribal

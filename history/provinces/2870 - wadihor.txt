@@ -1,0 +1,5 @@
+	title = c_wadihor
+	max_settlements = 5
+	culture = breton
+	religion = orthodox
+	b_tagihor = tribal

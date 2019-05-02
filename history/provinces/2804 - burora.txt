@@ -1,0 +1,5 @@
+	title = c_burora
+	max_settlements = 2
+	culture = lappish
+	religion = bogomilist
+	b_tako = tribal

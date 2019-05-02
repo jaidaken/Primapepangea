@@ -1,0 +1,5 @@
+	title = c_qiganta
+	max_settlements = 2
+	culture = manden
+	religion = tengri_pagan
+	b_dajala = tribal

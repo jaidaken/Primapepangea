@@ -1,0 +1,5 @@
+	title = c_nige
+	max_settlements = 3
+	culture = sinhala
+	religion = orthodox
+	b_kidhe = tribal

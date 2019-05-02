@@ -1,0 +1,5 @@
+	title = c_daray
+	max_settlements = 3
+	culture = dalmatian
+	religion = nestorian
+	b_rilay = tribal

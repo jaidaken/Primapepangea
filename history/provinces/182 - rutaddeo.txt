@@ -1,0 +1,5 @@
+	title = c_rutaddeo
+	max_settlements = 2
+	culture = samoyed
+	religion = nestorian
+	b_retagjin = tribal

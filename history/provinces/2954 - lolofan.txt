@@ -1,0 +1,5 @@
+	title = c_lolofan
+	max_settlements = 2
+	culture = tocharian
+	religion = bon_reformed
+	b_nurafiy = tribal

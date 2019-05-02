@@ -1,0 +1,5 @@
+	title = c_esomatu
+	max_settlements = 2
+	culture = manden
+	religion = jain
+	b_wolort = tribal

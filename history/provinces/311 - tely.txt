@@ -1,0 +1,5 @@
+	title = c_tely
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = color
+	b_nanaca = tribal

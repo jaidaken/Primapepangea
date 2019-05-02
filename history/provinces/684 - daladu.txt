@@ -1,0 +1,5 @@
+	title = c_daladu
+	max_settlements = 2
+	culture = polish
+	religion = messalian
+	b_bili = tribal

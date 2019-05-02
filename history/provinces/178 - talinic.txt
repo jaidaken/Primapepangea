@@ -1,0 +1,5 @@
+	title = c_talinic
+	max_settlements = 2
+	culture = telugu
+	religion = ibadi
+	b_kulasa = tribal

@@ -1,0 +1,5 @@
+	title = c_evetigin
+	max_settlements = 2
+	culture = georgian
+	religion = druze
+	b_nacoth = tribal

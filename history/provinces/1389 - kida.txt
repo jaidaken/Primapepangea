@@ -1,0 +1,5 @@
+	title = c_kida
+	max_settlements = 2
+	culture = komi
+	religion = norse_pagan
+	b_rael = tribal

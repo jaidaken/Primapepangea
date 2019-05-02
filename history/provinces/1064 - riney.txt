@@ -1,0 +1,5 @@
+	title = c_riney
+	max_settlements = 2
+	culture = castillan
+	religion = sunni
+	b_dinust = tribal

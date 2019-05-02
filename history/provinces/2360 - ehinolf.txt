@@ -1,0 +1,5 @@
+	title = c_ehinolf
+	max_settlements = 2
+	culture = danish
+	religion = kharijite
+	b_lanauy = tribal

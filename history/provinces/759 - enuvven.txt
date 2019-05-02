@@ -1,0 +1,5 @@
+	title = c_enuvven
+	max_settlements = 2
+	culture = ilmenian
+	religion = manichean
+	b_tiibka = tribal

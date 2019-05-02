@@ -1,0 +1,5 @@
+	title = c_rinili
+	max_settlements = 2
+	culture = old_frankish
+	religion = druze
+	b_qazili = tribal

@@ -1,0 +1,5 @@
+	title = c_ravili
+	max_settlements = 2
+	culture = outremer
+	religion = aztec
+	b_sirili = tribal

@@ -1,0 +1,5 @@
+	title = c_nodalat
+	max_settlements = 2
+	culture = scottish
+	religion = kharijite
+	b_kayalun = tribal

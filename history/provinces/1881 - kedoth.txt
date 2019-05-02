@@ -1,0 +1,5 @@
+	title = c_kedoth
+	max_settlements = 2
+	culture = norman
+	religion = tengri_pagan
+	b_beupabah = tribal

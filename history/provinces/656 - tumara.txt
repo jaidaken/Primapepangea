@@ -1,0 +1,5 @@
+	title = c_tumara
+	max_settlements = 2
+	culture = saka
+	religion = interface_skin
+	b_tisa = tribal

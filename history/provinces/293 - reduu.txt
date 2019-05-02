@@ -1,0 +1,5 @@
+	title = c_reduu
+	max_settlements = 2
+	culture = uyghur
+	religion = hellenic_pagan
+	b_levigun = tribal

@@ -1,0 +1,5 @@
+	title = c_tefeph
+	max_settlements = 2
+	culture = oriya
+	religion = catholic
+	b_tekeyr = tribal

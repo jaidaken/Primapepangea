@@ -1,0 +1,5 @@
+	title = c_nalray
+	max_settlements = 2
+	culture = italian
+	religion = monothelite
+	b_kavevi = tribal

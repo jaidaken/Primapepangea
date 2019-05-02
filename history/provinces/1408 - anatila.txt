@@ -1,0 +1,5 @@
+	title = c_anatila
+	max_settlements = 2
+	culture = severian
+	religion = hindu
+	b_azlael = tribal

@@ -1,0 +1,5 @@
+	title = c_boleph
+	max_settlements = 2
+	culture = samoyed
+	religion = lollard
+	b_datora = tribal

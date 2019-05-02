@@ -1,0 +1,5 @@
+	title = c_relimiy
+	max_settlements = 3
+	culture = romanian
+	religion = zikri
+	b_deseng = tribal

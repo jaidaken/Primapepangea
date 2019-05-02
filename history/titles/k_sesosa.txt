@@ -1,0 +1,74 @@
+758.2.1 = {
+	holder = 1004761
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_egesaj
+}
+
+758.2.3 = {
+	liege = e_kuunau
+}
+
+758.2.4 = {
+	liege = e_qeric
+}
+
+758.2.5 = {
+	liege = e_ratt
+}
+
+758.2.6 = {
+	liege = e_nyosatt
+}
+
+758.2.7 = {
+	liege = e_wana
+}
+
+758.2.8 = {
+	liege = e_totania
+}
+
+780.2.1 = {
+	holder = 1008244
+}
+
+825.2.1 = {
+	holder = 1012216
+}
+
+849.2.1 = {
+	holder = 1014331
+}
+
+893.2.1 = {
+	holder = 1018217
+}
+
+896.2.1 = {
+	holder = 1018653
+}
+
+943.2.1 = {
+	holder = 1018758
+}
+
+945.2.1 = {
+	holder = 1020754
+}
+
+950.2.1 = {
+	holder = 1020991
+}
+
+1001.2.1 = {
+	holder = 1021245
+}
+
+1010.2.1 = {
+	holder = 1023114
+}
+

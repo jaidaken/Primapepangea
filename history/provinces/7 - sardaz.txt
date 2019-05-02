@@ -1,0 +1,5 @@
+	title = c_sardaz
+	max_settlements = 2
+	culture = panjabi
+	religion = bon
+	b_talonse = tribal

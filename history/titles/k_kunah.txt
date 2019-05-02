@@ -1,0 +1,66 @@
+758.2.1 = {
+	holder = 1004662
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_basa
+}
+
+758.2.3 = {
+	liege = e_ralli
+}
+
+758.2.4 = {
+	liege = e_kirma
+}
+
+758.2.5 = {
+	liege = e_akafike
+}
+
+758.2.6 = {
+	liege = e_abulala
+}
+
+758.2.7 = {
+	liege = e_silusa
+}
+
+770.2.1 = {
+	holder = 1006581
+}
+
+812.2.1 = {
+	holder = 1009638
+}
+
+843.2.1 = {
+	holder = 1013558
+}
+
+881.2.1 = {
+	holder = 1015872
+}
+
+914.2.1 = {
+	holder = 1018630
+}
+
+962.2.1 = {
+	holder = 1019599
+}
+
+982.2.1 = {
+	holder = 1022260
+}
+
+992.2.1 = {
+	holder = 1022424
+}
+
+1044.2.1 = {
+	holder = 1024683
+}
+

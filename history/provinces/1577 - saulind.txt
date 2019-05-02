@@ -1,0 +1,5 @@
+	title = c_saulind
+	max_settlements = 4
+	culture = nubian
+	religion = zun_pagan
+	b_dueca = tribal

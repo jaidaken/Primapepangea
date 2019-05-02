@@ -1,0 +1,5 @@
+	title = c_aharen
+	max_settlements = 2
+	culture = arberian
+	religion = aztec_reformed
+	b_norijah = tribal

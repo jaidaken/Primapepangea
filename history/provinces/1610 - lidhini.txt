@@ -1,0 +1,5 @@
+	title = c_lidhini
+	max_settlements = 3
+	culture = khitan
+	religion = zun_pagan
+	b_darry = tribal

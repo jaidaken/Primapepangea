@@ -1,0 +1,5 @@
+	title = c_todavai
+	max_settlements = 4
+	culture = daju
+	religion = bon
+	b_nyan = tribal

@@ -1,0 +1,5 @@
+	title = c_wirathim
+	max_settlements = 2
+	culture = avar
+	religion = cathar
+	b_qemows = tribal

@@ -1,0 +1,5 @@
+	title = c_reefa
+	max_settlements = 2
+	culture = saka
+	religion = hurufi
+	b_beubesh = tribal

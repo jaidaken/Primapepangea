@@ -1,0 +1,5 @@
+	title = c_qudopir
+	max_settlements = 2
+	culture = old_saxon
+	religion = slavic_pagan
+	b_wogacob = tribal

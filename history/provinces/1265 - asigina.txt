@@ -1,0 +1,5 @@
+	title = c_asigina
+	max_settlements = 2
+	culture = telugu
+	religion = waldensian
+	b_lilide = tribal

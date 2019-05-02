@@ -1,0 +1,5 @@
+	title = c_tanavin
+	max_settlements = 2
+	culture = samoyed
+	religion = messalian
+	b_baroke = tribal

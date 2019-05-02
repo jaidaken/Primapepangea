@@ -1,0 +1,5 @@
+	title = c_nacacob
+	max_settlements = 2
+	culture = samoyed
+	religion = finnish_pagan
+	b_etaponti = tribal

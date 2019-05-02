@@ -1,0 +1,5 @@
+	title = c_deroth
+	max_settlements = 2
+	culture = hungarian
+	religion = color
+	b_aicasar = tribal

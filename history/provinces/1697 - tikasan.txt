@@ -1,0 +1,5 @@
+	title = c_tikasan
+	max_settlements = 5
+	culture = ilmenian
+	religion = druze
+	b_donevi = tribal

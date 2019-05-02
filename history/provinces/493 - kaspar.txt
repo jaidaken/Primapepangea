@@ -1,0 +1,5 @@
+	title = c_kaspar
+	max_settlements = 2
+	culture = lombard
+	religion = messalian
+	b_ragoul = tribal

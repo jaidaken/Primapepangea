@@ -1,0 +1,5 @@
+	title = c_emaraly
+	max_settlements = 2
+	culture = visigothic
+	religion = aztec
+	b_dammad = tribal

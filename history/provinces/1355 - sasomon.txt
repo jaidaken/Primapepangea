@@ -1,0 +1,5 @@
+	title = c_sasomon
+	max_settlements = 2
+	culture = bodpa
+	religion = aztec_reformed
+	b_ranotte = tribal

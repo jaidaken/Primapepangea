@@ -1,0 +1,5 @@
+	title = c_ranusall
+	max_settlements = 3
+	culture = assyrian
+	religion = finnish_pagan
+	b_lagall = tribal

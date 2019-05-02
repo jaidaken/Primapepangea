@@ -1,0 +1,5 @@
+	title = c_ecalena
+	max_settlements = 2
+	culture = marathi
+	religion = color
+	b_kapena = tribal

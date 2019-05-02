@@ -1,0 +1,5 @@
+	title = c_eglumo
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = iconoclast
+	b_nena = tribal

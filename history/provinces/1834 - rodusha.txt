@@ -1,0 +1,5 @@
+	title = c_rodusha
+	max_settlements = 2
+	culture = ashkenazi
+	religion = zun_pagan
+	b_daiman = tribal

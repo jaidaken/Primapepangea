@@ -1,0 +1,5 @@
+	title = c_eshida
+	max_settlements = 2
+	culture = han
+	religion = bogomilist
+	b_wuohilo = tribal

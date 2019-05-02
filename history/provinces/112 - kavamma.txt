@@ -1,0 +1,5 @@
+	title = c_kavamma
+	max_settlements = 2
+	culture = nepali
+	religion = baltic_pagan
+	b_wecunah = tribal

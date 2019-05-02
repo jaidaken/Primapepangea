@@ -1,0 +1,5 @@
+	title = c_tudamur
+	max_settlements = 2
+	culture = kurdish
+	religion = jain
+	b_eratarte = tribal

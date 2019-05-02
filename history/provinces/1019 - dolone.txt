@@ -1,0 +1,5 @@
+	title = c_dolone
+	max_settlements = 2
+	culture = marathi
+	religion = finnish_pagan
+	b_edanela = tribal

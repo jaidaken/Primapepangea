@@ -1,0 +1,5 @@
+	title = c_lofeas
+	max_settlements = 2
+	culture = samoyed
+	religion = interface_skin
+	b_kyosoete = tribal

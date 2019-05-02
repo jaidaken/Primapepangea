@@ -1,0 +1,5 @@
+	title = c_azilroy
+	max_settlements = 2
+	culture = irish
+	religion = mazdaki
+	b_ezudwal = tribal

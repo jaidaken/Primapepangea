@@ -1,0 +1,5 @@
+	title = c_avakeka
+	max_settlements = 2
+	culture = nubian
+	religion = paulician
+	b_evallelw = tribal

@@ -1,0 +1,5 @@
+	title = c_agivvas
+	max_settlements = 2
+	culture = serbian
+	religion = nestorian
+	b_telemar = tribal

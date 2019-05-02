@@ -1,0 +1,5 @@
+	title = c_wotania
+	max_settlements = 2
+	culture = uyghur
+	religion = iconoclast
+	b_tarau = tribal

@@ -1,0 +1,5 @@
+	title = c_wipesa
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = hindu
+	b_silajko = tribal

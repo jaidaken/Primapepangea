@@ -1,0 +1,5 @@
+	title = c_wiulf
+	max_settlements = 2
+	culture = avar
+	religion = druze
+	b_noriulf = tribal

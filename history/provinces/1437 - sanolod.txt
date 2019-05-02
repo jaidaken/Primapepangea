@@ -1,0 +1,5 @@
+	title = c_sanolod
+	max_settlements = 2
+	culture = sinhala
+	religion = manichean
+	b_kezine = tribal

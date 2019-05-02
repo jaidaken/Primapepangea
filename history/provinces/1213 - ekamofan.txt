@@ -1,0 +1,5 @@
+	title = c_ekamofan
+	max_settlements = 2
+	culture = zaghawa
+	religion = taoist
+	b_kaline = tribal

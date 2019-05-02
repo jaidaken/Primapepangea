@@ -1,0 +1,5 @@
+	title = c_kadeth
+	max_settlements = 5
+	culture = arberian
+	religion = tengri_pagan
+	b_laganga = tribal

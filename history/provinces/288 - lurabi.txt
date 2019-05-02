@@ -1,0 +1,5 @@
+	title = c_lurabi
+	max_settlements = 2
+	culture = lettigallish
+	religion = bon
+	b_lecusha = tribal

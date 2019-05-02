@@ -1,0 +1,5 @@
+	title = c_dipullah
+	max_settlements = 2
+	culture = avar
+	religion = paulician
+	b_qucienne = tribal

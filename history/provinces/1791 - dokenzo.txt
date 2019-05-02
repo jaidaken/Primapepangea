@@ -1,0 +1,5 @@
+	title = c_dokenzo
+	max_settlements = 3
+	culture = pommeranian
+	religion = manichean
+	b_dariam = tribal

@@ -1,0 +1,5 @@
+	title = c_waurund
+	max_settlements = 2
+	culture = georgian
+	religion = catholic
+	b_bererna = tribal

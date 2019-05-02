@@ -1,0 +1,5 @@
+	title = c_riyahu
+	max_settlements = 3
+	culture = sumpa
+	religion = tengri_pagan_reformed
+	b_kanela = tribal

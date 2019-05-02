@@ -1,0 +1,5 @@
+	title = c_dedonda
+	max_settlements = 2
+	culture = ilmenian
+	religion = slavic_pagan
+	b_qacihor = tribal

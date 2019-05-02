@@ -1,0 +1,5 @@
+	title = c_lekora
+	max_settlements = 2
+	culture = telugu
+	religion = slavic_pagan
+	b_ticora = tribal

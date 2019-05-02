@@ -1,0 +1,5 @@
+	title = c_kimo
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = kharijite
+	b_akalevat = tribal

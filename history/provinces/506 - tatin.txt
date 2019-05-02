@@ -1,0 +1,5 @@
+	title = c_tatin
+	max_settlements = 2
+	culture = ilmenian
+	religion = khurmazta
+	b_wanta = tribal

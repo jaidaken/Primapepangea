@@ -1,0 +1,5 @@
+	title = c_kadu
+	max_settlements = 2
+	culture = pommeranian
+	religion = fraticelli
+	b_egeorife = tribal

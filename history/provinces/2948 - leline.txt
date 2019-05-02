@@ -1,0 +1,5 @@
+	title = c_leline
+	max_settlements = 2
+	culture = daju
+	religion = monophysite
+	b_beng = tribal

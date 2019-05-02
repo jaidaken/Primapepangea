@@ -1,0 +1,5 @@
+	title = c_kalind
+	max_settlements = 2
+	culture = songhay
+	religion = miaphysite
+	b_dimajan = tribal

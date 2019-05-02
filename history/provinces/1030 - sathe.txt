@@ -1,0 +1,5 @@
+	title = c_sathe
+	max_settlements = 2
+	culture = sinhala
+	religion = waldensian
+	b_bagiata = tribal

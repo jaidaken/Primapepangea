@@ -1,0 +1,42 @@
+758.2.1 = {
+	holder = 1001488
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_nivigin
+}
+
+796.2.1 = {
+	holder = 1008670
+}
+
+839.2.1 = {
+	holder = 1013082
+}
+
+877.2.1 = {
+	holder = 1017037
+}
+
+929.2.1 = {
+	holder = 1018301
+}
+
+962.2.1 = {
+	holder = 1020413
+}
+
+988.2.1 = {
+	holder = 1022482
+}
+
+1005.2.1 = {
+	holder = 1022604
+}
+
+1010.2.1 = {
+	holder = 1023293
+}
+

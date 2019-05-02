@@ -1,0 +1,5 @@
+	title = c_bademar
+	max_settlements = 2
+	culture = breton
+	religion = hurufi
+	b_tudain = tribal

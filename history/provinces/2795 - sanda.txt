@@ -1,0 +1,5 @@
+	title = c_sanda
+	max_settlements = 2
+	culture = alan
+	religion = monophysite
+	b_asadodar = tribal

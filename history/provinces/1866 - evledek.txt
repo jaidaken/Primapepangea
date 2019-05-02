@@ -1,0 +1,5 @@
+	title = c_evledek
+	max_settlements = 2
+	culture = irish
+	religion = bogomilist
+	b_datuida = tribal

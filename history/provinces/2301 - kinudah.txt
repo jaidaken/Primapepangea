@@ -1,0 +1,5 @@
+	title = c_kinudah
+	max_settlements = 3
+	culture = avar
+	religion = west_african_pagan
+	b_dasabah = tribal

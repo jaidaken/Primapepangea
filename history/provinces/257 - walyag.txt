@@ -1,0 +1,5 @@
+	title = c_walyag
+	max_settlements = 2
+	culture = samoyed
+	religion = finnish_pagan_reformed
+	b_nagarka = tribal

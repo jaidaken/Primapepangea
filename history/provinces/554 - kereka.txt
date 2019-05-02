@@ -1,0 +1,5 @@
+	title = c_kereka
+	max_settlements = 4
+	culture = dutch
+	religion = interface_skin
+	b_rantiar = tribal

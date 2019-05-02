@@ -1,0 +1,5 @@
+	title = c_kanini
+	max_settlements = 2
+	culture = soninke
+	religion = waldensian
+	b_dolako = tribal

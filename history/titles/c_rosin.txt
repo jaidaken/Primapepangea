@@ -1,0 +1,130 @@
+758.2.1 = {
+	holder = 1000032
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001938
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_deszek
+}
+
+758.2.4 = {
+	holder = 1001937
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+787.2.1 = {
+	holder = 1007414
+}
+
+840.2.1 = {
+	holder = 1010652
+}
+
+862.2.1 = {
+	liege = d_sigin
+}
+
+862.2.2 = {
+	liege = d_tezi
+}
+
+862.2.3 = {
+	liege = d_qudit
+}
+
+862.2.4 = {
+	liege = d_wecaud
+}
+
+862.2.5 = {
+	holder = 1015343
+}
+
+863.2.1 = {
+	holder = 1016790
+}
+
+872.2.1 = {
+	holder = 1017351
+}
+
+912.2.1 = {
+	holder = 1017479
+}
+
+927.2.1 = {
+	liege = d_qudit
+}
+
+927.2.2 = {
+	liege = d_tezi
+}
+
+927.2.3 = {
+	liege = d_sigin
+}
+
+927.2.4 = {
+	liege = d_deszek
+}
+
+927.2.5 = {
+	holder = 1019601
+}
+
+980.2.1 = {
+	liege = d_sigin
+}
+
+980.2.2 = {
+	liege = d_tezi
+}
+
+980.2.3 = {
+	liege = d_qudit
+}
+
+980.2.4 = {
+	liege = d_wecaud
+}
+
+980.2.5 = {
+	holder = 1020507
+}
+
+991.2.1 = {
+	holder = 1022265
+}
+
+1035.2.1 = {
+	holder = 1023143
+}
+
+1042.2.1 = {
+	liege = d_qudit
+}
+
+1042.2.2 = {
+	liege = d_tezi
+}
+
+1042.2.3 = {
+	liege = d_sigin
+}
+
+1042.2.4 = {
+	liege = d_deszek
+}
+
+1042.2.5 = {
+	holder = 1024377
+}
+

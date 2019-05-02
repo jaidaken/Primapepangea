@@ -1,0 +1,5 @@
+	title = c_arektev
+	max_settlements = 2
+	culture = russian
+	religion = lollard
+	b_aljeslav = tribal

@@ -1,0 +1,5 @@
+	title = c_qaisayra
+	max_settlements = 3
+	culture = old_frankish
+	religion = pagan
+	b_aligarwa = tribal

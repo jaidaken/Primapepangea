@@ -1,0 +1,146 @@
+758.2.1 = {
+	holder = 1000016
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000982
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kucili
+}
+
+758.2.4 = {
+	holder = 1000980
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+760.2.1 = {
+	holder = 1001024
+}
+
+794.2.1 = {
+	liege = d_kocesh
+}
+
+794.2.2 = {
+	liege = d_lenili
+}
+
+794.2.3 = {
+	liege = d_ripirin
+}
+
+794.2.4 = {
+	liege = d_kereer
+}
+
+794.2.5 = {
+	holder = 1010639
+}
+
+804.2.1 = {
+	holder = 1006832
+}
+
+821.2.1 = {
+	liege = d_ripirin
+}
+
+821.2.2 = {
+	liege = d_biroun
+}
+
+821.2.3 = {
+	holder = 1010405
+}
+
+840.2.1 = {
+	liege = d_ripirin
+}
+
+840.2.2 = {
+	liege = d_kereer
+}
+
+840.2.3 = {
+	holder = 1014234
+}
+
+873.2.1 = {
+	liege = d_ripirin
+}
+
+873.2.2 = {
+	liege = d_biroun
+}
+
+873.2.3 = {
+	holder = 1014952
+}
+
+899.2.1 = {
+	liege = d_ripirin
+}
+
+899.2.2 = {
+	liege = d_kereer
+}
+
+899.2.3 = {
+	holder = 1017256
+}
+
+912.2.1 = {
+	liege = d_ripirin
+}
+
+912.2.2 = {
+	liege = d_biroun
+}
+
+912.2.3 = {
+	holder = 1018827
+}
+
+967.2.1 = {
+	liege = d_ripirin
+}
+
+967.2.2 = {
+	liege = d_kereer
+}
+
+967.2.3 = {
+	holder = 1019798
+}
+
+979.2.1 = {
+	holder = 1021803
+}
+
+993.2.1 = {
+	liege = d_ripirin
+}
+
+993.2.2 = {
+	liege = d_biroun
+}
+
+993.2.3 = {
+	holder = 1022447
+}
+
+997.2.1 = {
+	holder = 1022861
+}
+
+1035.2.1 = {
+	holder = 1024262
+}
+

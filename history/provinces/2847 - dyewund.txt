@@ -1,0 +1,5 @@
+	title = c_dyewund
+	max_settlements = 2
+	culture = hausa
+	religion = shiite
+	b_rakanda = tribal

@@ -1,0 +1,5 @@
+	title = c_qaona
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = taoist
+	b_ratt = tribal

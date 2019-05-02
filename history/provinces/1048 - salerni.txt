@@ -1,0 +1,5 @@
+	title = c_salerni
+	max_settlements = 2
+	culture = saxon
+	religion = color
+	b_eleslav = tribal

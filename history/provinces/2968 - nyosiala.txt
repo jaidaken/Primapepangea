@@ -1,0 +1,5 @@
+	title = c_nyosiala
+	max_settlements = 2
+	culture = finnish
+	religion = druze
+	b_etariala = tribal

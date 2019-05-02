@@ -1,0 +1,5 @@
+	title = c_larela
+	max_settlements = 3
+	culture = alan
+	religion = tengri_pagan
+	b_qabayah = tribal

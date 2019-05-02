@@ -1,0 +1,78 @@
+758.2.1 = {
+	holder = 1004792
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_seuble
+}
+
+758.2.3 = {
+	liege = e_avasad
+}
+
+758.2.4 = {
+	liege = e_qanavi
+}
+
+758.2.5 = {
+	liege = e_wosavya
+}
+
+758.2.6 = {
+	liege = e_ranukac
+}
+
+758.2.7 = {
+	liege = e_qanulis
+}
+
+758.2.8 = {
+	liege = e_aranavi
+}
+
+784.2.1 = {
+	holder = 1008246
+}
+
+811.2.1 = {
+	holder = 1011111
+}
+
+813.2.1 = {
+	holder = 1013144
+}
+
+863.2.1 = {
+	holder = 1013745
+}
+
+885.2.1 = {
+	holder = 1016882
+}
+
+920.2.1 = {
+	holder = 1018171
+}
+
+931.2.1 = {
+	holder = 1019840
+}
+
+985.2.1 = {
+	holder = 1020525
+}
+
+990.2.1 = {
+	holder = 1022588
+}
+
+998.2.1 = {
+	holder = 1022894
+}
+
+1059.2.1 = {
+	holder = 1023633
+}
+

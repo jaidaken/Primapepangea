@@ -1,0 +1,5 @@
+	title = c_ravaise
+	max_settlements = 2
+	culture = suebi
+	religion = karaite
+	b_eludold = tribal

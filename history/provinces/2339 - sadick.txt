@@ -1,0 +1,5 @@
+	title = c_sadick
+	max_settlements = 2
+	culture = serbian
+	religion = baltic_pagan_reformed
+	b_kinola = tribal

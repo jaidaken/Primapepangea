@@ -1,0 +1,5 @@
+	title = c_ajirasil
+	max_settlements = 2
+	culture = komi
+	religion = bon
+	b_resil = tribal

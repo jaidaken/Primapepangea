@@ -1,0 +1,152 @@
+758.2.1 = {
+	holder = 1000006
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = d_toaneka
+}
+
+758.2.3 = {
+	liege = d_toaneka
+}
+
+758.2.4 = {
+	holder = 1000529
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1004620
+}
+
+775.2.1 = {
+	liege = k_ridhick
+}
+
+775.2.2 = {
+	holder = 1008733
+}
+
+810.2.1 = {
+	holder = 1012855
+}
+
+849.2.1 = {
+	holder = 1013639
+}
+
+859.2.1 = {
+	holder = 1012265
+}
+
+864.2.1 = {
+	liege = d_kadelug
+}
+
+864.2.2 = {
+	liege = d_toaneka
+}
+
+864.2.3 = {
+	holder = 1014643
+}
+
+875.2.1 = {
+	holder = 1017092
+}
+
+894.2.1 = {
+	liege = d_kadelug
+}
+
+894.2.2 = {
+	liege = d_teseka
+}
+
+894.2.3 = {
+	holder = 1018249
+}
+
+948.2.1 = {
+	liege = d_kadelug
+}
+
+948.2.2 = {
+	liege = d_toaneka
+}
+
+948.2.3 = {
+	holder = 1019170
+}
+
+961.2.1 = {
+	liege = d_kadelug
+}
+
+961.2.2 = {
+	liege = d_teseka
+}
+
+961.2.3 = {
+	holder = 1021390
+}
+
+970.2.1 = {
+	holder = 1019505
+}
+
+971.2.1 = {
+	holder = 1021806
+}
+
+991.2.1 = {
+	liege = d_kadelug
+}
+
+991.2.2 = {
+	liege = d_toaneka
+}
+
+991.2.3 = {
+	holder = 1022003
+}
+
+992.2.1 = {
+	holder = 1022639
+}
+
+1000.2.1 = {
+	liege = d_kadelug
+}
+
+1000.2.2 = {
+	liege = d_teseka
+}
+
+1000.2.3 = {
+	holder = 1022976
+}
+
+1001.2.1 = {
+	holder = 1023021
+}
+
+1014.2.1 = {
+	holder = 1023528
+}
+
+1024.2.1 = {
+	liege = d_kadelug
+}
+
+1024.2.2 = {
+	liege = d_toaneka
+}
+
+1024.2.3 = {
+	holder = 1023747
+}
+

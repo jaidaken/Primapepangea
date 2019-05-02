@@ -1,0 +1,5 @@
+	title = c_butaddeo
+	max_settlements = 3
+	culture = lappish
+	religion = interface_skin
+	b_sarid = tribal

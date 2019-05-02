@@ -1,0 +1,5 @@
+	title = c_kobarna
+	max_settlements = 2
+	culture = castillan
+	religion = lollard
+	b_lonulev = tribal

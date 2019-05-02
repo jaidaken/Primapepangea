@@ -1,0 +1,5 @@
+	title = c_karows
+	max_settlements = 2
+	culture = ilmenian
+	religion = monothelite
+	b_kenarria = tribal

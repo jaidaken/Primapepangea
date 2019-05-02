@@ -1,0 +1,130 @@
+758.2.1 = {
+	holder = 1000008
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000584
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_weupacob
+}
+
+758.2.4 = {
+	holder = 1000582
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+775.2.1 = {
+	holder = 1008259
+}
+
+801.2.1 = {
+	holder = 1010633
+}
+
+818.2.1 = {
+	holder = 1012580
+}
+
+872.2.1 = {
+	holder = 1014009
+}
+
+876.2.1 = {
+	holder = 1016311
+}
+
+876.2.2 = {
+	holder = 1016444
+}
+
+877.2.1 = {
+	holder = 1014303
+}
+
+888.2.1 = {
+	liege = d_robanga
+}
+
+888.2.2 = {
+	liege = d_boniar
+}
+
+888.2.3 = {
+	liege = d_wiaina
+}
+
+888.2.4 = {
+	liege = d_somaina
+}
+
+888.2.5 = {
+	liege = d_natexis
+}
+
+888.2.6 = {
+	liege = d_rapau
+}
+
+888.2.7 = {
+	liege = d_barall
+}
+
+888.2.8 = {
+	liege = d_kedall
+}
+
+888.2.9 = {
+	liege = d_wagiga
+}
+
+888.2.10 = {
+	liege = d_ragiga
+}
+
+888.2.11 = {
+	holder = 1017718
+}
+
+923.2.1 = {
+	holder = 1018924
+}
+
+931.2.1 = {
+	holder = 1020036
+}
+
+967.2.1 = {
+	holder = 1020810
+}
+
+969.2.1 = {
+	holder = 1021733
+}
+
+997.2.1 = {
+	liege = d_wagiga
+}
+
+997.2.2 = {
+	holder = 1022127
+}
+
+1045.2.1 = {
+	liege = d_ragiga
+}
+
+1045.2.2 = {
+	holder = 1024712
+}
+
+1050.2.1 = {
+	holder = 1024918
+}
+

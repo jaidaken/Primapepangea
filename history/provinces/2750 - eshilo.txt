@@ -1,0 +1,5 @@
+	title = c_eshilo
+	max_settlements = 2
+	culture = pictish
+	religion = hindu
+	b_rilo = tribal

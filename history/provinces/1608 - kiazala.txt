@@ -1,0 +1,5 @@
+	title = c_kiazala
+	max_settlements = 2
+	culture = carantanian
+	religion = manichean
+	b_tyasarka = tribal

@@ -1,0 +1,5 @@
+	title = c_kefurd
+	max_settlements = 2
+	culture = greek
+	religion = zun_pagan
+	b_atheonna = tribal

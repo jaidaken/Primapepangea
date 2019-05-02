@@ -1,0 +1,5 @@
+	title = c_rigin
+	max_settlements = 2
+	culture = gujurati
+	religion = baltic_pagan
+	b_qaharya = tribal

@@ -1,0 +1,5 @@
+	title = c_qajya
+	max_settlements = 2
+	culture = lombard
+	religion = catholic
+	b_atailula = tribal

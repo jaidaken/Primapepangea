@@ -1,0 +1,5 @@
+	title = c_bencel
+	max_settlements = 2
+	culture = nubian
+	religion = finnish_pagan
+	b_agaan = tribal

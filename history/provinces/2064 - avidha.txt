@@ -1,0 +1,5 @@
+	title = c_avidha
+	max_settlements = 2
+	culture = mordvin
+	religion = aztec
+	b_egereka = tribal

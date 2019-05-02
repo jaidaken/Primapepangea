@@ -1,0 +1,5 @@
+	title = c_delusa
+	max_settlements = 2
+	culture = persian
+	religion = waldensian
+	b_weke = tribal

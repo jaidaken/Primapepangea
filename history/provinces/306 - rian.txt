@@ -1,0 +1,5 @@
+	title = c_rian
+	max_settlements = 3
+	culture = danish
+	religion = pagan
+	b_dubad = tribal

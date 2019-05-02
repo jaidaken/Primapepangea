@@ -1,0 +1,5 @@
+	title = c_rafaut
+	max_settlements = 2
+	culture = manden
+	religion = zoroastrian
+	b_asaul = tribal

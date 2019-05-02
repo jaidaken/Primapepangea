@@ -1,0 +1,5 @@
+	title = c_digita
+	max_settlements = 2
+	culture = lappish
+	religion = taoist
+	b_ranetam = tribal

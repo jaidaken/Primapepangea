@@ -1,0 +1,5 @@
+	title = c_keth
+	max_settlements = 2
+	culture = kirghiz
+	religion = mazdaki
+	b_karopir = tribal

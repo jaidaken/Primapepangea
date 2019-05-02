@@ -1,0 +1,5 @@
+	title = c_asodilzi
+	max_settlements = 2
+	culture = zaghawa
+	religion = orthodox
+	b_lodutt = tribal

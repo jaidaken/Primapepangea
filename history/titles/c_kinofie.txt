@@ -1,0 +1,80 @@
+758.2.1 = {
+	holder = 1000056
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002979
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_ejinaye
+}
+
+758.2.4 = {
+	holder = 1002980
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1002977
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+900.2.1 = {
+	holder = 1017735
+}
+
+957.2.1 = {
+	holder = 1018696
+}
+
+958.2.1 = {
+	holder = 1021281
+}
+
+995.2.1 = {
+	holder = 1022235
+}
+
+1000.2.1 = {
+	liege = d_kesil
+}
+
+1000.2.2 = {
+	holder = 1023002
+}
+
+1001.2.1 = {
+	holder = 1023038
+}
+
+1012.2.1 = {
+	holder = 1023456
+}
+
+1018.2.1 = {
+	holder = 1023699
+}
+
+1029.2.1 = {
+	liege = d_ejinaye
+}
+
+1029.2.2 = {
+	holder = 1024119
+}
+
+1052.2.1 = {
+	liege = d_kesil
+}
+
+1052.2.2 = {
+	holder = 1024314
+}
+

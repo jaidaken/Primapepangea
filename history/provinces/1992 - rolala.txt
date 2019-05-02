@@ -1,0 +1,5 @@
+	title = c_rolala
+	max_settlements = 2
+	culture = nepali
+	religion = yazidi
+	b_kunatun = tribal

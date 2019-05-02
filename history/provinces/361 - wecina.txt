@@ -1,0 +1,5 @@
+	title = c_wecina
+	max_settlements = 2
+	culture = khanty
+	religion = hurufi
+	b_nite = tribal

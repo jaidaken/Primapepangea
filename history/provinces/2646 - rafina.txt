@@ -1,0 +1,5 @@
+	title = c_rafina
+	max_settlements = 3
+	culture = rajput
+	religion = jewish
+	b_qeraoci = tribal

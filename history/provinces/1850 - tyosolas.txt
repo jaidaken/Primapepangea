@@ -1,0 +1,5 @@
+	title = c_tyosolas
+	max_settlements = 2
+	culture = suebi
+	religion = mazdaki
+	b_egovilas = tribal

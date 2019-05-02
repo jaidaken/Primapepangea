@@ -1,0 +1,5 @@
+	title = c_tanalma
+	max_settlements = 2
+	culture = dutch
+	religion = interface_skin
+	b_robife = tribal

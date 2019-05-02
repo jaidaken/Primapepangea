@@ -1,0 +1,5 @@
+	title = c_ryahemka
+	max_settlements = 2
+	culture = hungarian
+	religion = iconoclast
+	b_wotinga = tribal

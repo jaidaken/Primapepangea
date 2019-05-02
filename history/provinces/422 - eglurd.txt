@@ -1,0 +1,5 @@
+	title = c_eglurd
+	max_settlements = 3
+	culture = tangut
+	religion = sunni
+	b_besurd = tribal

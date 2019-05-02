@@ -1,0 +1,5 @@
+	title = c_kabaach
+	max_settlements = 2
+	culture = telugu
+	religion = iconoclast
+	b_belaach = tribal

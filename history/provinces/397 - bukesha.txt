@@ -1,0 +1,5 @@
+	title = c_bukesha
+	max_settlements = 2
+	culture = outremer
+	religion = waldensian
+	b_burara = tribal

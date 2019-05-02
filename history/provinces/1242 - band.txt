@@ -1,0 +1,5 @@
+	title = c_band
+	max_settlements = 2
+	culture = castillan
+	religion = hindu
+	b_romand = tribal

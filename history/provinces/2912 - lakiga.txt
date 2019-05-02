@@ -1,0 +1,5 @@
+	title = c_lakiga
+	max_settlements = 2
+	culture = khazar
+	religion = manichean
+	b_dibanda = tribal

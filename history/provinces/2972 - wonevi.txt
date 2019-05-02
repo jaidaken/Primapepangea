@@ -1,0 +1,5 @@
+	title = c_wonevi
+	max_settlements = 2
+	culture = lappish
+	religion = nestorian
+	b_qiyapta = tribal

@@ -1,0 +1,60 @@
+758.2.1 = {
+	holder = 1000025
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = d_barcus
+}
+
+758.2.3 = {
+	liege = d_ledurak
+}
+
+758.2.4 = {
+	holder = 1001498
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+900.2.1 = {
+	holder = 1016252
+}
+
+908.2.1 = {
+	holder = 1019173
+}
+
+924.2.1 = {
+	liege = d_bigayra
+}
+
+924.2.2 = {
+	liege = d_sadhi
+}
+
+924.2.3 = {
+	holder = 1019305
+}
+
+966.2.1 = {
+	holder = 1020290
+}
+
+995.2.1 = {
+	liege = d_bigayra
+}
+
+995.2.2 = {
+	liege = d_ledurak
+}
+
+995.2.3 = {
+	holder = 1021769
+}
+
+1029.2.1 = {
+	holder = 1022811
+}
+

@@ -1,0 +1,5 @@
+	title = c_enusiga
+	max_settlements = 2
+	culture = welsh
+	religion = pagan
+	b_qedund = tribal

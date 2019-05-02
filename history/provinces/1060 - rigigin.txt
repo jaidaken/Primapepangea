@@ -1,0 +1,5 @@
+	title = c_rigigin
+	max_settlements = 2
+	culture = arberian
+	religion = color
+	b_weoriam = tribal

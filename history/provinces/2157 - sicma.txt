@@ -1,0 +1,5 @@
+	title = c_sicma
+	max_settlements = 2
+	culture = romanian
+	religion = pagan
+	b_timirc = tribal

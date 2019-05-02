@@ -1,0 +1,5 @@
+	title = c_nonyne
+	max_settlements = 2
+	culture = sephardi
+	religion = taoist
+	b_tivoete = tribal

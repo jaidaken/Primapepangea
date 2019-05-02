@@ -1,0 +1,5 @@
+	title = c_qanund
+	max_settlements = 2
+	culture = prussian
+	religion = samaritan
+	b_satinic = tribal

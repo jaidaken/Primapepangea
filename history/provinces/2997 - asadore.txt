@@ -1,0 +1,5 @@
+	title = c_asadore
+	max_settlements = 2
+	culture = baloch
+	religion = norse_pagan_reformed
+	b_qijenna = tribal

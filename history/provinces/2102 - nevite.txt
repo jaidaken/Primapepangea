@@ -1,0 +1,5 @@
+	title = c_nevite
+	max_settlements = 2
+	culture = visigothic
+	religion = finnish_pagan_reformed
+	b_kamaly = tribal

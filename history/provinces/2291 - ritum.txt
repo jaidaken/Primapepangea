@@ -1,0 +1,5 @@
+	title = c_ritum
+	max_settlements = 2
+	culture = bulgarian
+	religion = pagan
+	b_sanaud = tribal

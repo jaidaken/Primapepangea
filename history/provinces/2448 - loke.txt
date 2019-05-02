@@ -1,0 +1,5 @@
+	title = c_loke
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = hindu
+	b_weuse = tribal

@@ -1,0 +1,5 @@
+	title = c_kerofan
+	max_settlements = 2
+	culture = scottish
+	religion = hellenic_pagan_reformed
+	b_erolani = tribal

@@ -1,0 +1,5 @@
+	title = c_tasarka
+	max_settlements = 2
+	culture = hausa
+	religion = pagan
+	b_kagyag = tribal

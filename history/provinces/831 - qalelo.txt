@@ -1,0 +1,5 @@
+	title = c_qalelo
+	max_settlements = 2
+	culture = rajput
+	religion = karaite
+	b_bozela = tribal

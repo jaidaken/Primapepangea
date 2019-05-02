@@ -1,0 +1,5 @@
+	title = c_tabarya
+	max_settlements = 2
+	culture = mongol
+	religion = zun_pagan_reformed
+	b_sitin = tribal

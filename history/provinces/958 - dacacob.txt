@@ -1,0 +1,5 @@
+	title = c_dacacob
+	max_settlements = 2
+	culture = sumpa
+	religion = jewish
+	b_kezaina = tribal

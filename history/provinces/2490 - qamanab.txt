@@ -1,0 +1,5 @@
+	title = c_qamanab
+	max_settlements = 2
+	culture = khanty
+	religion = khurmazta
+	b_edavya = tribal

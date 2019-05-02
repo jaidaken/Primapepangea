@@ -1,0 +1,5 @@
+	title = c_saropir
+	max_settlements = 2
+	culture = nubian
+	religion = monophysite
+	b_sogacob = tribal

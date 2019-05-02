@@ -1,0 +1,330 @@
+758.2.1 = {
+	holder = 1000014
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000872
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_amacodar
+}
+
+758.2.4 = {
+	holder = 1000870
+	law = succ_elective_gavelkind
+	law = cognatic_succession
+}
+
+772.2.1 = {
+	holder = 1006898
+}
+
+781.2.1 = {
+	holder = 1009338
+}
+
+787.2.1 = {
+	holder = 1000100
+}
+
+818.2.1 = {
+	liege = d_tapupta
+}
+
+818.2.2 = {
+	liege = d_lezusoy
+}
+
+818.2.3 = {
+	holder = 1009319
+}
+
+830.2.1 = {
+	liege = d_kica
+}
+
+830.2.2 = {
+	holder = 1013679
+}
+
+830.2.3 = {
+	liege = k_sodar
+}
+
+847.2.1 = {
+	liege = d_diyasan
+}
+
+847.2.2 = {
+	liege = d_ralataw
+}
+
+847.2.3 = {
+	liege = d_lezald
+}
+
+847.2.4 = {
+	liege = d_qahuipta
+}
+
+847.2.5 = {
+	liege = d_amalanu
+}
+
+847.2.6 = {
+	liege = d_amacodar
+}
+
+847.2.7 = {
+	liege = d_tapupta
+}
+
+847.2.8 = {
+	liege = d_wazeyr
+}
+
+847.2.9 = {
+	liege = d_lezusoy
+}
+
+847.2.10 = {
+	liege = d_sasepa
+}
+
+847.2.11 = {
+	holder = 1015392
+}
+
+911.2.1 = {
+	holder = 1017213
+}
+
+911.2.2 = {
+	liege = k_sodar
+}
+
+927.2.1 = {
+	liege = d_reudataw
+}
+
+927.2.2 = {
+	liege = d_diyasan
+}
+
+927.2.3 = {
+	liege = d_ralataw
+}
+
+927.2.4 = {
+	liege = d_lezald
+}
+
+927.2.5 = {
+	liege = d_qahuipta
+}
+
+927.2.6 = {
+	liege = d_amalanu
+}
+
+927.2.7 = {
+	liege = d_amacodar
+}
+
+927.2.8 = {
+	liege = d_tapupta
+}
+
+927.2.9 = {
+	liege = d_wazeyr
+}
+
+927.2.10 = {
+	liege = d_lezusoy
+}
+
+927.2.11 = {
+	liege = d_sasepa
+}
+
+927.2.12 = {
+	holder = 1019448
+}
+
+958.2.1 = {
+	holder = 1020208
+}
+
+958.2.2 = {
+	liege = k_sodar
+}
+
+965.2.1 = {
+	liege = d_reudataw
+}
+
+965.2.2 = {
+	liege = d_diyasan
+}
+
+965.2.3 = {
+	liege = d_ralataw
+}
+
+965.2.4 = {
+	liege = d_lezald
+}
+
+965.2.5 = {
+	liege = d_qahuipta
+}
+
+965.2.6 = {
+	liege = d_amalanu
+}
+
+965.2.7 = {
+	liege = d_amacodar
+}
+
+965.2.8 = {
+	liege = d_tapupta
+}
+
+965.2.9 = {
+	liege = d_wazeyr
+}
+
+965.2.10 = {
+	liege = d_lezusoy
+}
+
+965.2.11 = {
+	liege = d_sasepa
+}
+
+965.2.12 = {
+	holder = 1021473
+}
+
+973.2.1 = {
+	holder = 1021883
+}
+
+996.2.1 = {
+	holder = 1022036
+}
+
+996.2.2 = {
+	liege = k_sodar
+}
+
+1019.2.1 = {
+	liege = d_reudataw
+}
+
+1019.2.2 = {
+	liege = d_diyasan
+}
+
+1019.2.3 = {
+	liege = d_ralataw
+}
+
+1019.2.4 = {
+	liege = d_lezald
+}
+
+1019.2.5 = {
+	liege = d_qahuipta
+}
+
+1019.2.6 = {
+	liege = d_amalanu
+}
+
+1019.2.7 = {
+	liege = d_amacodar
+}
+
+1019.2.8 = {
+	liege = d_tapupta
+}
+
+1019.2.9 = {
+	liege = d_wazeyr
+}
+
+1019.2.10 = {
+	liege = d_lezusoy
+}
+
+1019.2.11 = {
+	liege = d_sasepa
+}
+
+1019.2.12 = {
+	holder = 1022857
+}
+
+1033.2.1 = {
+	holder = 1024016
+}
+
+1033.2.2 = {
+	liege = k_sodar
+}
+
+1046.2.1 = {
+	liege = d_reudataw
+}
+
+1046.2.2 = {
+	liege = d_diyasan
+}
+
+1046.2.3 = {
+	liege = d_ralataw
+}
+
+1046.2.4 = {
+	liege = d_lezald
+}
+
+1046.2.5 = {
+	liege = d_qahuipta
+}
+
+1046.2.6 = {
+	liege = d_amalanu
+}
+
+1046.2.7 = {
+	liege = d_amacodar
+}
+
+1046.2.8 = {
+	liege = d_tapupta
+}
+
+1046.2.9 = {
+	liege = d_wazeyr
+}
+
+1046.2.10 = {
+	liege = d_lezusoy
+}
+
+1046.2.11 = {
+	liege = d_sasepa
+}
+
+1046.2.12 = {
+	holder = 1024739
+}
+

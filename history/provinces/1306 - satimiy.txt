@@ -1,0 +1,5 @@
+	title = c_satimiy
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = nestorian
+	b_tilaric = tribal

@@ -1,0 +1,5 @@
+	title = c_kamaly
+	max_settlements = 2
+	culture = avar
+	religion = interface_skin
+	b_rakite = tribal

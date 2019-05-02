@@ -1,0 +1,5 @@
+	title = c_tiporgil
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = miaphysite
+	b_qedey = tribal

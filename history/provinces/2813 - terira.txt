@@ -1,0 +1,5 @@
+	title = c_terira
+	max_settlements = 2
+	culture = nepali
+	religion = mazdaki
+	b_linanda = tribal

@@ -1,0 +1,5 @@
+	title = c_kionti
+	max_settlements = 2
+	culture = sinhala
+	religion = interface_skin
+	b_nezacob = tribal

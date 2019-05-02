@@ -1,0 +1,5 @@
+	title = c_egerika
+	max_settlements = 3
+	culture = danish
+	religion = jain
+	b_karalia = tribal

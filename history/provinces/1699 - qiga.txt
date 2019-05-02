@@ -1,0 +1,5 @@
+	title = c_qiga
+	max_settlements = 2
+	culture = uyghur
+	religion = baltic_pagan_reformed
+	b_reilew = tribal

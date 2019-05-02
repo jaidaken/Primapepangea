@@ -1,0 +1,160 @@
+758.2.1 = {
+	holder = 1000049
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1002721
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_bace
+}
+
+758.2.4 = {
+	holder = 1002722
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	liege = d_wakace
+}
+
+758.2.6 = {
+	holder = 1002706
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+796.2.1 = {
+	holder = 1006453
+}
+
+797.2.1 = {
+	holder = 1010330
+}
+
+853.2.1 = {
+	liege = d_ekaleka
+}
+
+853.2.2 = {
+	holder = 1013896
+}
+
+873.2.1 = {
+	liege = d_ryahemka
+}
+
+873.2.2 = {
+	holder = 1016612
+}
+
+873.2.3 = {
+	liege = k_qella
+}
+
+927.2.1 = {
+	liege = d_kyahyuva
+}
+
+927.2.2 = {
+	liege = d_ryahemka
+}
+
+927.2.3 = {
+	liege = d_wakace
+}
+
+927.2.4 = {
+	liege = d_tugapa
+}
+
+927.2.5 = {
+	liege = d_kanapa
+}
+
+927.2.6 = {
+	liege = d_ekaleka
+}
+
+927.2.7 = {
+	holder = 1018107
+}
+
+928.2.1 = {
+	holder = 1020092
+}
+
+945.2.1 = {
+	liege = d_kanapa
+}
+
+945.2.2 = {
+	liege = d_tugapa
+}
+
+945.2.3 = {
+	holder = 1020785
+}
+
+974.2.1 = {
+	liege = d_kanapa
+}
+
+974.2.2 = {
+	liege = d_ekaleka
+}
+
+974.2.3 = {
+	holder = 1021937
+}
+
+988.2.1 = {
+	liege = d_kanapa
+}
+
+988.2.2 = {
+	liege = d_tugapa
+}
+
+988.2.3 = {
+	holder = 1021980
+}
+
+992.2.1 = {
+	holder = 1022656
+}
+
+1019.2.1 = {
+	liege = d_kanapa
+}
+
+1019.2.2 = {
+	liege = d_ekaleka
+}
+
+1019.2.3 = {
+	holder = 1022950
+}
+
+1041.2.1 = {
+	holder = 1023882
+}
+
+1062.2.1 = {
+	liege = d_kanapa
+}
+
+1062.2.2 = {
+	liege = d_tugapa
+}
+
+1062.2.3 = {
+	holder = 1024689
+}
+

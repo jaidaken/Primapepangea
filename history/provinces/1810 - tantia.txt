@@ -1,0 +1,5 @@
+	title = c_tantia
+	max_settlements = 2
+	culture = sephardi
+	religion = khurmazta
+	b_ryoia = tribal

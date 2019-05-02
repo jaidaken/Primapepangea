@@ -1,0 +1,5 @@
+	title = c_ebrara
+	max_settlements = 2
+	culture = sindhi
+	religion = yazidi
+	b_kyaula = tribal

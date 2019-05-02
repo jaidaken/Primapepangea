@@ -1,0 +1,5 @@
+	title = c_kulemar
+	max_settlements = 2
+	culture = serbian
+	religion = lollard
+	b_wanavi = tribal

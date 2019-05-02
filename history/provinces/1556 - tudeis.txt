@@ -1,0 +1,5 @@
+	title = c_tudeis
+	max_settlements = 2
+	culture = lithuanian
+	religion = zun_pagan_reformed
+	b_nirad = tribal

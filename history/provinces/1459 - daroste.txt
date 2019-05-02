@@ -1,0 +1,5 @@
+	title = c_daroste
+	max_settlements = 2
+	culture = komi
+	religion = monophysite
+	b_rokine = tribal

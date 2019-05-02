@@ -1,0 +1,5 @@
+	title = c_reatdum
+	max_settlements = 2
+	culture = avar
+	religion = pagan
+	b_tyolaj = tribal

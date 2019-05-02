@@ -1,0 +1,5 @@
+	title = c_land
+	max_settlements = 2
+	culture = nubian
+	religion = aztec_reformed
+	b_deniyar = tribal

@@ -1,0 +1,5 @@
+	title = c_tinan
+	max_settlements = 2
+	culture = coptic
+	religion = tengri_pagan_reformed
+	b_wyaa = tribal

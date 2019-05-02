@@ -1,0 +1,5 @@
+	title = c_qalayah
+	max_settlements = 3
+	culture = suebi
+	religion = monophysite
+	b_nilah = tribal

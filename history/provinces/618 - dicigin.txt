@@ -1,0 +1,5 @@
+	title = c_dicigin
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = interface_skin
+	b_wasar = tribal

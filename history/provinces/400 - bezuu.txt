@@ -1,0 +1,5 @@
+	title = c_bezuu
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = iconoclast
+	b_raman = tribal

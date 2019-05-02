@@ -1,0 +1,5 @@
+	title = c_tutedrik
+	max_settlements = 3
+	culture = panjabi
+	religion = west_african_pagan_reformed
+	b_netyg = tribal

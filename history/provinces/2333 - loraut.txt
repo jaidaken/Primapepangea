@@ -1,0 +1,5 @@
+	title = c_loraut
+	max_settlements = 3
+	culture = nepali
+	religion = aztec_reformed
+	b_dergan = tribal

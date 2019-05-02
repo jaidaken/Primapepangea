@@ -1,0 +1,5 @@
+	title = c_nyasom
+	max_settlements = 2
+	culture = assamese
+	religion = interface_skin
+	b_kipnoi = tribal

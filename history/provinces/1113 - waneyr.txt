@@ -1,0 +1,5 @@
+	title = c_waneyr
+	max_settlements = 2
+	culture = saka
+	religion = monothelite
+	b_tavalha = tribal

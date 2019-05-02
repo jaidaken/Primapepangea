@@ -1,0 +1,5 @@
+	title = c_senia
+	max_settlements = 2
+	culture = kurdish
+	religion = zun_pagan
+	b_direnia = tribal

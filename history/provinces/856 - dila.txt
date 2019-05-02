@@ -1,0 +1,5 @@
+	title = c_dila
+	max_settlements = 2
+	culture = songhay
+	religion = waldensian
+	b_tebila = tribal

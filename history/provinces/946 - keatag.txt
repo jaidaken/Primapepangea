@@ -1,0 +1,5 @@
+	title = c_keatag
+	max_settlements = 2
+	culture = danish
+	religion = zoroastrian
+	b_reraach = tribal

@@ -1,0 +1,5 @@
+	title = c_sozeth
+	max_settlements = 3
+	culture = maghreb_arabic
+	religion = sunni
+	b_sotaria = tribal

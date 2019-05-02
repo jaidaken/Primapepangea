@@ -1,0 +1,5 @@
+	title = c_dodand
+	max_settlements = 2
+	culture = finnish
+	religion = manichean
+	b_wadl = tribal

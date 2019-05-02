@@ -1,0 +1,5 @@
+	title = c_saniyar
+	max_settlements = 2
+	culture = assyrian
+	religion = baltic_pagan
+	b_reday = tribal

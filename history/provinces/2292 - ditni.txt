@@ -1,0 +1,5 @@
+	title = c_ditni
+	max_settlements = 2
+	culture = nubian
+	religion = cathar
+	b_kidhr = tribal

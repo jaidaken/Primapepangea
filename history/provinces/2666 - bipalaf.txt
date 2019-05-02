@@ -1,0 +1,5 @@
+	title = c_bipalaf
+	max_settlements = 2
+	culture = soninke
+	religion = jain
+	b_liralaf = tribal

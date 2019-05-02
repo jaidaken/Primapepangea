@@ -1,0 +1,5 @@
+	title = c_sasoger
+	max_settlements = 2
+	culture = irish
+	religion = messalian
+	b_noumyne = tribal

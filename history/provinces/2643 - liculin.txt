@@ -1,0 +1,5 @@
+	title = c_liculin
+	max_settlements = 2
+	culture = pommeranian
+	religion = zoroastrian
+	b_ruraj = tribal

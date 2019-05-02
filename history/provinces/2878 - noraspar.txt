@@ -1,0 +1,5 @@
+	title = c_noraspar
+	max_settlements = 2
+	culture = daju
+	religion = zun_pagan
+	b_woloche = tribal

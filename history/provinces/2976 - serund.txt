@@ -1,0 +1,5 @@
+	title = c_serund
+	max_settlements = 2
+	culture = persian
+	religion = hurufi
+	b_besina = tribal

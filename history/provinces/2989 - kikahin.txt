@@ -1,0 +1,5 @@
+	title = c_kikahin
+	max_settlements = 2
+	culture = panjabi
+	religion = waldensian
+	b_nazaway = tribal

@@ -1,0 +1,5 @@
+	title = c_lirinoi
+	max_settlements = 2
+	culture = bosnian
+	religion = jain
+	b_baganca = tribal

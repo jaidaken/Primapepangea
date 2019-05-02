@@ -1,0 +1,5 @@
+	title = c_tulusha
+	max_settlements = 2
+	culture = irish
+	religion = finnish_pagan
+	b_daeperia = tribal

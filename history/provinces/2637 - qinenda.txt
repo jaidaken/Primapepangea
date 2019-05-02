@@ -1,0 +1,5 @@
+	title = c_qinenda
+	max_settlements = 2
+	culture = pictish
+	religion = baltic_pagan
+	b_botanda = tribal

@@ -1,0 +1,5 @@
+	title = c_razona
+	max_settlements = 2
+	culture = coptic
+	religion = monophysite
+	b_rapasil = tribal

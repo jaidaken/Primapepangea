@@ -1,0 +1,5 @@
+	title = c_sudumo
+	max_settlements = 2
+	culture = scottish
+	religion = shiite
+	b_wudumo = tribal

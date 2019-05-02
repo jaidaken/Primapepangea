@@ -1,0 +1,5 @@
+	title = c_sedaut
+	max_settlements = 2
+	culture = bodpa
+	religion = monothelite
+	b_laditya = tribal

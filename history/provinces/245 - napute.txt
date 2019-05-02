@@ -1,0 +1,5 @@
+	title = c_napute
+	max_settlements = 3
+	culture = sogdian
+	religion = lollard
+	b_dorimon = tribal

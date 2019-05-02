@@ -1,0 +1,5 @@
+	title = c_ticai
+	max_settlements = 2
+	culture = sumpa
+	religion = finnish_pagan
+	b_retadir = tribal

@@ -1,0 +1,126 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000291
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_sanolun
+}
+
+758.2.4 = {
+	holder = 1000290
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+759.2.1 = {
+	holder = 1006339
+}
+
+811.2.1 = {
+	holder = 1010022
+}
+
+824.2.1 = {
+	holder = 1013068
+}
+
+865.2.1 = {
+	holder = 1015743
+}
+
+898.2.1 = {
+	liege = d_kuu
+}
+
+898.2.2 = {
+	liege = d_qamolun
+}
+
+898.2.3 = {
+	liege = d_bamabi
+}
+
+898.2.4 = {
+	liege = d_kurigun
+}
+
+898.2.5 = {
+	liege = d_dezusha
+}
+
+898.2.6 = {
+	liege = d_qodolun
+}
+
+898.2.7 = {
+	liege = d_kuohetu
+}
+
+898.2.8 = {
+	liege = d_nametu
+}
+
+898.2.9 = {
+	holder = 1016779
+}
+
+910.2.1 = {
+	liege = d_kuohetu
+}
+
+910.2.2 = {
+	liege = d_qodolun
+}
+
+910.2.3 = {
+	holder = 1018923
+}
+
+912.2.1 = {
+	holder = 1019353
+}
+
+920.2.1 = {
+	liege = d_kuohetu
+}
+
+920.2.2 = {
+	liege = d_nametu
+}
+
+920.2.3 = {
+	holder = 1019501
+}
+
+923.2.1 = {
+	holder = 1019849
+}
+
+950.2.1 = {
+	liege = d_kuohetu
+}
+
+950.2.2 = {
+	liege = d_qodolun
+}
+
+950.2.3 = {
+	holder = 1020160
+}
+
+989.2.1 = {
+	holder = 1021998
+}
+
+1028.2.1 = {
+	holder = 1023787
+}
+

@@ -1,0 +1,5 @@
+	title = c_relopir
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = bon_reformed
+	b_emacob = tribal

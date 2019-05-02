@@ -1,0 +1,5 @@
+	title = c_litina
+	max_settlements = 2
+	culture = songhay
+	religion = sunni
+	b_kuanala = tribal

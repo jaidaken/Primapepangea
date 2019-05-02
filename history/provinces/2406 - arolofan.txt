@@ -1,0 +1,5 @@
+	title = c_arolofan
+	max_settlements = 2
+	culture = italian
+	religion = west_african_pagan_reformed
+	b_derecla = tribal

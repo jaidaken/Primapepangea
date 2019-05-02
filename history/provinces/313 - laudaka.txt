@@ -1,0 +1,5 @@
+	title = c_laudaka
+	max_settlements = 2
+	culture = scottish
+	religion = jewish
+	b_dalanu = tribal

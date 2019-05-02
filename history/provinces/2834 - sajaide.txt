@@ -1,0 +1,5 @@
+	title = c_sajaide
+	max_settlements = 2
+	culture = samoyed
+	religion = hindu
+	b_anisaria = tribal

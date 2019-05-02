@@ -1,0 +1,5 @@
+	title = c_kaki
+	max_settlements = 2
+	culture = lettigallish
+	religion = hellenic_pagan
+	b_nusoy = tribal

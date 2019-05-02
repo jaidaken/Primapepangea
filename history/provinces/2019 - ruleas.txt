@@ -1,0 +1,5 @@
+	title = c_ruleas
+	max_settlements = 2
+	culture = kanuri
+	religion = lollard
+	b_tarude = tribal

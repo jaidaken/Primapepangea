@@ -1,0 +1,5 @@
+	title = c_danenna
+	max_settlements = 2
+	culture = tangut
+	religion = mazdaki
+	b_lely = tribal

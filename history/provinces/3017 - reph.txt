@@ -1,0 +1,5 @@
+	title = c_reph
+	max_settlements = 2
+	culture = tocharian
+	religion = interface_skin
+	b_bamagni = tribal

@@ -1,0 +1,5 @@
+	title = c_qodha
+	max_settlements = 2
+	culture = lithuanian
+	religion = lollard
+	b_tagana = tribal

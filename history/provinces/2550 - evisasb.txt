@@ -1,0 +1,5 @@
+	title = c_evisasb
+	max_settlements = 2
+	culture = scottish
+	religion = interface_skin
+	b_nalavan = tribal

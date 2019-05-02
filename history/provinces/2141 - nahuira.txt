@@ -1,0 +1,5 @@
+	title = c_nahuira
+	max_settlements = 2
+	culture = portuguese
+	religion = pagan
+	b_tapanu = tribal

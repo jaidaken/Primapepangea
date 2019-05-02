@@ -1,0 +1,5 @@
+	title = c_sesug
+	max_settlements = 2
+	culture = coptic
+	religion = cathar
+	b_agaretar = tribal

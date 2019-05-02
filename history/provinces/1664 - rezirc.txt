@@ -1,0 +1,5 @@
+	title = c_rezirc
+	max_settlements = 2
+	culture = oriya
+	religion = fraticelli
+	b_wezusoy = tribal

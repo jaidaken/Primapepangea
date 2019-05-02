@@ -1,0 +1,5 @@
+	title = c_kaloul
+	max_settlements = 4
+	culture = zhangzhung
+	religion = hurufi
+	b_ruduida = tribal

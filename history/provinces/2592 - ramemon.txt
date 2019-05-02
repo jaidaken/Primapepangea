@@ -1,0 +1,5 @@
+	title = c_ramemon
+	max_settlements = 2
+	culture = hindustani
+	religion = finnish_pagan
+	b_eprumo = tribal

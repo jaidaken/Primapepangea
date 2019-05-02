@@ -1,0 +1,5 @@
+	title = c_qerelw
+	max_settlements = 2
+	culture = somali
+	religion = khurmazta
+	b_tatard = tribal

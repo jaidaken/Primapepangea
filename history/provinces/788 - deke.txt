@@ -1,0 +1,5 @@
+	title = c_deke
+	max_settlements = 2
+	culture = avar
+	religion = samaritan
+	b_nudev = tribal

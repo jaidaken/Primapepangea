@@ -1,0 +1,5 @@
+	title = c_wisasb
+	max_settlements = 2
+	culture = khazar
+	religion = jewish
+	b_abasyag = tribal

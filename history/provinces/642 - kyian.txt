@@ -1,0 +1,5 @@
+	title = c_kyian
+	max_settlements = 2
+	culture = soninke
+	religion = aztec
+	b_lonia = tribal

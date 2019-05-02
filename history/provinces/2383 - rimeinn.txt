@@ -1,0 +1,5 @@
+	title = c_rimeinn
+	max_settlements = 2
+	culture = english
+	religion = west_african_pagan_reformed
+	b_sanom = tribal

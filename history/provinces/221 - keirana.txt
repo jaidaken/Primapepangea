@@ -1,0 +1,5 @@
+	title = c_keirana
+	max_settlements = 2
+	culture = portuguese
+	religion = ibadi
+	b_naisike = tribal

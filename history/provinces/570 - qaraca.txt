@@ -1,0 +1,5 @@
+	title = c_qaraca
+	max_settlements = 2
+	culture = meshchera
+	religion = baltic_pagan
+	b_rajko = tribal

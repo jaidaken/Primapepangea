@@ -1,0 +1,5 @@
+	title = c_nanadu
+	max_settlements = 2
+	culture = arberian
+	religion = interface_skin
+	b_ekedayra = tribal

@@ -1,0 +1,5 @@
+	title = c_sarsa
+	max_settlements = 2
+	culture = lombard
+	religion = kharijite
+	b_reatuu = tribal

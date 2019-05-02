@@ -1,0 +1,5 @@
+	title = c_nusha
+	max_settlements = 3
+	culture = songhay
+	religion = aztec_reformed
+	b_kyoleph = tribal

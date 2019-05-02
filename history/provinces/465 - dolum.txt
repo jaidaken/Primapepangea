@@ -1,0 +1,5 @@
+	title = c_dolum
+	max_settlements = 2
+	culture = khitan
+	religion = baltic_pagan
+	b_wevako = tribal

@@ -1,0 +1,5 @@
+	title = c_kailte
+	max_settlements = 2
+	culture = finnish
+	religion = zikri
+	b_daser = tribal

@@ -1,0 +1,5 @@
+	title = c_lisenr
+	max_settlements = 3
+	culture = komi
+	religion = bon_reformed
+	b_kosyuk = tribal

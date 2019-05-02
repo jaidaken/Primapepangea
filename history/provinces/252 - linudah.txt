@@ -1,0 +1,5 @@
+	title = c_linudah
+	max_settlements = 2
+	culture = han
+	religion = miaphysite
+	b_tomanna = tribal

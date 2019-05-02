@@ -1,0 +1,5 @@
+	title = c_roteth
+	max_settlements = 2
+	culture = rajput
+	religion = catholic
+	b_kafania = tribal

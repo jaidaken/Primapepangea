@@ -1,0 +1,5 @@
+	title = c_ezanda
+	max_settlements = 3
+	culture = portuguese
+	religion = monothelite
+	b_kanaus = tribal

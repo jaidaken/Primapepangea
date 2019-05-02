@@ -1,0 +1,5 @@
+	title = c_qalert
+	max_settlements = 3
+	culture = norman
+	religion = interface_skin
+	b_wosadl = tribal

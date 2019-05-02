@@ -1,0 +1,5 @@
+	title = c_tanuna
+	max_settlements = 2
+	culture = tocharian
+	religion = color
+	b_ruunuu = tribal

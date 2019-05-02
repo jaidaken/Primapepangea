@@ -1,0 +1,5 @@
+	title = c_asomatu
+	max_settlements = 2
+	culture = soninke
+	religion = pagan
+	b_kimarak = tribal

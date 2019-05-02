@@ -1,0 +1,5 @@
+	title = c_redonti
+	max_settlements = 2
+	culture = khazar
+	religion = manichean
+	b_diparta = tribal

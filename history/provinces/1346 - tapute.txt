@@ -1,0 +1,5 @@
+	title = c_tapute
+	max_settlements = 2
+	culture = mongol
+	religion = druze
+	b_rike = tribal

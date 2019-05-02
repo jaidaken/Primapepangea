@@ -1,0 +1,5 @@
+	title = c_wanoito
+	max_settlements = 2
+	culture = oriya
+	religion = shiite
+	b_wefan = tribal

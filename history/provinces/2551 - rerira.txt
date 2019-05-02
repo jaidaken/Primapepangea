@@ -1,0 +1,5 @@
+	title = c_rerira
+	max_settlements = 2
+	culture = ethiopian
+	religion = hindu
+	b_wisanda = tribal

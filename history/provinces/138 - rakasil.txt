@@ -1,0 +1,5 @@
+	title = c_rakasil
+	max_settlements = 2
+	culture = khitan
+	religion = kharijite
+	b_wyosumo = tribal

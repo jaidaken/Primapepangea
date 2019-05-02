@@ -1,0 +1,5 @@
+	title = c_qipeseto
+	max_settlements = 2
+	culture = zaghawa
+	religion = paulician
+	b_ecediga = tribal

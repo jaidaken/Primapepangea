@@ -1,0 +1,5 @@
+	title = c_quu
+	max_settlements = 2
+	culture = norwegian
+	religion = monophysite
+	b_kezuna = tribal

@@ -1,0 +1,5 @@
+	title = c_qosarka
+	max_settlements = 2
+	culture = kanuri
+	religion = fraticelli
+	b_adagarka = tribal

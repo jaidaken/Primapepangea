@@ -1,0 +1,5 @@
+	title = c_tuzite
+	max_settlements = 2
+	culture = rajput
+	religion = slavic_pagan
+	b_etamite = tribal

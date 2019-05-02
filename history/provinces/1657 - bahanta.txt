@@ -1,0 +1,5 @@
+	title = c_bahanta
+	max_settlements = 4
+	culture = turkish
+	religion = cathar
+	b_lofin = tribal

@@ -1,0 +1,5 @@
+	title = c_tiama
+	max_settlements = 2
+	culture = saka
+	religion = iconoclast
+	b_qagukar = tribal

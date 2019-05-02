@@ -1,0 +1,5 @@
+	title = c_alona
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = manichean
+	b_kozasa = tribal

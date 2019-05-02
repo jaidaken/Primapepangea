@@ -1,0 +1,82 @@
+758.2.1 = {
+	holder = 1004709
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_dutory
+}
+
+758.2.3 = {
+	liege = e_benasa
+}
+
+758.2.4 = {
+	liege = e_bomory
+}
+
+758.2.5 = {
+	liege = e_boracob
+}
+
+758.2.6 = {
+	liege = e_kolach
+}
+
+758.2.7 = {
+	liege = e_roubach
+}
+
+758.2.8 = {
+	liege = e_qolola
+}
+
+758.2.9 = {
+	liege = e_ninilda
+}
+
+765.2.1 = {
+	holder = 1006739
+}
+
+777.2.1 = {
+	holder = 1009301
+}
+
+810.2.1 = {
+	holder = 1011749
+}
+
+850.2.1 = {
+	holder = 1014854
+}
+
+867.2.1 = {
+	holder = 1016671
+}
+
+897.2.1 = {
+	holder = 1018199
+}
+
+968.2.1 = {
+	holder = 1019064
+}
+
+977.2.1 = {
+	holder = 1022059
+}
+
+1004.2.1 = {
+	holder = 1022394
+}
+
+1019.2.1 = {
+	holder = 1023227
+}
+
+1062.2.1 = {
+	holder = 1024116
+}
+

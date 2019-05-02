@@ -1,0 +1,82 @@
+758.2.1 = {
+	holder = 1000032
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001916
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_quanala
+}
+
+758.2.4 = {
+	liege = d_nigudit
+}
+
+758.2.5 = {
+	holder = 1001917
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+767.2.1 = {
+	holder = 1008124
+}
+
+789.2.1 = {
+	liege = d_quanala
+}
+
+789.2.2 = {
+	holder = 1010719
+}
+
+834.2.1 = {
+	holder = 1012131
+}
+
+858.2.1 = {
+	holder = 1015265
+}
+
+862.2.1 = {
+	holder = 1016726
+}
+
+872.2.1 = {
+	holder = 1017352
+}
+
+914.2.1 = {
+	holder = 1018409
+}
+
+928.2.1 = {
+	holder = 1020083
+}
+
+943.2.1 = {
+	holder = 1020180
+}
+
+950.2.1 = {
+	holder = 1020943
+}
+
+988.2.1 = {
+	holder = 1021578
+}
+
+1021.2.1 = {
+	holder = 1022682
+}
+
+1056.2.1 = {
+	holder = 1024028
+}
+

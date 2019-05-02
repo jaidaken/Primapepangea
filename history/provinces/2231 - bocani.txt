@@ -1,0 +1,5 @@
+	title = c_bocani
+	max_settlements = 2
+	culture = gujurati
+	religion = hellenic_pagan
+	b_liparta = tribal

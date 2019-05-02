@@ -1,0 +1,5 @@
+	title = c_ronataw
+	max_settlements = 2
+	culture = roman
+	religion = bon_reformed
+	b_keudevi = tribal

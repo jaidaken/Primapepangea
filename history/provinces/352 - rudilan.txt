@@ -1,0 +1,5 @@
+	title = c_rudilan
+	max_settlements = 2
+	culture = italian
+	religion = iconoclast
+	b_sudolt = tribal

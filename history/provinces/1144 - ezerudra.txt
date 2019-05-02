@@ -1,0 +1,5 @@
+	title = c_ezerudra
+	max_settlements = 2
+	culture = oriya
+	religion = cathar
+	b_ahavka = tribal

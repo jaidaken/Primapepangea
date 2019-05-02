@@ -1,0 +1,5 @@
+	title = c_tocaud
+	max_settlements = 2
+	culture = swedish
+	religion = monothelite
+	b_ridhum = tribal

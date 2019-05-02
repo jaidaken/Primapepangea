@@ -1,0 +1,5 @@
+	title = c_rezelen
+	max_settlements = 3
+	culture = dutch
+	religion = kharijite
+	b_sugirna = tribal

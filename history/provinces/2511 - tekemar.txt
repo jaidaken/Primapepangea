@@ -1,0 +1,5 @@
+	title = c_tekemar
+	max_settlements = 3
+	culture = uyghur
+	religion = fraticelli
+	b_racemar = tribal

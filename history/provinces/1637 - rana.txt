@@ -1,0 +1,5 @@
+	title = c_rana
+	max_settlements = 2
+	culture = castillan
+	religion = color
+	b_tedane = tribal

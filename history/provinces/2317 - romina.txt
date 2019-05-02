@@ -1,0 +1,5 @@
+	title = c_romina
+	max_settlements = 2
+	culture = manden
+	religion = monophysite
+	b_wuehama = tribal

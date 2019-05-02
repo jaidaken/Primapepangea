@@ -1,0 +1,5 @@
+	title = c_nanerni
+	max_settlements = 2
+	culture = afghan
+	religion = lollard
+	b_kanerni = tribal

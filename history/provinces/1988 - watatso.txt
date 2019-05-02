@@ -1,0 +1,5 @@
+	title = c_watatso
+	max_settlements = 3
+	culture = tangut
+	religion = hurufi
+	b_rilyai = tribal

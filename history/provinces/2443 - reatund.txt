@@ -1,0 +1,5 @@
+	title = c_reatund
+	max_settlements = 2
+	culture = kannada
+	religion = ibadi
+	b_tevuna = tribal

@@ -1,0 +1,5 @@
+	title = c_wicura
+	max_settlements = 2
+	culture = zaghawa
+	religion = bogomilist
+	b_enanabah = tribal

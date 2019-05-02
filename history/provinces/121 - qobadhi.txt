@@ -1,0 +1,5 @@
+	title = c_qobadhi
+	max_settlements = 2
+	culture = norse
+	religion = yazidi
+	b_qakurak = tribal

@@ -1,0 +1,5 @@
+	title = c_kidinio
+	max_settlements = 2
+	culture = han
+	religion = aztec
+	b_tirassa = tribal

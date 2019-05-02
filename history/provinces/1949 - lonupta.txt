@@ -1,0 +1,5 @@
+	title = c_lonupta
+	max_settlements = 2
+	culture = lettigallish
+	religion = ibadi
+	b_bahuitaw = tribal

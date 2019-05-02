@@ -1,0 +1,5 @@
+	title = c_narert
+	max_settlements = 2
+	culture = sumpa
+	religion = taoist
+	b_tibalha = tribal

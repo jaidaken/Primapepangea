@@ -1,0 +1,5 @@
+	title = c_kanani
+	max_settlements = 2
+	culture = telugu
+	religion = finnish_pagan
+	b_wipiga = tribal

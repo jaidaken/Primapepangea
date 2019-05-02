@@ -1,0 +1,5 @@
+	title = c_amadyag
+	max_settlements = 2
+	culture = zaghawa
+	religion = khurmazta
+	b_kutonti = tribal

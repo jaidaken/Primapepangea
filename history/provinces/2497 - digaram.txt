@@ -1,0 +1,5 @@
+	title = c_digaram
+	max_settlements = 3
+	culture = volhynian
+	religion = interface_skin
+	b_ajaninha = tribal

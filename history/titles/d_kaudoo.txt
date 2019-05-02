@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1003995
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = k_tenda
+}
+
+803.2.1 = {
+	holder = 1008190
+}
+
+819.2.1 = {
+	holder = 1012214
+}
+
+860.2.1 = {
+	holder = 1016105
+}
+
+893.2.1 = {
+	holder = 1017796
+}
+
+906.2.1 = {
+	holder = 1018711
+}
+
+942.2.1 = {
+	holder = 1019619
+}
+
+956.2.1 = {
+	holder = 1021210
+}
+
+1026.2.1 = {
+	holder = 1021327
+}
+
+1030.2.1 = {
+	holder = 1024169
+}
+

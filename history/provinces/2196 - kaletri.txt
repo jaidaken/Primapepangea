@@ -1,0 +1,5 @@
+	title = c_kaletri
+	max_settlements = 3
+	culture = outremer
+	religion = mazdaki
+	b_amander = tribal

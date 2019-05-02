@@ -1,0 +1,82 @@
+758.2.1 = {
+	holder = 1004713
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_tahevia
+}
+
+758.2.3 = {
+	liege = e_azdailte
+}
+
+758.2.4 = {
+	liege = e_erulia
+}
+
+758.2.5 = {
+	liege = e_tanusund
+}
+
+758.2.6 = {
+	liege = e_qenna
+}
+
+758.2.7 = {
+	liege = e_qenna
+}
+
+758.2.8 = {
+	liege = e_wimenna
+}
+
+788.2.1 = {
+	holder = 1007887
+}
+
+828.2.1 = {
+	holder = 1010814
+}
+
+854.2.1 = {
+	holder = 1016195
+}
+
+863.2.1 = {
+	holder = 1016393
+}
+
+895.2.1 = {
+	holder = 1017688
+}
+
+929.2.1 = {
+	holder = 1018750
+}
+
+946.2.1 = {
+	holder = 1020700
+}
+
+993.2.1 = {
+	holder = 1021491
+}
+
+1004.2.1 = {
+	holder = 1023154
+}
+
+1028.2.1 = {
+	holder = 1024072
+}
+
+1040.2.1 = {
+	holder = 1024118
+}
+
+1054.2.1 = {
+	holder = 1024728
+}
+

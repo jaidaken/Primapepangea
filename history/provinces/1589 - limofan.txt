@@ -1,0 +1,5 @@
+	title = c_limofan
+	max_settlements = 2
+	culture = komi
+	religion = slavic_pagan
+	b_dimiyu = tribal

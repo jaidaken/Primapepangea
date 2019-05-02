@@ -1,0 +1,5 @@
+	title = c_taliam
+	max_settlements = 2
+	culture = khitan
+	religion = pagan
+	b_teoreph = tribal

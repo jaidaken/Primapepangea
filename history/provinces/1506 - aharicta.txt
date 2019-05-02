@@ -1,0 +1,5 @@
+	title = c_aharicta
+	max_settlements = 2
+	culture = armenian
+	religion = buddhist
+	b_taman = tribal

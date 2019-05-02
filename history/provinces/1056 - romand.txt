@@ -1,0 +1,5 @@
+	title = c_romand
+	max_settlements = 2
+	culture = kurdish
+	religion = interface_skin
+	b_rodiam = tribal

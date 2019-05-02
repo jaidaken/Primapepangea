@@ -1,0 +1,5 @@
+	title = c_liraus
+	max_settlements = 2
+	culture = frankish
+	religion = pagan
+	b_ryasaus = tribal

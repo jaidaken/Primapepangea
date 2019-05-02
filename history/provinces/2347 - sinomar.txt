@@ -1,0 +1,5 @@
+	title = c_sinomar
+	max_settlements = 6
+	culture = han
+	religion = lollard
+	b_benilda = tribal

@@ -1,0 +1,5 @@
+	title = c_sonulev
+	max_settlements = 2
+	culture = han
+	religion = orthodox
+	b_anaarna = tribal

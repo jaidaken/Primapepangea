@@ -1,0 +1,5 @@
+	title = c_bibarna
+	max_settlements = 2
+	culture = pommeranian
+	religion = monothelite
+	b_suxanta = tribal

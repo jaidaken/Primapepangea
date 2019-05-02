@@ -1,0 +1,5 @@
+	title = c_nuirine
+	max_settlements = 3
+	culture = occitan
+	religion = nestorian
+	b_qutyg = tribal

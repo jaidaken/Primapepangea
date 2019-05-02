@@ -1,0 +1,5 @@
+	title = c_qalonse
+	max_settlements = 2
+	culture = polish
+	religion = catholic
+	b_wodeka = tribal

@@ -1,0 +1,5 @@
+	title = c_saligin
+	max_settlements = 2
+	culture = volhynian
+	religion = khurmazta
+	b_edanayra = tribal

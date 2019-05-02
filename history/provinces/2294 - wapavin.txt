@@ -1,0 +1,5 @@
+	title = c_wapavin
+	max_settlements = 2
+	culture = hausa
+	religion = cathar
+	b_dadila = tribal

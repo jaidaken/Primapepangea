@@ -1,0 +1,5 @@
+	title = c_kilanab
+	max_settlements = 3
+	culture = turkish
+	religion = fraticelli
+	b_ejamen = tribal

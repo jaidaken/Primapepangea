@@ -1,0 +1,5 @@
+	title = c_nakite
+	max_settlements = 2
+	culture = italian
+	religion = druze
+	b_buzewe = tribal

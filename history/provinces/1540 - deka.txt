@@ -1,0 +1,5 @@
+	title = c_deka
+	max_settlements = 2
+	culture = pictish
+	religion = iconoclast
+	b_tonse = tribal

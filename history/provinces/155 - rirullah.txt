@@ -1,0 +1,5 @@
+	title = c_rirullah
+	max_settlements = 2
+	culture = avar
+	religion = zikri
+	b_wucili = tribal

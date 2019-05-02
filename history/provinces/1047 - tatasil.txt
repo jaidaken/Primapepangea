@@ -1,0 +1,5 @@
+	title = c_tatasil
+	max_settlements = 2
+	culture = bosnian
+	religion = karaite
+	b_bazona = tribal

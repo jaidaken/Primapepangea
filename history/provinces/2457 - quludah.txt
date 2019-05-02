@@ -1,0 +1,5 @@
+	title = c_quludah
+	max_settlements = 2
+	culture = soninke
+	religion = karaite
+	b_takanna = tribal

@@ -1,0 +1,5 @@
+	title = c_ronkan
+	max_settlements = 2
+	culture = khitan
+	religion = ibadi
+	b_aniriata = tribal

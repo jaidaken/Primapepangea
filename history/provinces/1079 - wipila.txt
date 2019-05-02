@@ -1,0 +1,5 @@
+	title = c_wipila
+	max_settlements = 2
+	culture = nahuatl
+	religion = finnish_pagan_reformed
+	b_sateth = tribal

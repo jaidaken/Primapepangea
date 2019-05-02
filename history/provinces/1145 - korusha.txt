@@ -1,0 +1,5 @@
+	title = c_korusha
+	max_settlements = 2
+	culture = occitan
+	religion = yazidi
+	b_keatata = tribal

@@ -1,0 +1,5 @@
+	title = c_kacom
+	max_settlements = 2
+	culture = khanty
+	religion = zikri
+	b_bilina = tribal

@@ -1,0 +1,5 @@
+	title = c_nierr
+	max_settlements = 2
+	culture = marathi
+	religion = interface_skin
+	b_noubry = tribal

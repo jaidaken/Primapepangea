@@ -1,0 +1,238 @@
+758.2.1 = {
+	holder = 1000047
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002581
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_lubasin
+}
+
+758.2.4 = {
+	holder = 1002579
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+785.2.1 = {
+	holder = 1008567
+}
+
+786.2.1 = {
+	holder = 1006765
+}
+
+825.2.1 = {
+	holder = 1010661
+}
+
+840.2.1 = {
+	holder = 1014499
+}
+
+916.2.1 = {
+	liege = d_raheaj
+}
+
+916.2.2 = {
+	liege = d_qaulev
+}
+
+916.2.3 = {
+	liege = d_sapa
+}
+
+916.2.4 = {
+	holder = 1016095
+}
+
+924.2.1 = {
+	liege = d_qaulev
+}
+
+924.2.2 = {
+	liege = d_raheaj
+}
+
+924.2.3 = {
+	liege = d_lubasin
+}
+
+924.2.4 = {
+	liege = d_tatodia
+}
+
+924.2.5 = {
+	liege = d_anaisha
+}
+
+924.2.6 = {
+	liege = d_kinha
+}
+
+924.2.7 = {
+	holder = 1019764
+}
+
+983.2.1 = {
+	liege = d_anaisha
+}
+
+983.2.2 = {
+	liege = d_tatodia
+}
+
+983.2.3 = {
+	liege = d_lubasin
+}
+
+983.2.4 = {
+	liege = d_raheaj
+}
+
+983.2.5 = {
+	liege = d_qaulev
+}
+
+983.2.6 = {
+	liege = d_sapa
+}
+
+983.2.7 = {
+	holder = 1020553
+}
+
+993.2.1 = {
+	holder = 1022492
+}
+
+996.2.1 = {
+	holder = 1022825
+}
+
+1016.2.1 = {
+	liege = d_qaulev
+}
+
+1016.2.2 = {
+	liege = d_raheaj
+}
+
+1016.2.3 = {
+	liege = d_lubasin
+}
+
+1016.2.4 = {
+	liege = d_tatodia
+}
+
+1016.2.5 = {
+	liege = d_anaisha
+}
+
+1016.2.6 = {
+	liege = d_kinha
+}
+
+1016.2.7 = {
+	holder = 1023109
+}
+
+1025.2.1 = {
+	liege = d_anaisha
+}
+
+1025.2.2 = {
+	liege = d_tatodia
+}
+
+1025.2.3 = {
+	liege = d_lubasin
+}
+
+1025.2.4 = {
+	liege = d_raheaj
+}
+
+1025.2.5 = {
+	liege = d_qaulev
+}
+
+1025.2.6 = {
+	liege = d_sapa
+}
+
+1025.2.7 = {
+	holder = 1023763
+}
+
+1033.2.1 = {
+	holder = 1024283
+}
+
+1042.2.1 = {
+	liege = d_qaulev
+}
+
+1042.2.2 = {
+	liege = d_raheaj
+}
+
+1042.2.3 = {
+	liege = d_lubasin
+}
+
+1042.2.4 = {
+	liege = d_tatodia
+}
+
+1042.2.5 = {
+	liege = d_anaisha
+}
+
+1042.2.6 = {
+	liege = d_kinha
+}
+
+1042.2.7 = {
+	holder = 1024504
+}
+
+1058.2.1 = {
+	holder = 1025271
+}
+
+1065.2.1 = {
+	liege = d_anaisha
+}
+
+1065.2.2 = {
+	liege = d_tatodia
+}
+
+1065.2.3 = {
+	liege = d_lubasin
+}
+
+1065.2.4 = {
+	liege = d_raheaj
+}
+
+1065.2.5 = {
+	liege = d_qaulev
+}
+
+1065.2.6 = {
+	liege = d_sapa
+}
+
+1065.2.7 = {
+	holder = 1023811
+}
+

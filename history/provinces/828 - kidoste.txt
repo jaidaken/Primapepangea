@@ -1,0 +1,5 @@
+	title = c_kidoste
+	max_settlements = 3
+	culture = greek
+	religion = cathar
+	b_lutigrid = tribal

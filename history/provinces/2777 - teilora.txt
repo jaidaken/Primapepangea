@@ -1,0 +1,5 @@
+	title = c_teilora
+	max_settlements = 2
+	culture = nahuatl
+	religion = iconoclast
+	b_kufina = tribal

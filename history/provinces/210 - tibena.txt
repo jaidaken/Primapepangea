@@ -1,0 +1,5 @@
+	title = c_tibena
+	max_settlements = 2
+	culture = tangut
+	religion = cathar
+	b_edobulev = tribal

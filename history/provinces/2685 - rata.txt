@@ -1,0 +1,5 @@
+	title = c_rata
+	max_settlements = 3
+	culture = coptic
+	religion = norse_pagan_reformed
+	b_lulilo = tribal

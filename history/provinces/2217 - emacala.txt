@@ -1,0 +1,5 @@
+	title = c_emacala
+	max_settlements = 2
+	culture = zaghawa
+	religion = baltic_pagan_reformed
+	b_tesh = tribal

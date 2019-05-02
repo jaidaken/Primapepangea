@@ -1,0 +1,5 @@
+	title = c_tutind
+	max_settlements = 3
+	culture = bedouin_arabic
+	religion = mazdaki
+	b_tusind = tribal

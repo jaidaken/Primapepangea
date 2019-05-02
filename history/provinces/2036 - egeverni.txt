@@ -1,0 +1,5 @@
+	title = c_egeverni
+	max_settlements = 5
+	culture = russian
+	religion = jain
+	b_leratso = tribal

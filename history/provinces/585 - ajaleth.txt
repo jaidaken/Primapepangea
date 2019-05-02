@@ -1,0 +1,5 @@
+	title = c_ajaleth
+	max_settlements = 2
+	culture = old_frankish
+	religion = interface_skin
+	b_tiduag = tribal

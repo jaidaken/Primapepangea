@@ -1,0 +1,5 @@
+	title = c_weupega
+	max_settlements = 2
+	culture = daju
+	religion = taoist
+	b_bega = tribal

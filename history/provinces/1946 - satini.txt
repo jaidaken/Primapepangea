@@ -1,0 +1,5 @@
+	title = c_satini
+	max_settlements = 2
+	culture = assyrian
+	religion = jewish
+	b_wapena = tribal

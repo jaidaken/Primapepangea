@@ -1,0 +1,5 @@
+	title = c_tilarah
+	max_settlements = 2
+	culture = mordvin
+	religion = catholic
+	b_kahahim = tribal

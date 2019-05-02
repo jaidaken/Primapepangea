@@ -1,0 +1,5 @@
+	title = c_kuzite
+	max_settlements = 2
+	culture = bohemian
+	religion = manichean
+	b_neubite = tribal

@@ -1,0 +1,5 @@
+	title = c_wimoot
+	max_settlements = 2
+	culture = dutch
+	religion = hurufi
+	b_atimala = tribal

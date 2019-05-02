@@ -1,0 +1,5 @@
+	title = c_ranund
+	max_settlements = 2
+	culture = german
+	religion = khurmazta
+	b_qeahetu = tribal

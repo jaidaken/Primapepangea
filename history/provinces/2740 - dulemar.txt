@@ -1,0 +1,5 @@
+	title = c_dulemar
+	max_settlements = 2
+	culture = saka
+	religion = interface_skin
+	b_kukac = tribal

@@ -1,0 +1,5 @@
+	title = c_tamur
+	max_settlements = 2
+	culture = russian
+	religion = druze
+	b_bakulia = tribal

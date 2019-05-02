@@ -1,0 +1,5 @@
+	title = c_wegeth
+	max_settlements = 2
+	culture = lithuanian
+	religion = hindu
+	b_rogacob = tribal

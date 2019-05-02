@@ -1,0 +1,5 @@
+	title = c_rara
+	max_settlements = 2
+	culture = norwegian
+	religion = zoroastrian
+	b_warust = tribal

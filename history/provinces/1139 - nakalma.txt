@@ -1,0 +1,5 @@
+	title = c_nakalma
+	max_settlements = 2
+	culture = lappish
+	religion = zun_pagan_reformed
+	b_nalili = tribal

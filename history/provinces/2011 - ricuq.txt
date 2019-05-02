@@ -1,0 +1,5 @@
+	title = c_ricuq
+	max_settlements = 2
+	culture = hungarian
+	religion = slavic_pagan_reformed
+	b_etapevi = tribal

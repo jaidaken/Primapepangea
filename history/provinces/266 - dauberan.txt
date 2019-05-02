@@ -1,0 +1,5 @@
+	title = c_dauberan
+	max_settlements = 2
+	culture = old_saxon
+	religion = bon_reformed
+	b_ereran = tribal

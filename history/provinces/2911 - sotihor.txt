@@ -1,0 +1,5 @@
+	title = c_sotihor
+	max_settlements = 2
+	culture = cuman
+	religion = interface_skin
+	b_tadanga = tribal

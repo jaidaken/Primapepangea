@@ -1,0 +1,5 @@
+	title = c_rezevi
+	max_settlements = 2
+	culture = hindustani
+	religion = color
+	b_adataw = tribal

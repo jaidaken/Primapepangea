@@ -1,0 +1,5 @@
+	title = c_liyar
+	max_settlements = 2
+	culture = sephardi
+	religion = interface_skin
+	b_eratora = tribal

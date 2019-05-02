@@ -1,0 +1,5 @@
+	title = c_sosarka
+	max_settlements = 2
+	culture = greek
+	religion = tengri_pagan_reformed
+	b_qisasb = tribal

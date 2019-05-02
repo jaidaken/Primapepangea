@@ -1,0 +1,5 @@
+	title = c_qusig
+	max_settlements = 4
+	culture = uyghur
+	religion = interface_skin
+	b_aghund = tribal

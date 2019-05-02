@@ -1,0 +1,5 @@
+	title = c_navka
+	max_settlements = 2
+	culture = georgian
+	religion = lollard
+	b_naameter = tribal

@@ -1,0 +1,5 @@
+	title = c_ecruraj
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = druze
+	b_kanetar = tribal

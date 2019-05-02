@@ -1,0 +1,5 @@
+	title = c_azadaway
+	max_settlements = 3
+	culture = norman
+	religion = west_african_pagan
+	b_tebaut = tribal

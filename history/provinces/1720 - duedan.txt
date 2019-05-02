@@ -1,0 +1,5 @@
+	title = c_duedan
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = hindu
+	b_qonse = tribal

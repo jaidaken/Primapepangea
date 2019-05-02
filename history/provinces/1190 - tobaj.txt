@@ -1,0 +1,5 @@
+	title = c_tobaj
+	max_settlements = 2
+	culture = greek
+	religion = pagan
+	b_estueri = tribal

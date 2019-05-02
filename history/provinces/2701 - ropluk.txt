@@ -1,0 +1,5 @@
+	title = c_ropluk
+	max_settlements = 2
+	culture = uyghur
+	religion = zoroastrian
+	b_ezeydu = tribal

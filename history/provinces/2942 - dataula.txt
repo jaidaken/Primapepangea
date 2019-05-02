@@ -1,0 +1,5 @@
+	title = c_dataula
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = miaphysite
+	b_qudha = tribal

@@ -1,0 +1,5 @@
+	title = c_qili
+	max_settlements = 2
+	culture = oriya
+	religion = messalian
+	b_rokith = tribal

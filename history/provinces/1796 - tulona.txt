@@ -1,0 +1,5 @@
+	title = c_tulona
+	max_settlements = 2
+	culture = mordvin
+	religion = tengri_pagan
+	b_dunona = tribal

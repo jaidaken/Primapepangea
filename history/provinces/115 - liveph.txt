@@ -1,0 +1,5 @@
+	title = c_liveph
+	max_settlements = 2
+	culture = panjabi
+	religion = hellenic_pagan_reformed
+	b_dobigin = tribal

@@ -1,0 +1,5 @@
+	title = c_ryosiala
+	max_settlements = 2
+	culture = assyrian
+	religion = bon_reformed
+	b_rivurva = tribal

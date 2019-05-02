@@ -1,0 +1,5 @@
+	title = c_echicro
+	max_settlements = 2
+	culture = bohemian
+	religion = karaite
+	b_esoabath = tribal

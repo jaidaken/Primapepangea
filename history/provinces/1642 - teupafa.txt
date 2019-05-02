@@ -1,0 +1,5 @@
+	title = c_teupafa
+	max_settlements = 2
+	culture = greek
+	religion = khurmazta
+	b_azumay = tribal

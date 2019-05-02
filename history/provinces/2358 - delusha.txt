@@ -1,0 +1,5 @@
+	title = c_delusha
+	max_settlements = 2
+	culture = frisian
+	religion = cathar
+	b_ledatani = tribal

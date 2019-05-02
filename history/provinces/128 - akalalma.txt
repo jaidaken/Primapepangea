@@ -1,0 +1,5 @@
+	title = c_akalalma
+	max_settlements = 2
+	culture = hungarian
+	religion = bogomilist
+	b_qili = tribal

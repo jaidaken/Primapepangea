@@ -1,0 +1,5 @@
+	title = c_radelund
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = color
+	b_safania = tribal

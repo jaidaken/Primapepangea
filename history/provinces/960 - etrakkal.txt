@@ -1,0 +1,5 @@
+	title = c_etrakkal
+	max_settlements = 2
+	culture = panjabi
+	religion = nestorian
+	b_qerusha = tribal

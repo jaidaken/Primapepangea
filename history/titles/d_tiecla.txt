@@ -1,0 +1,42 @@
+758.2.1 = {
+	holder = 1004508
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_reefa
+}
+
+784.2.1 = {
+	holder = 1007042
+}
+
+799.2.1 = {
+	holder = 1010788
+}
+
+821.2.1 = {
+	holder = 1012644
+}
+
+859.2.1 = {
+	holder = 1014668
+}
+
+882.2.1 = {
+	holder = 1016975
+}
+
+927.2.1 = {
+	holder = 1018770
+}
+
+964.2.1 = {
+	holder = 1020112
+}
+
+1067.2.1 = {
+	holder = 1024581
+}
+

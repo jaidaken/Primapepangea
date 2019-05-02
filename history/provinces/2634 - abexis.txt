@@ -1,0 +1,5 @@
+	title = c_abexis
+	max_settlements = 2
+	culture = norman
+	religion = lollard
+	b_asaman = tribal

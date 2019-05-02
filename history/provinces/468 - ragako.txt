@@ -1,0 +1,5 @@
+	title = c_ragako
+	max_settlements = 2
+	culture = bohemian
+	religion = interface_skin
+	b_kagusha = tribal

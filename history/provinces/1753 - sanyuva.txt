@@ -1,0 +1,5 @@
+	title = c_sanyuva
+	max_settlements = 2
+	culture = breton
+	religion = nestorian
+	b_kodiaco = tribal

@@ -1,0 +1,5 @@
+	title = c_tizirig
+	max_settlements = 2
+	culture = sindhi
+	religion = finnish_pagan
+	b_babom = tribal

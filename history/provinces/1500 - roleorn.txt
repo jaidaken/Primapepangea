@@ -1,0 +1,5 @@
+	title = c_roleorn
+	max_settlements = 2
+	culture = frankish
+	religion = druze
+	b_nilair = tribal

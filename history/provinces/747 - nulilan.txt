@@ -1,0 +1,5 @@
+	title = c_nulilan
+	max_settlements = 3
+	culture = frisian
+	religion = slavic_pagan
+	b_egyet = tribal

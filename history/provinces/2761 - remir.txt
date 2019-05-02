@@ -1,0 +1,5 @@
+	title = c_remir
+	max_settlements = 2
+	culture = lettigallish
+	religion = slavic_pagan
+	b_dulukac = tribal

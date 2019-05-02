@@ -1,0 +1,5 @@
+	title = c_tudopir
+	max_settlements = 4
+	culture = arberian
+	religion = monophysite
+	b_weganu = tribal

@@ -1,0 +1,5 @@
+	title = c_wogine
+	max_settlements = 2
+	culture = english
+	religion = bon_reformed
+	b_qogemar = tribal

@@ -1,0 +1,5 @@
+	title = c_satanab
+	max_settlements = 2
+	culture = tangut
+	religion = samaritan
+	b_wadyag = tribal

@@ -1,0 +1,5 @@
+	title = c_adanurak
+	max_settlements = 2
+	culture = nahuatl
+	religion = nestorian
+	b_taladir = tribal

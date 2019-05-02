@@ -1,0 +1,5 @@
+	title = c_bacisey
+	max_settlements = 2
+	culture = khanty
+	religion = karaite
+	b_kopolk = tribal

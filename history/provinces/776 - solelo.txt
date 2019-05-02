@@ -1,0 +1,5 @@
+	title = c_solelo
+	max_settlements = 2
+	culture = portuguese
+	religion = west_african_pagan
+	b_efolelo = tribal

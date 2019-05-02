@@ -1,0 +1,5 @@
+	title = c_qinila
+	max_settlements = 2
+	culture = russian
+	religion = monothelite
+	b_rakumo = tribal

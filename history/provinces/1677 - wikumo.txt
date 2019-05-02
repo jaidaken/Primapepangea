@@ -1,0 +1,5 @@
+	title = c_wikumo
+	max_settlements = 2
+	culture = samoyed
+	religion = samaritan
+	b_ridyag = tribal

@@ -1,0 +1,5 @@
+	title = c_kurenr
+	max_settlements = 2
+	culture = mongol
+	religion = ibadi
+	b_emurabi = tribal

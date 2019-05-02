@@ -1,0 +1,5 @@
+	title = c_sagafa
+	max_settlements = 2
+	culture = sindhi
+	religion = bogomilist
+	b_ragonti = tribal

@@ -1,0 +1,5 @@
+	title = c_sobara
+	max_settlements = 2
+	culture = norman
+	religion = waldensian
+	b_wolako = tribal

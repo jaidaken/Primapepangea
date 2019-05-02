@@ -1,0 +1,5 @@
+	title = c_qosorgil
+	max_settlements = 2
+	culture = khanty
+	religion = cathar
+	b_tosenr = tribal

@@ -1,0 +1,5 @@
+	title = c_ruind
+	max_settlements = 3
+	culture = bedouin_arabic
+	religion = jain
+	b_teudinde = tribal

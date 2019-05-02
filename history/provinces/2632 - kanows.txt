@@ -1,0 +1,5 @@
+	title = c_kanows
+	max_settlements = 2
+	culture = georgian
+	religion = bon
+	b_lanora = tribal

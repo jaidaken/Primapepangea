@@ -1,0 +1,5 @@
+	title = c_wuruzh
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = zoroastrian
+	b_rokuzh = tribal

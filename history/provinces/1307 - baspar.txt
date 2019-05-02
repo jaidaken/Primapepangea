@@ -1,0 +1,5 @@
+	title = c_baspar
+	max_settlements = 2
+	culture = sumpa
+	religion = monothelite
+	b_egyaia = tribal

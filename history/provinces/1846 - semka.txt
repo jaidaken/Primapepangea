@@ -1,0 +1,5 @@
+	title = c_semka
+	max_settlements = 3
+	culture = levantine_arabic
+	religion = nestorian
+	b_nalayka = tribal

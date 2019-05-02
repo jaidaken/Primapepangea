@@ -1,0 +1,5 @@
+	title = c_tareon
+	max_settlements = 2
+	culture = manden
+	religion = druze
+	b_byasalo = tribal

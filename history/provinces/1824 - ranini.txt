@@ -1,0 +1,5 @@
+	title = c_ranini
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = waldensian
+	b_nananini = tribal

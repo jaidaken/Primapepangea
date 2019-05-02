@@ -1,0 +1,5 @@
+	title = c_nicevi
+	max_settlements = 2
+	culture = old_saxon
+	religion = messalian
+	b_rekuqa = tribal

@@ -1,0 +1,5 @@
+	title = c_wasyag
+	max_settlements = 2
+	culture = mordvin
+	religion = buddhist
+	b_qavonti = tribal

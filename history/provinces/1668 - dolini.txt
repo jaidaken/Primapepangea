@@ -1,0 +1,5 @@
+	title = c_dolini
+	max_settlements = 2
+	culture = assyrian
+	religion = hindu
+	b_amatelw = tribal

@@ -1,0 +1,5 @@
+	title = c_keudius
+	max_settlements = 2
+	culture = somali
+	religion = druze
+	b_keududra = tribal

@@ -1,0 +1,5 @@
+	title = c_bainofie
+	max_settlements = 2
+	culture = jurchen
+	religion = miaphysite
+	b_acenola = tribal

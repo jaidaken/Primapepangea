@@ -1,0 +1,5 @@
+	title = c_kuida
+	max_settlements = 2
+	culture = marathi
+	religion = iconoclast
+	b_wencel = tribal

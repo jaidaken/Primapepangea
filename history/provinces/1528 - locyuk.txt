@@ -1,0 +1,5 @@
+	title = c_locyuk
+	max_settlements = 2
+	culture = catalan
+	religion = hindu
+	b_bosorgil = tribal

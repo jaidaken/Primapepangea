@@ -1,0 +1,5 @@
+	title = c_nolofan
+	max_settlements = 2
+	culture = kurdish
+	religion = tengri_pagan
+	b_lanelw = tribal

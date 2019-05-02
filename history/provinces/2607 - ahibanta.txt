@@ -1,0 +1,5 @@
+	title = c_ahibanta
+	max_settlements = 3
+	culture = lappish
+	religion = bon
+	b_kibumar = tribal

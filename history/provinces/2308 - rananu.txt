@@ -1,0 +1,5 @@
+	title = c_rananu
+	max_settlements = 2
+	culture = outremer
+	religion = tengri_pagan_reformed
+	b_bitini = tribal

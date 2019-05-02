@@ -1,0 +1,5 @@
+	title = c_rolelw
+	max_settlements = 2
+	culture = oriya
+	religion = samaritan
+	b_levini = tribal

@@ -1,0 +1,5 @@
+	title = c_barisla
+	max_settlements = 2
+	culture = zhangzhung
+	religion = jewish
+	b_wartan = tribal

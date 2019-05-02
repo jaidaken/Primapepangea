@@ -1,0 +1,5 @@
+	title = c_tidoun
+	max_settlements = 2
+	culture = german
+	religion = hurufi
+	b_ajamamed = tribal

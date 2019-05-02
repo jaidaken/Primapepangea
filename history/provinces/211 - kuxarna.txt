@@ -1,0 +1,5 @@
+	title = c_kuxarna
+	max_settlements = 2
+	culture = pommeranian
+	religion = bogomilist
+	b_sicta = tribal

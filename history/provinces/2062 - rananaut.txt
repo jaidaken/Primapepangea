@@ -1,0 +1,5 @@
+	title = c_rananaut
+	max_settlements = 2
+	culture = visigothic
+	religion = slavic_pagan
+	b_kanum = tribal

@@ -1,0 +1,5 @@
+	title = c_relert
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = orthodox
+	b_torand = tribal

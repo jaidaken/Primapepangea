@@ -1,0 +1,5 @@
+	title = c_dagahil
+	max_settlements = 3
+	culture = pictish
+	religion = interface_skin
+	b_taniray = tribal

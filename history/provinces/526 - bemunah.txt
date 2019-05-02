@@ -1,0 +1,5 @@
+	title = c_bemunah
+	max_settlements = 2
+	culture = croatian
+	religion = druze
+	b_ademows = tribal

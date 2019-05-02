@@ -1,0 +1,5 @@
+	title = c_bofarya
+	max_settlements = 2
+	culture = manden
+	religion = kharijite
+	b_seranta = tribal

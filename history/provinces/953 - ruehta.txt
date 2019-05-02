@@ -1,0 +1,5 @@
+	title = c_ruehta
+	max_settlements = 2
+	culture = bodpa
+	religion = paulician
+	b_nezafa = tribal

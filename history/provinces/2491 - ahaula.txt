@@ -1,0 +1,5 @@
+	title = c_ahaula
+	max_settlements = 2
+	culture = mordvin
+	religion = finnish_pagan
+	b_bireos = tribal

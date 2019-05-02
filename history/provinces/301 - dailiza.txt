@@ -1,0 +1,5 @@
+	title = c_dailiza
+	max_settlements = 2
+	culture = norman
+	religion = nestorian
+	b_dobulev = tribal

@@ -1,0 +1,5 @@
+	title = c_karory
+	max_settlements = 2
+	culture = carantanian
+	religion = monophysite
+	b_rutenzo = tribal

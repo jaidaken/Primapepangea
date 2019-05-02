@@ -1,0 +1,5 @@
+	title = c_nigeph
+	max_settlements = 2
+	culture = croatian
+	religion = hellenic_pagan
+	b_qife = tribal

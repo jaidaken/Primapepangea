@@ -1,0 +1,5 @@
+	title = c_acotund
+	max_settlements = 2
+	culture = romanian
+	religion = aztec
+	b_kaconda = tribal

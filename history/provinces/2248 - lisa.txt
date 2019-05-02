@@ -1,0 +1,5 @@
+	title = c_lisa
+	max_settlements = 4
+	culture = bodpa
+	religion = color
+	b_bivesh = tribal

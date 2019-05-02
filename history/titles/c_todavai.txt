@@ -1,0 +1,104 @@
+758.2.1 = {
+	holder = 1000044
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1002506
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_rudella
+}
+
+758.2.4 = {
+	holder = 1002507
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1002504
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+799.2.1 = {
+	holder = 1008141
+}
+
+824.2.1 = {
+	holder = 1011896
+}
+
+836.2.1 = {
+	holder = 1014250
+}
+
+860.2.1 = {
+	liege = d_lida
+}
+
+860.2.2 = {
+	liege = d_beraham
+}
+
+860.2.3 = {
+	holder = 1016537
+}
+
+885.2.1 = {
+	liege = d_lida
+}
+
+885.2.2 = {
+	holder = 1017584
+}
+
+890.2.1 = {
+	holder = 1018312
+}
+
+935.2.1 = {
+	holder = 1018892
+}
+
+948.2.1 = {
+	liege = d_beraham
+}
+
+948.2.2 = {
+	holder = 1020896
+}
+
+999.2.1 = {
+	holder = 1021089
+}
+
+1007.2.1 = {
+	liege = d_lida
+}
+
+1007.2.2 = {
+	holder = 1022995
+}
+
+1032.2.1 = {
+	liege = d_beraham
+}
+
+1032.2.2 = {
+	holder = 1023620
+}
+
+1050.2.1 = {
+	liege = d_lida
+}
+
+1050.2.2 = {
+	holder = 1024426
+}
+

@@ -1,0 +1,86 @@
+758.2.1 = {
+	holder = 1004608
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_ranahra
+}
+
+758.2.3 = {
+	liege = e_ribili
+}
+
+758.2.4 = {
+	liege = e_bedum
+}
+
+758.2.5 = {
+	liege = e_sanigun
+}
+
+758.2.6 = {
+	liege = e_detu
+}
+
+758.2.7 = {
+	liege = e_baubahra
+}
+
+758.2.8 = {
+	liege = e_rutert
+}
+
+758.2.9 = {
+	liege = e_raubili
+}
+
+758.2.10 = {
+	liege = e_senr
+}
+
+780.2.1 = {
+	holder = 1006567
+}
+
+822.2.1 = {
+	holder = 1010794
+}
+
+839.2.1 = {
+	holder = 1014299
+}
+
+858.2.1 = {
+	holder = 1012574
+}
+
+864.2.1 = {
+	holder = 1016349
+}
+
+921.2.1 = {
+	holder = 1017524
+}
+
+923.2.1 = {
+	holder = 1019851
+}
+
+966.2.1 = {
+	holder = 1019899
+}
+
+976.2.1 = {
+	holder = 1021999
+}
+
+1032.2.1 = {
+	holder = 1022797
+}
+
+1040.2.1 = {
+	holder = 1024261
+}
+

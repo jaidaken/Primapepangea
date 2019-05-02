@@ -1,0 +1,5 @@
+	title = c_ejiniaco
+	max_settlements = 2
+	culture = cuman
+	religion = west_african_pagan_reformed
+	b_ligiaco = tribal

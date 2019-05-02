@@ -1,0 +1,5 @@
+	title = c_webaise
+	max_settlements = 3
+	culture = levantine_arabic
+	religion = zoroastrian
+	b_ebeludor = tribal

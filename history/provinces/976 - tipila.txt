@@ -1,0 +1,5 @@
+	title = c_tipila
+	max_settlements = 2
+	culture = bulgarian
+	religion = baltic_pagan
+	b_tanorgil = tribal

@@ -1,0 +1,5 @@
+	title = c_qorarcas
+	max_settlements = 2
+	culture = kanuri
+	religion = aztec_reformed
+	b_rodiena = tribal
