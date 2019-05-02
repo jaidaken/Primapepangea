@@ -1,7 +1,7 @@
-name="Primortis"
-path="mod/Primortis"
+name="Primape Pangea"
+path="mod/PrimapePangea"
 dependencies = {  }
-user_dir = "Primortis"
+user_dir = "PrimapePangea"
 replace_path="history/titles"
 replace_path="history/characters"
 replace_path="history/wars"
